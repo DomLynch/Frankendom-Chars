@@ -28,7 +28,20 @@ jobs:
           sudo apt-get install -y libegl1 libgl1 libx11-6 libxi6 libxrender1 libxfixes3 libxkbcommon0 libxxf86vm1 libsm6 libice6 xvfb xauth
           python -m pip install --upgrade pip
           python -m pip install "bpy==5.2.2" requests numpy
+      - name: Prepare uncompressed elite donor
+        run: |
+          curl -L --fail --retry 4 \
+            "https://raw.githubusercontent.com/DomLynch/RPG-game/codex/01a09a76/task-1/public/looks/nightborn-L8.glb" \
+            -o /tmp/nightborn-L8-compressed.glb
+          npx --yes @gltf-transform/cli@4.2.1 copy \
+            /tmp/nightborn-L8-compressed.glb \
+            /tmp/nightborn-L8-decompressed.glb
+          test -s /tmp/nightborn-L8-decompressed.glb
+          ls -lh /tmp/nightborn-L8-*.glb
+
       - name: Build Pitborn L8
+        env:
+          PITBORN_L8_DONOR: /tmp/nightborn-L8-decompressed.glb
         run: xvfb-run -a python scripts/pitborn/build_l8_from_nightborn.py
       - name: Save exact pilot outputs
         run: |
