@@ -1,0 +1,69 @@
+name: Pitborn L8 reference refinement
+
+on:
+  push:
+    branches: [pitborn-l2-l10]
+    paths:
+      - ".github/workflows/pitborn-l8-refine.yml"
+      - "characters/pitborn/prompts/L8-kontext-v3.txt"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refine:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: pitborn-l2-l10
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: python -m pip install "gradio_client>=2.0.0"
+
+      - name: Refine candidate A
+        run: |
+          python scripts/pitborn/kontext_l8.py \
+            --image characters/pitborn/generated/donor/L8-reference-v2.png \
+            --prompt characters/pitborn/prompts/L8-kontext-v3.txt \
+            --out characters/pitborn/generated/donor/L8-reference-v3a.png \
+            --seed 290930 --guidance 3.5 --steps 30 --timeout-minutes 12
+
+      - name: Refine candidate B
+        run: |
+          python scripts/pitborn/kontext_l8.py \
+            --image characters/pitborn/generated/donor/L8-reference-v2.png \
+            --prompt characters/pitborn/prompts/L8-kontext-v3.txt \
+            --out characters/pitborn/generated/donor/L8-reference-v3b.png \
+            --seed 290931 --guidance 3.8 --steps 30 --timeout-minutes 12
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: pitborn-L8-refined
+          path: |
+            characters/pitborn/generated/donor/L8-reference-v3a.png
+            characters/pitborn/generated/donor/L8-reference-v3a.kontext.json
+            characters/pitborn/generated/donor/L8-reference-v3b.png
+            characters/pitborn/generated/donor/L8-reference-v3b.kontext.json
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: Commit refined references
+        if: success()
+        run: |
+          git config user.name "Frankendom Character Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git add characters/pitborn/generated/donor/L8-reference-v3a.png
+          git add characters/pitborn/generated/donor/L8-reference-v3a.kontext.json
+          git add characters/pitborn/generated/donor/L8-reference-v3b.png
+          git add characters/pitborn/generated/donor/L8-reference-v3b.kontext.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refine Pitborn L8 armour reference candidates [skip ci]"
+            git push origin HEAD:pitborn-l2-l10
+          fi
