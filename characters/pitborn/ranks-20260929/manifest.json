@@ -1,0 +1,105 @@
+{
+  "status": "review candidates; not game or phone approved",
+  "sourceSha256": "f202ebf6d119c08f37259965d1e34f4d5debc253631a765834693286461de86a",
+  "ranks": [
+    {
+      "rank": "L2",
+      "file": "pitborn-L2.glb",
+      "bytes": 23193144,
+      "sha256": "95161425b85433df4b735c94ce9dbbc3803b8ff701d6841f3fd4cafd2f8d7f8e",
+      "clips": 25,
+      "joints": 65,
+      "sampledPoseCount": 54,
+      "maxLongStretchedEdgeOccurrences": 0,
+      "previews": 10
+    },
+    {
+      "rank": "L3",
+      "file": "pitborn-L3.glb",
+      "bytes": 25197912,
+      "sha256": "709cd1318f016d030e8ff28e2f7fe9f2e243a27f970036a0281aa6f8d79d3689",
+      "clips": 25,
+      "joints": 65,
+      "sampledPoseCount": 54,
+      "maxLongStretchedEdgeOccurrences": 0,
+      "previews": 10
+    },
+    {
+      "rank": "L4",
+      "file": "pitborn-L4.glb",
+      "bytes": 25217508,
+      "sha256": "cbca266d8cf90d6122d81eb3861c0fe828b03c7804986e0f200bc0fdac9d1bf6",
+      "clips": 25,
+      "joints": 65,
+      "sampledPoseCount": 54,
+      "maxLongStretchedEdgeOccurrences": 0,
+      "previews": 10
+    },
+    {
+      "rank": "L5",
+      "file": "pitborn-L5.glb",
+      "bytes": 22896532,
+      "sha256": "7e264ae90cacc3d643406dca31daf5dbe8c920f0b43807b02794d9fa99c4ea96",
+      "clips": 25,
+      "joints": 65,
+      "sampledPoseCount": 54,
+      "maxLongStretchedEdgeOccurrences": 0,
+      "previews": 10
+    },
+    {
+      "rank": "L6",
+      "file": "pitborn-L6.glb",
+      "bytes": 23921448,
+      "sha256": "f55adca901136d931b5c0fe789b2540f59f06228177dac7c41d12292d7ad61c6",
+      "clips": 25,
+      "joints": 65,
+      "sampledPoseCount": 54,
+      "maxLongStretchedEdgeOccurrences": 0,
+      "previews": 10
+    },
+    {
+      "rank": "L7",
+      "file": "pitborn-L7.glb",
+      "bytes": 23060008,
+      "sha256": "f54eddf0af7ed9ca860cd8a73cec1e6d303ed9a35f0186bf247b694a7cd7e966",
+      "clips": 25,
+      "joints": 65,
+      "sampledPoseCount": 54,
+      "maxLongStretchedEdgeOccurrences": 0,
+      "previews": 10
+    },
+    {
+      "rank": "L8",
+      "file": "pitborn-L8.glb",
+      "bytes": 22699260,
+      "sha256": "a93a34ce6f89010a4190776f3c28e6e7e489ffe8d4b691c456e76dd68b25a330",
+      "clips": 25,
+      "joints": 65,
+      "sampledPoseCount": 54,
+      "maxLongStretchedEdgeOccurrences": 0,
+      "previews": 10
+    },
+    {
+      "rank": "L9",
+      "file": "pitborn-L9.glb",
+      "bytes": 20814680,
+      "sha256": "a42d89ed612a4553d8ff093bff6ce89b25e58029522eb8bba0d0af55361f4bd2",
+      "clips": 25,
+      "joints": 65,
+      "sampledPoseCount": 54,
+      "maxLongStretchedEdgeOccurrences": 0,
+      "previews": 10
+    },
+    {
+      "rank": "L10",
+      "file": "pitborn-L10.glb",
+      "bytes": 20301124,
+      "sha256": "a20ff89a48ec571cc13b7ebc3f34b60ebaf5a615273abdb0ac156bf3e4607c96",
+      "clips": 25,
+      "joints": 65,
+      "sampledPoseCount": 54,
+      "maxLongStretchedEdgeOccurrences": 0,
+      "previews": 10
+    }
+  ]
+}
