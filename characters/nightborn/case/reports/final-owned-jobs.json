@@ -1,0 +1,119 @@
+[
+  {
+    "script_sha256": "e8e7567672f04dde15eb6d1d57acbb10109f68f1e3a5d608a5ae0bf500f0efd1",
+    "id": "6aba79ac52d0dbd7f1da20a4",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba79ac52d0dbd7f1da20a4",
+    "script": "build-pilot-v4.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "f59457170d12aff30aa6695738cf090298121193aeac57f4ef37efeb7fa39cd5",
+    "id": "6aba7d676b030d633f69cfc2",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba7d676b030d633f69cfc2",
+    "script": "render-elites-v2-9.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "df5cc5f4c091f26494f03ad49e6a0bc0cb7a65b5fe529c088859a441b769cbcc",
+    "id": "6aba7c5c52d0dbd7f1da2157",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba7c5c52d0dbd7f1da2157",
+    "script": "build-L10.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "df9aca73db2684684d3c6d1a7f39e0aa60e53895620414e69c5fdc4263d34cae",
+    "id": "6aba79f252d0dbd7f1da20d4",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba79f252d0dbd7f1da20d4",
+    "script": "build-pilot-v5.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "c15555259c274aa473318222b0e046905379e642612a582a96ef5ba2722ad21d",
+    "id": "6aba78866b030d633f69cf37",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba78866b030d633f69cf37",
+    "script": "render-pilot-v3-8.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "bcdce4f042353e0736facbda3e874929fabae0cb5a358213c81701a905c09561",
+    "id": "6aba75c252d0dbd7f1da1fd2",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba75c252d0dbd7f1da1fd2",
+    "script": "pilot-v1.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "CANCELED"
+  },
+  {
+    "script_sha256": "50d1cd3ccf58604942da5c93a602325dffd4a0dfe1ba6eb035ecdb073d107550",
+    "id": "6aba7a8252d0dbd7f1da20e1",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba7a8252d0dbd7f1da20e1",
+    "script": "render-pilot-v5-8.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "cec4a646784170ee5920dd8e70e92869776f038f35595c2fe30eee86a0550cb3",
+    "id": "6aba7c8e52d0dbd7f1da215d",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba7c8e52d0dbd7f1da215d",
+    "script": "render-elites-v1-9.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "86cf76d2a3bb5eb60f1cc6293ce29573f56ea61ff664b7ecb003c803ffe80caa",
+    "id": "6aba7c0652d0dbd7f1da212e",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba7c0652d0dbd7f1da212e",
+    "script": "build-L9.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "3f3b90ecc2f83fdfe3892bd5d1bd5f6f245534b7e92ecff9e431d6e4559ecef0",
+    "id": "6aba7d1052d0dbd7f1da216a",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba7d1052d0dbd7f1da216a",
+    "script": "render-elites-v1-10.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "95f258fc46bbdad0a9ac127dd030e8add112bfc08ad18a3b38451c1f4c2793ec",
+    "id": "6aba76f752d0dbd7f1da2032",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba76f752d0dbd7f1da2032",
+    "script": "render-pilot-v2-8.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "dd3301ccb910ce9892444c04787173693d4565a0b98cfefc8e6d09124ebba52f",
+    "id": "6aba764d6b030d633f69ced7",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba764d6b030d633f69ced7",
+    "script": "pilot-v2.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  },
+  {
+    "script_sha256": "b657636208a1d29912edf21267f09c3a3348478ca894ef09270adb63c5b21b1d",
+    "id": "6aba77fa52d0dbd7f1da205a",
+    "url": "https://huggingface.co/jobs/Domlynch/6aba77fa52d0dbd7f1da205a",
+    "script": "pilot-v3.py",
+    "timeout_seconds": 900,
+    "hardware": "cpu-upgrade",
+    "stage": "COMPLETED"
+  }
+]

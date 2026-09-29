@@ -1,0 +1,7 @@
+{
+  "id": "6aba268a52d0dbd7f1da080e",
+  "url": "https://huggingface.co/jobs/Domlynch/6aba268a52d0dbd7f1da080e",
+  "timeout": 900,
+  "scope": "L10 first fit and 12 actual exported GLB CPU renders",
+  "fallback": "MCP job 6aba25ff failed upload with 403; stored write credential supplied securely by SDK"
+}

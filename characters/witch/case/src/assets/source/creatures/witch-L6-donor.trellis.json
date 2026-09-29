@@ -1,0 +1,15 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 28092806,
+  "resolution": "1024",
+  "faces": 100000,
+  "texture": 2048,
+  "image": "source/L6-reference.png",
+  "preprocess_s": 9.2,
+  "image_to_3d_s": 23.3,
+  "extract_glb_s": 31.7,
+  "glb": "src/assets/source/creatures/witch-L6-donor.glb",
+  "bytes": 5383284,
+  "sha256": "d6174c53ff17735cca6fa5022b4b7505d7deaaa6d1876e0ec2cc63dcb6ca27c7",
+  "attempts": 1
+}

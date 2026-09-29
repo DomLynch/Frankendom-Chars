@@ -1,0 +1,11 @@
+{
+  "originalSha256": "6a1013912601f726e14d6c4b9bf7d22a525a9c227de64709fff951ad704ee8c5",
+  "sha256": "f8ee899b0c3db19a350c43b809fa5926464592d3f0a498303c1c1421f7b80397",
+  "originalBinaryPrefixUnchanged": true,
+  "originalAnimationsExact": true,
+  "originalNodesExact": true,
+  "binding": "New geometry transformed into original mesh bind coordinates; original skin reused exactly",
+  "clips": 37,
+  "sourceJoints": 65,
+  "scope": "Original rig, meshes, weapons and animations preserved; original armour transparent under new candidate."
+}

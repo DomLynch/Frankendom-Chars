@@ -1,0 +1,3 @@
+const fs=require('fs'),path=require('path'),assert=require('assert');
+const validator=require(process.env.GLTF_VALIDATOR_PATH || 'gltf-validator');
+(async()=>{const out=[];for(const file of process.argv.slice(2)){const report=await validator.validateBytes(new Uint8Array(fs.readFileSync(file)),{maxIssues:50});out.push({file,errors:report.issues.numErrors,warnings:report.issues.numWarnings,messages:report.issues.messages});console.log(path.basename(file),report.issues.numErrors,'errors',report.issues.numWarnings,'warnings');}fs.writeFileSync(path.resolve(__dirname,'../reports/format-validation.json'),JSON.stringify(out,null,2));assert.ok(out.length);assert.ok(out.every(x=>x.errors===0));})().catch(e=>{console.error(e);process.exitCode=1});

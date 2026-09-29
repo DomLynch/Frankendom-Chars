@@ -1,0 +1,16 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280903,
+  "resolution": "1536",
+  "faces": 200000,
+  "texture": 2048,
+  "image": "source/L3-reference.png",
+  "sampling_steps_each_stage": 36,
+  "preprocess_s": 14.9,
+  "image_to_3d_s": 107.5,
+  "extract_glb_s": 78.7,
+  "glb": "src/assets/source/creatures/knight-L3-detail-donor.glb",
+  "bytes": 9188440,
+  "sha256": "eb40c6af03ee2d03b4f3776bb42519fc55554271440a1cd86543416608b85840",
+  "attempts": 1
+}

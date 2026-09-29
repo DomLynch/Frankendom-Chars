@@ -1,0 +1,1679 @@
+{
+  "mimeType": "model/gltf-binary",
+  "validatorVersion": "2.0.0-dev.3.10",
+  "validatedAt": "2026-09-28T19:46:50.141Z",
+  "issues": {
+    "numErrors": 231,
+    "numWarnings": 2,
+    "numInfos": 25,
+    "numHints": 0,
+    "messages": [
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/meshes/2/primitives/0/attributes/TEXCOORD_0"
+      },
+      {
+        "code": "NODE_EMPTY",
+        "message": "Empty node encountered.",
+        "severity": 2,
+        "pointer": "/nodes/57"
+      },
+      {
+        "code": "NODE_EMPTY",
+        "message": "Empty node encountered.",
+        "severity": 2,
+        "pointer": "/nodes/71"
+      },
+      {
+        "code": "NODE_SKINNED_MESH_NON_ROOT",
+        "message": "Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh.",
+        "severity": 1,
+        "pointer": "/nodes/87"
+      },
+      {
+        "code": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS",
+        "message": "Local transforms will not affect a skinned mesh.",
+        "severity": 1,
+        "pointer": "/nodes/88"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4951"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4952"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4953"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4954"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4955"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4956"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4957"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4958"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4959"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4960"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4961"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4962"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/accessors/4963"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/bufferViews/4951"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/bufferViews/4952"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/bufferViews/4954"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/bufferViews/4955"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/bufferViews/4959"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/bufferViews/4961"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/bufferViews/4962"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/bufferViews/4963"
+      },
+      {
+        "code": "UNUSED_OBJECT",
+        "message": "This object may be unused.",
+        "severity": 2,
+        "pointer": "/materials/5"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.2674326002597809) does not match actual minimum (-0.2338852882385254).",
+        "severity": 0,
+        "pointer": "/accessors/3043/min/0"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.05800434574484825) does not match actual minimum (-0.20824512839317322).",
+        "severity": 0,
+        "pointer": "/accessors/3043/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.05800434574484825.",
+        "severity": 0,
+        "pointer": "/accessors/3043/min/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.2977418005466461) does not match actual minimum (-0.11185580492019653).",
+        "severity": 0,
+        "pointer": "/accessors/3043/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.9145846962928772) does not match actual maximum (0.9545717239379883).",
+        "severity": 0,
+        "pointer": "/accessors/3043/max/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.9145846962928772.",
+        "severity": 0,
+        "pointer": "/accessors/3043/max/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.45720815658569336) does not match actual minimum (-0.553787887096405).",
+        "severity": 0,
+        "pointer": "/accessors/3045/min/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 1 element(s) less than declared minimum value -0.45720815658569336.",
+        "severity": 0,
+        "pointer": "/accessors/3045/min/0"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.5315742492675781) does not match actual minimum (-0.5996369123458862).",
+        "severity": 0,
+        "pointer": "/accessors/3045/min/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 1 element(s) less than declared minimum value -0.5315742492675781.",
+        "severity": 0,
+        "pointer": "/accessors/3045/min/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.6279739141464233) does not match actual minimum (-0.5216297507286072).",
+        "severity": 0,
+        "pointer": "/accessors/3045/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.4080134928226471) does not match actual maximum (0.6556491851806641).",
+        "severity": 0,
+        "pointer": "/accessors/3045/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 2 element(s) greater than declared maximum value 0.4080134928226471.",
+        "severity": 0,
+        "pointer": "/accessors/3045/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.33769524097442627) does not match actual maximum (0.24830842018127441).",
+        "severity": 0,
+        "pointer": "/accessors/3045/max/1"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.09339643269777298) does not match actual maximum (0.5492558479309082).",
+        "severity": 0,
+        "pointer": "/accessors/3045/max/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 2 element(s) greater than declared maximum value 0.09339643269777298.",
+        "severity": 0,
+        "pointer": "/accessors/3045/max/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.7068116664886475) does not match actual minimum (0.5374746918678284).",
+        "severity": 0,
+        "pointer": "/accessors/3049/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.7068116664886475.",
+        "severity": 0,
+        "pointer": "/accessors/3049/min/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.018524035811424255) does not match actual minimum (-0.45939841866493225).",
+        "severity": 0,
+        "pointer": "/accessors/3049/min/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.018524035811424255.",
+        "severity": 0,
+        "pointer": "/accessors/3049/min/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.7071080803871155) does not match actual minimum (0.5440129637718201).",
+        "severity": 0,
+        "pointer": "/accessors/3049/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.7071080803871155.",
+        "severity": 0,
+        "pointer": "/accessors/3049/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.00850500725209713) does not match actual maximum (0.45180076360702515).",
+        "severity": 0,
+        "pointer": "/accessors/3049/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.00850500725209713.",
+        "severity": 0,
+        "pointer": "/accessors/3049/max/0"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (9.208162055074354e-7) does not match actual minimum (-0.0002936211822088808).",
+        "severity": 0,
+        "pointer": "/accessors/3051/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 9.208162055074354e-7.",
+        "severity": 0,
+        "pointer": "/accessors/3051/min/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.9958925247192383) does not match actual minimum (0.7819494009017944).",
+        "severity": 0,
+        "pointer": "/accessors/3051/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.9958925247192383.",
+        "severity": 0,
+        "pointer": "/accessors/3051/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.09054144471883774) does not match actual maximum (0.6233416795730591).",
+        "severity": 0,
+        "pointer": "/accessors/3051/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.09054144471883774.",
+        "severity": 0,
+        "pointer": "/accessors/3051/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (-0.0005352813168428838) does not match actual maximum (-0.0004475130990613252).",
+        "severity": 0,
+        "pointer": "/accessors/3051/max/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value -0.0005352813168428838.",
+        "severity": 0,
+        "pointer": "/accessors/3051/max/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.00002395256160525605) does not match actual minimum (-0.00012137863086536527).",
+        "severity": 0,
+        "pointer": "/accessors/3053/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.00002395256160525605.",
+        "severity": 0,
+        "pointer": "/accessors/3053/min/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.9958925843238831) does not match actual minimum (0.7819482684135437).",
+        "severity": 0,
+        "pointer": "/accessors/3053/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.9958925843238831.",
+        "severity": 0,
+        "pointer": "/accessors/3053/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.09054248780012131) does not match actual maximum (0.6233433485031128).",
+        "severity": 0,
+        "pointer": "/accessors/3053/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.09054248780012131.",
+        "severity": 0,
+        "pointer": "/accessors/3053/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (-0.0001843223290052265) does not match actual maximum (-0.00014062771515455097).",
+        "severity": 0,
+        "pointer": "/accessors/3053/max/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value -0.0001843223290052265.",
+        "severity": 0,
+        "pointer": "/accessors/3053/max/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.7013162970542908) does not match actual minimum (0.5352746248245239).",
+        "severity": 0,
+        "pointer": "/accessors/3057/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.7013162970542908.",
+        "severity": 0,
+        "pointer": "/accessors/3057/min/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.09028434008359909) does not match actual minimum (-0.4620354473590851).",
+        "severity": 0,
+        "pointer": "/accessors/3057/min/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.09028434008359909.",
+        "severity": 0,
+        "pointer": "/accessors/3057/min/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.7032788991928101) does not match actual minimum (0.5461643934249878).",
+        "severity": 0,
+        "pointer": "/accessors/3057/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.7032788991928101.",
+        "severity": 0,
+        "pointer": "/accessors/3057/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.0735047310590744) does not match actual maximum (0.44912001490592957).",
+        "severity": 0,
+        "pointer": "/accessors/3057/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.0735047310590744.",
+        "severity": 0,
+        "pointer": "/accessors/3057/max/0"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.002035462763160467) does not match actual minimum (0.0015561231411993504).",
+        "severity": 0,
+        "pointer": "/accessors/3059/min/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.002035462763160467.",
+        "severity": 0,
+        "pointer": "/accessors/3059/min/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.9952996969223022) does not match actual minimum (0.7819477319717407).",
+        "severity": 0,
+        "pointer": "/accessors/3059/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.9952996969223022.",
+        "severity": 0,
+        "pointer": "/accessors/3059/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.09682072699069977) does not match actual maximum (0.6233406066894531).",
+        "severity": 0,
+        "pointer": "/accessors/3059/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.09682072699069977.",
+        "severity": 0,
+        "pointer": "/accessors/3059/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.00027676811441779137) does not match actual maximum (0.0013408683007583022).",
+        "severity": 0,
+        "pointer": "/accessors/3059/max/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.00027676811441779137.",
+        "severity": 0,
+        "pointer": "/accessors/3059/max/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.00019148684805259109) does not match actual minimum (-0.0009274774929508567).",
+        "severity": 0,
+        "pointer": "/accessors/3061/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.00019148684805259109.",
+        "severity": 0,
+        "pointer": "/accessors/3061/min/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.9953008890151978) does not match actual minimum (0.7819488644599915).",
+        "severity": 0,
+        "pointer": "/accessors/3061/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.9953008890151978.",
+        "severity": 0,
+        "pointer": "/accessors/3061/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.09682013094425201) does not match actual maximum (0.6233409643173218).",
+        "severity": 0,
+        "pointer": "/accessors/3061/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.09682013094425201.",
+        "severity": 0,
+        "pointer": "/accessors/3061/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (-0.0014079108368605375) does not match actual maximum (-0.001076137530617416).",
+        "severity": 0,
+        "pointer": "/accessors/3061/max/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value -0.0014079108368605375.",
+        "severity": 0,
+        "pointer": "/accessors/3061/max/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.6754642724990845) does not match actual minimum (0.5091094374656677).",
+        "severity": 0,
+        "pointer": "/accessors/3065/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.6754642724990845.",
+        "severity": 0,
+        "pointer": "/accessors/3065/min/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.20915037393569946) does not match actual minimum (-0.43562939763069153).",
+        "severity": 0,
+        "pointer": "/accessors/3065/min/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.20915037393569946.",
+        "severity": 0,
+        "pointer": "/accessors/3065/min/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.6816009283065796) does not match actual minimum (0.525909960269928).",
+        "severity": 0,
+        "pointer": "/accessors/3065/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.6816009283065796.",
+        "severity": 0,
+        "pointer": "/accessors/3065/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.1882135570049286) does not match actual maximum (0.5238829851150513).",
+        "severity": 0,
+        "pointer": "/accessors/3065/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.1882135570049286.",
+        "severity": 0,
+        "pointer": "/accessors/3065/max/0"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.00031963526271283627) does not match actual minimum (-0.02044375240802765).",
+        "severity": 0,
+        "pointer": "/accessors/3067/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.00031963526271283627.",
+        "severity": 0,
+        "pointer": "/accessors/3067/min/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.9648964405059814) does not match actual minimum (0.7817044258117676).",
+        "severity": 0,
+        "pointer": "/accessors/3067/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.9648964405059814.",
+        "severity": 0,
+        "pointer": "/accessors/3067/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.26262587308883667) does not match actual maximum (0.6231499910354614).",
+        "severity": 0,
+        "pointer": "/accessors/3067/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.26262587308883667.",
+        "severity": 0,
+        "pointer": "/accessors/3067/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (-0.0015374693321064115) does not match actual maximum (0.014293077401816845).",
+        "severity": 0,
+        "pointer": "/accessors/3067/max/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value -0.0015374693321064115.",
+        "severity": 0,
+        "pointer": "/accessors/3067/max/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.00048575864639133215) does not match actual minimum (0.00044988488662056625).",
+        "severity": 0,
+        "pointer": "/accessors/3069/min/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.00048575864639133215.",
+        "severity": 0,
+        "pointer": "/accessors/3069/min/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.9648967981338501) does not match actual minimum (0.781947672367096).",
+        "severity": 0,
+        "pointer": "/accessors/3069/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.9648967981338501.",
+        "severity": 0,
+        "pointer": "/accessors/3069/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.2626289427280426) does not match actual maximum (0.6233438849449158).",
+        "severity": 0,
+        "pointer": "/accessors/3069/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.2626289427280426.",
+        "severity": 0,
+        "pointer": "/accessors/3069/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (-0.000010196107723459136) does not match actual maximum (0.00018285766418557614).",
+        "severity": 0,
+        "pointer": "/accessors/3069/max/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value -0.000010196107723459136.",
+        "severity": 0,
+        "pointer": "/accessors/3069/max/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.6904085874557495) does not match actual minimum (0.5418448448181152).",
+        "severity": 0,
+        "pointer": "/accessors/3073/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.6904085874557495.",
+        "severity": 0,
+        "pointer": "/accessors/3073/min/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.15233173966407776) does not match actual minimum (-0.4541732966899872).",
+        "severity": 0,
+        "pointer": "/accessors/3073/min/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.15233173966407776.",
+        "severity": 0,
+        "pointer": "/accessors/3073/min/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.6898031234741211) does not match actual minimum (0.5396618843078613).",
+        "severity": 0,
+        "pointer": "/accessors/3073/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.6898031234741211.",
+        "severity": 0,
+        "pointer": "/accessors/3073/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.15589293837547302) does not match actual maximum (0.45705121755599976).",
+        "severity": 0,
+        "pointer": "/accessors/3073/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.15589293837547302.",
+        "severity": 0,
+        "pointer": "/accessors/3073/max/0"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.002308199182152748) does not match actual minimum (0.0017403494566679).",
+        "severity": 0,
+        "pointer": "/accessors/3075/min/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.002308199182152748.",
+        "severity": 0,
+        "pointer": "/accessors/3075/min/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.9799466729164124) does not match actual minimum (0.7819504737854004).",
+        "severity": 0,
+        "pointer": "/accessors/3075/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.9799466729164124.",
+        "severity": 0,
+        "pointer": "/accessors/3075/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.19924533367156982) does not match actual maximum (0.6233359575271606).",
+        "severity": 0,
+        "pointer": "/accessors/3075/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.19924533367156982.",
+        "severity": 0,
+        "pointer": "/accessors/3075/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.0006922919419594109) does not match actual maximum (0.001667083939537406).",
+        "severity": 0,
+        "pointer": "/accessors/3075/max/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.0006922919419594109.",
+        "severity": 0,
+        "pointer": "/accessors/3075/max/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.0009228588314726949) does not match actual minimum (-0.0023093312047421932).",
+        "severity": 0,
+        "pointer": "/accessors/3077/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.0009228588314726949.",
+        "severity": 0,
+        "pointer": "/accessors/3077/min/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (0.979942262172699) does not match actual minimum (0.78194260597229).",
+        "severity": 0,
+        "pointer": "/accessors/3077/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 0.979942262172699.",
+        "severity": 0,
+        "pointer": "/accessors/3077/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.19925253093242645) does not match actual maximum (0.6233411431312561).",
+        "severity": 0,
+        "pointer": "/accessors/3077/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.19925253093242645.",
+        "severity": 0,
+        "pointer": "/accessors/3077/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (-0.0032690265215933323) does not match actual maximum (-0.0024913004599511623).",
+        "severity": 0,
+        "pointer": "/accessors/3077/max/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value -0.0032690265215933323.",
+        "severity": 0,
+        "pointer": "/accessors/3077/max/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.2444627732038498) does not match actual minimum (-0.27729910612106323).",
+        "severity": 0,
+        "pointer": "/accessors/3081/min/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.2444627732038498.",
+        "severity": 0,
+        "pointer": "/accessors/3081/min/0"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.9435676336288452) does not match actual minimum (-0.9487590789794922).",
+        "severity": 0,
+        "pointer": "/accessors/3081/min/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.9435676336288452.",
+        "severity": 0,
+        "pointer": "/accessors/3081/min/1"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (-0.21606184542179108) does not match actual maximum (-0.12271438539028168).",
+        "severity": 0,
+        "pointer": "/accessors/3081/max/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value -0.21606184542179108.",
+        "severity": 0,
+        "pointer": "/accessors/3081/max/2"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.05687984824180603) does not match actual maximum (0.08889655768871307).",
+        "severity": 0,
+        "pointer": "/accessors/3081/max/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.05687984824180603.",
+        "severity": 0,
+        "pointer": "/accessors/3081/max/3"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (-0.0000030584653814003104) does not match actual minimum (-0.005368893966078758).",
+        "severity": 0,
+        "pointer": "/accessors/3083/min/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value -0.0000030584653814003104.",
+        "severity": 0,
+        "pointer": "/accessors/3083/min/2"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (1) does not match actual minimum (0.9753003120422363).",
+        "severity": 0,
+        "pointer": "/accessors/3083/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 1.",
+        "severity": 0,
+        "pointer": "/accessors/3083/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (9.372155886921973e-7) does not match actual maximum (0.2195238471031189).",
+        "severity": 0,
+        "pointer": "/accessors/3083/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 9.372155886921973e-7.",
+        "severity": 0,
+        "pointer": "/accessors/3083/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.000004752043423650321) does not match actual maximum (0.023869020864367485).",
+        "severity": 0,
+        "pointer": "/accessors/3083/max/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.000004752043423650321.",
+        "severity": 0,
+        "pointer": "/accessors/3083/max/1"
+      },
+      {
+        "code": "ACCESSOR_MIN_MISMATCH",
+        "message": "Declared minimum value for this component (1) does not match actual minimum (0.7264609336853027).",
+        "severity": 0,
+        "pointer": "/accessors/3085/min/3"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MIN_BOUND",
+        "message": "Accessor contains 3 element(s) less than declared minimum value 1.",
+        "severity": 0,
+        "pointer": "/accessors/3085/min/3"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (-2.5932095581993053e-7) does not match actual maximum (0.6872077584266663).",
+        "severity": 0,
+        "pointer": "/accessors/3085/max/0"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value -2.5932095581993053e-7.",
+        "severity": 0,
+        "pointer": "/accessors/3085/max/0"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (-0.000029768098102067597) does not match actual maximum (-0.000020369141566334292).",
+        "severity": 0,
+        "pointer": "/accessors/3085/max/1"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value -0.000029768098102067597.",
+        "severity": 0,
+        "pointer": "/accessors/3085/max/1"
+      },
+      {
+        "code": "ACCESSOR_MAX_MISMATCH",
+        "message": "Declared maximum value for this component (0.0000016782297507234034) does not match actual maximum (0.000021694053430110216).",
+        "severity": 0,
+        "pointer": "/accessors/3085/max/2"
+      },
+      {
+        "code": "ACCESSOR_ELEMENT_OUT_OF_MAX_BOUND",
+        "message": "Accessor contains 3 element(s) greater than declared maximum value 0.0000016782297507234034.",
+        "severity": 0,
+        "pointer": "/accessors/3085/max/2"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 0..3 is not of unit length: 0.9888588083723007.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 4..7 is not of unit length: 0.9888588083723007.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 8..11 is not of unit length: 0.9888588083723007.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 12..15 is not of unit length: 0.9888922428883861.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 16..19 is not of unit length: 0.9889957451924088.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 20..23 is not of unit length: 0.9891488206696321.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 24..27 is not of unit length: 0.9893309125827489.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 28..31 is not of unit length: 0.9895230532177093.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 32..35 is not of unit length: 0.9897083432417154.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 36..39 is not of unit length: 0.9898714776943422.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 40..43 is not of unit length: 0.9899985033468781.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 44..47 is not of unit length: 0.9900758491859756.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 48..51 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 52..55 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 56..59 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 60..63 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 64..67 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 68..71 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 72..75 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 76..79 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 80..83 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 84..87 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 88..91 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 92..95 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 96..99 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 100..103 is not of unit length: 0.9900930698399505.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 104..107 is not of unit length: 0.9901027739634835.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 108..111 is not of unit length: 0.9901403007712978.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 112..115 is not of unit length: 0.9902023253352726.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 116..119 is not of unit length: 0.9902846623917562.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 120..123 is not of unit length: 0.9903834378697569.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 124..127 is not of unit length: 0.9904945503721571.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 128..131 is not of unit length: 0.9906142920798916.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 132..135 is not of unit length: 0.9907391265000558.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 136..139 is not of unit length: 0.9908656478441068.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 140..143 is not of unit length: 0.9909906387961357.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 144..147 is not of unit length: 0.991110981666608.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 148..151 is not of unit length: 0.9912236326344045.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 152..155 is not of unit length: 0.9913342575470665.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 156..159 is not of unit length: 0.9914810470201412.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 160..163 is not of unit length: 0.991719107556714.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 164..167 is not of unit length: 0.9921065394936784.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/9/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 36..39 is not of unit length: 1.0205480698564198.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 44..47 is not of unit length: 0.9898581346660915.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 48..51 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 52..55 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 56..59 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 60..63 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 64..67 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 68..71 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 72..75 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 76..79 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 80..83 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 84..87 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 88..91 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 92..95 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 96..99 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 100..103 is not of unit length: 0.9890056819199889.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 104..107 is not of unit length: 0.989014752783813.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 108..111 is not of unit length: 0.9890499732682636.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 112..115 is not of unit length: 0.9891097281245607.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 116..119 is not of unit length: 0.9891920141025554.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 120..123 is not of unit length: 0.9892951117370687.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 124..127 is not of unit length: 0.9894169131045061.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 128..131 is not of unit length: 0.9895550535051079.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 132..135 is not of unit length: 0.9897066207352132.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 136..139 is not of unit length: 0.9898678720771361.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 140..143 is not of unit length: 0.9900345948615177.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 144..147 is not of unit length: 0.9902019598804057.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 148..151 is not of unit length: 0.9903644202757257.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 152..155 is not of unit length: 0.9908332682943677.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 156..159 is not of unit length: 0.9921085245375636.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/10/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 36..39 is not of unit length: 1.008304415957984.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 176..179 is not of unit length: 1.00919194487895.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 180..183 is not of unit length: 1.0121298174856184.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 184..187 is not of unit length: 1.0140471193146157.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 188..191 is not of unit length: 1.0151151665118554.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 192..195 is not of unit length: 1.015407611770724.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 196..199 is not of unit length: 1.0149245987922684.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 200..203 is not of unit length: 1.0136935275826235.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 204..207 is not of unit length: 1.0118699009105199.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 208..211 is not of unit length: 1.0097785894320679.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 212..215 is not of unit length: 1.0078793530469647.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/11/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 192..195 is not of unit length: 0.9905774408790113.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/33/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 196..199 is not of unit length: 0.9875534673813496.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/33/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 200..203 is not of unit length: 0.9845410675362064.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/33/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 204..207 is not of unit length: 0.9817736624314762.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/33/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 208..211 is not of unit length: 0.9794586035773712.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/33/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 164..167 is not of unit length: 1.0100766599539834.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/57/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 168..171 is not of unit length: 1.0131207578901498.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/57/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 172..175 is not of unit length: 1.0162992184889503.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/57/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 176..179 is not of unit length: 1.0195411940562067.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/57/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 168..171 is not of unit length: 1.0083896416943936.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/58/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 172..175 is not of unit length: 1.0113557932496922.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/58/sampler"
+      },
+      {
+        "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+        "message": "Animation sampler output accessor element at indices 192..195 is not of unit length: 0.9894017887069457.",
+        "severity": 0,
+        "pointer": "/animations/37/channels/63/sampler"
+      }
+    ],
+    "truncated": false
+  },
+  "info": {
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter r186",
+    "extensionsUsed": [
+      "EXT_texture_webp",
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular"
+    ],
+    "extensionsRequired": [
+      "EXT_texture_webp"
+    ],
+    "resources": [
+      {
+        "pointer": "/buffers/0",
+        "mimeType": "application/gltf-buffer",
+        "storage": "glb",
+        "byteLength": 26934972
+      },
+      {
+        "pointer": "/images/0",
+        "mimeType": "image/jpeg",
+        "storage": "buffer-view",
+        "image": {
+          "width": 512,
+          "height": 512,
+          "format": "rgb",
+          "bits": 8
+        }
+      },
+      {
+        "pointer": "/images/1",
+        "mimeType": "image/jpeg",
+        "storage": "buffer-view",
+        "image": {
+          "width": 512,
+          "height": 512,
+          "format": "rgb",
+          "bits": 8
+        }
+      },
+      {
+        "pointer": "/images/2",
+        "mimeType": "image/jpeg",
+        "storage": "buffer-view",
+        "image": {
+          "width": 256,
+          "height": 1024,
+          "format": "rgb",
+          "bits": 8
+        }
+      },
+      {
+        "pointer": "/images/3",
+        "mimeType": "image/webp",
+        "storage": "buffer-view",
+        "image": {
+          "width": 2048,
+          "height": 2048,
+          "format": "rgba",
+          "primaries": "srgb",
+          "transfer": "srgb",
+          "bits": 8
+        }
+      },
+      {
+        "pointer": "/images/4",
+        "mimeType": "image/webp",
+        "storage": "buffer-view",
+        "image": {
+          "width": 2048,
+          "height": 2048,
+          "format": "rgb",
+          "primaries": "srgb",
+          "transfer": "srgb",
+          "bits": 8
+        }
+      },
+      {
+        "pointer": "/images/5",
+        "mimeType": "image/webp",
+        "storage": "buffer-view",
+        "image": {
+          "width": 2048,
+          "height": 2048,
+          "format": "rgba",
+          "primaries": "srgb",
+          "transfer": "srgb",
+          "bits": 8
+        }
+      },
+      {
+        "pointer": "/images/6",
+        "mimeType": "image/webp",
+        "storage": "buffer-view",
+        "image": {
+          "width": 2048,
+          "height": 2048,
+          "format": "rgb",
+          "primaries": "srgb",
+          "transfer": "srgb",
+          "bits": 8
+        }
+      }
+    ],
+    "animationCount": 38,
+    "materialCount": 7,
+    "hasMorphTargets": false,
+    "hasSkins": true,
+    "hasTextures": true,
+    "hasDefaultScene": true,
+    "drawCallCount": 6,
+    "totalVertexCount": 222949,
+    "totalTriangleCount": 142603,
+    "maxUVs": 1,
+    "maxInfluences": 4,
+    "maxAttributes": 5
+  }
+}

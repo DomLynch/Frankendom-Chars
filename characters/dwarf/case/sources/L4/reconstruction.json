@@ -1,0 +1,15 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280904,
+  "resolution": "1024",
+  "faces": 100000,
+  "texture": 2048,
+  "image": "/Users/domininclynch/Desktop/Business/artifacts/dwarf-ranks-20260928/source/L4-reference.png",
+  "preprocess_s": 12.4,
+  "image_to_3d_s": 48.6,
+  "extract_glb_s": 34.0,
+  "glb": "src/assets/source/creatures/dwarf-L4-donor.glb",
+  "bytes": 5580052,
+  "sha256": "07428dbb14884d166bcf67e8ac47b48ff5eb8fc89ce93cf3eb42ae7f9f60e6de",
+  "attempts": 1
+}

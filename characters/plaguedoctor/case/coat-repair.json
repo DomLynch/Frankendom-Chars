@@ -1,0 +1,9 @@
+{
+  "rank": 8,
+  "changedNewArmourVertices": 9173,
+  "cause": "Nearest-surface left/right calf weights jumped across a continuous centre panel; measured edge stretch up to 97.55x in Armed pose.",
+  "method": "Smooth bilateral coat-centre weights, no geometry deletion or original mesh edits.",
+  "visualAcceptance": "Selected over previous fit: central stretched slab removed in matched front/attack/kick views; rear coat puckering and thin borders remain.",
+  "longStretchedEdgesBefore": 532,
+  "longStretchedEdgesAfter": 16
+}

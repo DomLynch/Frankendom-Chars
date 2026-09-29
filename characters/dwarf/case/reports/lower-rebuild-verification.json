@@ -1,0 +1,38 @@
+[
+  {
+    "rank": "L2",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "exactHashMatch": true,
+    "basis": "Previously executed exact rebuild; selected model and all staged source bytes reverified unchanged"
+  },
+  {
+    "rank": "L3",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "exactHashMatch": true,
+    "basis": "Previously executed exact rebuild; selected model and all staged source bytes reverified unchanged"
+  },
+  {
+    "rank": "L4",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "exactHashMatch": true,
+    "basis": "Previously executed exact rebuild; selected model and all staged source bytes reverified unchanged"
+  },
+  {
+    "rank": "L5",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "exactHashMatch": true,
+    "basis": "Previously executed exact rebuild; selected model and all staged source bytes reverified unchanged"
+  },
+  {
+    "rank": "L6",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "exactHashMatch": true,
+    "basis": "Previously executed exact rebuild; selected model and all staged source bytes reverified unchanged"
+  },
+  {
+    "rank": "L7",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "exactHashMatch": true,
+    "basis": "Previously executed exact rebuild; selected model and all staged source bytes reverified unchanged"
+  }
+]

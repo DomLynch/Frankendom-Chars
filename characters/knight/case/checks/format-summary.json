@@ -1,0 +1,65 @@
+[
+  {
+    "rank": 2,
+    "sha256": "53c8ddf92dadd0f518e3552c5376b6974f6e2d1fc1b0dd87eac7a71717512be4",
+    "inheritedErrors": 95,
+    "introducedErrors": 0,
+    "warnings": 1208
+  },
+  {
+    "rank": 3,
+    "sha256": "14c45faa80fdc924404daa9e103d9a22dad1b28d29f0e8d6ecf5d4dbfca8908c",
+    "inheritedErrors": 95,
+    "introducedErrors": 0,
+    "warnings": 1837
+  },
+  {
+    "rank": 4,
+    "sha256": "331ed177f0efeaa8c5fcecc9b497f371c5ba1044b34264b54c0e9c9c5e2e6766",
+    "inheritedErrors": 95,
+    "introducedErrors": 0,
+    "warnings": 1609
+  },
+  {
+    "rank": 5,
+    "sha256": "37751d989e74a2299436a1bd84a0e04823a5a5b01c770aae797657f82f233709",
+    "inheritedErrors": 95,
+    "introducedErrors": 0,
+    "warnings": 2341
+  },
+  {
+    "rank": 6,
+    "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+    "inheritedErrors": 95,
+    "introducedErrors": 0,
+    "warnings": 142
+  },
+  {
+    "rank": 7,
+    "sha256": "82db420e9585a1e2d1c361d17f2e7c802de2f97f206d617c5da6da06309402b7",
+    "inheritedErrors": 95,
+    "introducedErrors": 0,
+    "warnings": 134
+  },
+  {
+    "rank": 8,
+    "sha256": "8e729c71ec36abbbe96ee77503bb55e6a0374757c52c9b4291cdea91960af908",
+    "inheritedErrors": 95,
+    "introducedErrors": 0,
+    "warnings": 4
+  },
+  {
+    "rank": 9,
+    "sha256": "2b8b52706d78182735e8eec883df1b5d0434ecceacad80ec2aafe12e622eed29",
+    "inheritedErrors": 95,
+    "introducedErrors": 0,
+    "warnings": 4987
+  },
+  {
+    "rank": 10,
+    "sha256": "8668acfb7e7c660562b15207df813d1fd62ecc2153321570653d74a6d5b4d940",
+    "inheritedErrors": 95,
+    "introducedErrors": 0,
+    "warnings": 34
+  }
+]

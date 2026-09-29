@@ -1,0 +1,197 @@
+{
+  "id": "witch",
+  "name": "Witch",
+  "archive": "witch-ranks-review.zip",
+  "archiveRoot": "",
+  "models": [
+    {
+      "rank": 2,
+      "archive": "witch-ranks-review.zip",
+      "member": "models/witch-L2.glb",
+      "bytes": 32392480,
+      "sha256": "25ff099f94703a170cc406b2724cc2db8ab616ff23dadf72e51d69ccdd990ccb",
+      "joints": 65,
+      "animations": 38,
+      "previewEvidence": [
+        {
+          "path": "characters/witch/previews/L2-front.png",
+          "sha256": "7882413f04d3b797cc6f5c6877800b4d54046964d28609df78ad054ed91d2b9f",
+          "archiveMember": "review/L2/L2-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "archive": "witch-ranks-review.zip",
+      "member": "models/witch-L3.glb",
+      "bytes": 29549996,
+      "sha256": "f35402f1afc9b15f152fa5ccc64b35a66d3065a6729e58dba1ed7edc22bc25d1",
+      "joints": 65,
+      "animations": 38,
+      "previewEvidence": [
+        {
+          "path": "characters/witch/previews/L3-front.png",
+          "sha256": "3cf068f8982bc2557b71236933e9780db667dc34ba4725ade2c6c3a35ef54533",
+          "archiveMember": "review/L3/L3-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "archive": "witch-ranks-review.zip",
+      "member": "models/witch-L4.glb",
+      "bytes": 30155508,
+      "sha256": "9911a9e645c493c12de518e5649819b828e09883f1d9c229999fde769c833661",
+      "joints": 65,
+      "animations": 38,
+      "previewEvidence": [
+        {
+          "path": "characters/witch/previews/L4-front.png",
+          "sha256": "421ea904f242dbf937c78a2bbff5857e36089ed4c7d7e828f060b2c24328b237",
+          "archiveMember": "review/L4/L4-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "archive": "witch-ranks-review.zip",
+      "member": "models/witch-L5.glb",
+      "bytes": 28744712,
+      "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+      "joints": 65,
+      "animations": 38,
+      "previewEvidence": [
+        {
+          "path": "characters/witch/previews/L5-front.png",
+          "sha256": "8cac7feee6546ec7538c7ed545225cf899e6c6bf08c9afd752c44f307daddfed",
+          "archiveMember": "review/L5/L5-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "archive": "witch-ranks-review.zip",
+      "member": "models/witch-L6.glb",
+      "bytes": 28307156,
+      "sha256": "f097e3720a3bd3b671409f839fd4e7b50bf5118012f6c55e68f8a92e2f6b3fa1",
+      "joints": 65,
+      "animations": 38,
+      "previewEvidence": [
+        {
+          "path": "characters/witch/previews/L6-front.png",
+          "sha256": "14d1c9ecc969552945e1ba1fa95e0b5d95cd92982a9daceacbdf777fdd043b62",
+          "archiveMember": "review/L6/L6-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "archive": "witch-ranks-review.zip",
+      "member": "models/witch-L7.glb",
+      "bytes": 28749640,
+      "sha256": "71d6f3aefcc4b62d06caac76728f5540648611a467811424fd887c639eaeca2d",
+      "joints": 65,
+      "animations": 38,
+      "previewEvidence": [
+        {
+          "path": "characters/witch/previews/L7-front.png",
+          "sha256": "4bef976b6c71039b2b86d0db00aa28b049800a208639a2dfa24fc5c83cef7235",
+          "archiveMember": "review/L7/L7-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "archive": "witch-ranks-review.zip",
+      "member": "models/witch-L8.glb",
+      "bytes": 22729920,
+      "sha256": "418457b2eb9af0e97a6504aab0ec7d23552d4046fd9b2db806ed452e2af6d68a",
+      "joints": 65,
+      "animations": 38,
+      "previewEvidence": [
+        {
+          "path": "characters/witch/previews/L8-front.png",
+          "sha256": "cdffa5a693be125f3f0223f72d501a17a099d0b968016a4508d552fae4baa937",
+          "archiveMember": "review/L8/L8-front.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/witch/previews/L8-back.png",
+          "sha256": "209f0b5a2c17c54141c13edc0fead9d09ab4fb4b468a0a561bd58c590553ffc7",
+          "archiveMember": "review/L8/L8-back.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/witch/previews/L8-head.png",
+          "sha256": "f0ff64c3ffa2e3059cca3493b1e04b7128930211f0316734f46e40fa728bb0c9",
+          "archiveMember": "review/L8/L8-head.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "archive": "witch-ranks-review.zip",
+      "member": "models/witch-L9.glb",
+      "bytes": 21995284,
+      "sha256": "f8d3aa175c330146222a1ff61dd7fb3a1f777dc3084fbd623e410d62a487fc9a",
+      "joints": 65,
+      "animations": 38,
+      "previewEvidence": [
+        {
+          "path": "characters/witch/previews/L9-front.png",
+          "sha256": "15fad3d0cec8d79a9569314ae32d5821675ad538482e36e04a680d5b92ec4b59",
+          "archiveMember": "review/L9/L9-front.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/witch/previews/L9-back.png",
+          "sha256": "b57c2d130957ba09df4d2a0e0cb3c36d3285ce0e58ebce367c520f11b141e7d5",
+          "archiveMember": "review/L9/L9-back.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/witch/previews/L9-head.png",
+          "sha256": "c550dd6d4b3ef31cd3dc3162990f85a64e2fa457c8fa848b3f510455acbf9d25",
+          "archiveMember": "review/L9/L9-head.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "archive": "witch-ranks-review.zip",
+      "member": "models/witch-L10.glb",
+      "bytes": 22583328,
+      "sha256": "5e3325decf6c99af88a5a9e9277637b71d8921bf115842049b928c96dbdaaed7",
+      "joints": 65,
+      "animations": 38,
+      "previewEvidence": [
+        {
+          "path": "characters/witch/previews/L10-front.png",
+          "sha256": "c15984373b8b20849a422ca0aa4440ae71f55b4018ad8d67f42d32971c41f889",
+          "archiveMember": "review/L10/L10-front.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/witch/previews/L10-back.png",
+          "sha256": "055a4b4973fc527b58364eb318d6d8353f8b432fc59852a3c9a669aff2b8a127",
+          "archiveMember": "review/L10/L10-back.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/witch/previews/L10-head.png",
+          "sha256": "bcd0f33e9c9a4466e61922a6babfe677e7f0b5ff639e888cf36af3ff67eb3ef1",
+          "archiveMember": "review/L10/L10-head.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    }
+  ]
+}

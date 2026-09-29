@@ -1,0 +1,4 @@
+const fs=require('fs'),path=require('path'),assert=require('assert');
+const validator=require('/Users/domininclynch/Desktop/Business/artifacts/sand-legionary-pilot/source/validation/node_modules/gltf-validator');
+const R=path.resolve(__dirname,'..');
+(async()=>{const out=[];for(const file of fs.readdirSync(path.join(R,'models')).filter(x=>/^plaguedoctor-L(2|3|4|5|6|7|8|9|10)\.glb$/.test(x)&&!x.includes('master'))){const report=await validator.validateBytes(new Uint8Array(fs.readFileSync(path.join(R,'models',file))),{maxIssues:50});out.push({file,errors:report.issues.numErrors,warnings:report.issues.numWarnings,messages:report.issues.messages});console.log(file,report.issues.numErrors,'errors',report.issues.numWarnings,'warnings');}fs.writeFileSync(path.join(R,'format-validation.json'),JSON.stringify(out,null,2));assert.equal(out.length,9);assert.ok(out.every(x=>x.errors===0));})().catch(e=>{console.error(e);process.exitCode=1});

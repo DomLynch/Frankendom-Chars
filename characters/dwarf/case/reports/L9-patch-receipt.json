@@ -1,0 +1,10 @@
+{
+  "rank": "L9",
+  "inputSha256": "5769b92079261a4bc4a9b7e10cd986227b1546062b07bfeaa3698c7bc4f0a655",
+  "coverageSource": "Saved fitted donor panels: sleeves, thighs and collar only",
+  "outputSha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+  "originalBinaryExact": true,
+  "originalAnimationsExact": true,
+  "existingSuitVertexAttributesUnchanged": true,
+  "scope": "helmet and coverage patch; visual acceptance pending"
+}

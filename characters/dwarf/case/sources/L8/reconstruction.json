@@ -1,0 +1,15 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280988,
+  "resolution": "1536",
+  "faces": 300000,
+  "texture": 4096,
+  "image": "/Users/domininclynch/Desktop/Business/artifacts/dwarf-ranks-20260928/source/L8-reference.png",
+  "preprocess_s": 11.4,
+  "image_to_3d_s": 73.6,
+  "extract_glb_s": 105.8,
+  "glb": "src/assets/source/creatures/dwarf-L8-detail-donor.glb",
+  "bytes": 19453148,
+  "sha256": "6da7c365e4dffc15b9c564cb8aeafeb3d8cdac154698d862a2b03d3554cbf8f4",
+  "attempts": 1
+}

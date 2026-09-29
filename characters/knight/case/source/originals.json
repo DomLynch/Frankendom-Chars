@@ -1,0 +1,20 @@
+{
+  "revision": "9ac3a41a38942204c03165757935054e0b882a70",
+  "files": {
+    "src/assets/knight.glb": {
+      "path": "source/original.glb",
+      "sha256": "6a1013912601f726e14d6c4b9bf7d22a525a9c227de64709fff951ad704ee8c5",
+      "bytes": 6967096
+    },
+    "src/assets/loot/carriers-knight.glb": {
+      "path": "source/original-carriers.glb",
+      "sha256": "42253a7dc95fb269ac748bd660b30fa7036644bcd34f2d45c17c7793c83e64fd",
+      "bytes": 2222644
+    },
+    "docs/character-references/knight-source-v1.png": {
+      "path": "source/approved-reference.png",
+      "sha256": "ba9baaf4d02fd7a67ad857f5a58a8a24ad62cfc3429c8fba489d5036b5cb522f",
+      "bytes": 58808
+    }
+  }
+}

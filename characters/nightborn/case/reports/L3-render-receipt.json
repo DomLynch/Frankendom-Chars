@@ -1,0 +1,358 @@
+[
+  {
+    "rank": 3,
+    "model": "nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "image": "L3-front.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 10.864949332349118,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 3,
+    "model": "nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "image": "L3-back.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      0.0,
+      6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      8.741681511992283e-08,
+      3.1415927410125732
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 10.864949332349118,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 3,
+    "model": "nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "image": "L3-side.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      6.0,
+      0.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.5591301918029785,
+      5.995130436531326e-08,
+      1.5707964897155762
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 10.864949332349118,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 3,
+    "model": "nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "image": "L3-attack.png",
+    "clip": "Heavy",
+    "frame": 11,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 11.441746525065934,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 3,
+    "model": "nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "image": "L3-guard.png",
+    "clip": "Guard",
+    "frame": 10,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 6.964916465399934,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 3,
+    "model": "nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "image": "L3-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 9.164617853437557,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 3,
+    "model": "nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "image": "L3-phone.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      375,
+      600
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 10.864949332349118,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 3,
+    "model": "nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "image": "L3-fight.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 8.855350494384766,
+    "viewport": [
+      375,
+      600
+    ],
+    "projectedArmourHeightPx": 110.00000238418579,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 10.864949332349118,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 3,
+    "model": "nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "image": "L3-rest.png",
+    "clip": null,
+    "frame": 0,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 3.25,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": null,
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 3,
+    "model": "nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "image": "L3-head.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      -0.04837431386113167,
+      -6.0,
+      1.5360867977142334
+    ],
+    "target": [
+      -0.04837431386113167,
+      -0.0645153820514679,
+      1.5360867977142334
+    ],
+    "cameraRotationEuler": [
+      1.5707963705062866,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 0.47999998927116394,
+    "viewport": [
+      600,
+      600
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 10.864949332349118,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  }
+]

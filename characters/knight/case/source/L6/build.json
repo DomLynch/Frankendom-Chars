@@ -1,0 +1,38 @@
+{
+  "scale": 2.120969607773709,
+  "sourceRevision": "325b2b2b8850389d7c93bca37ffda1c4e7892477",
+  "bodyBounds": [
+    [
+      -0.4113309681415558,
+      0.409832239151001
+    ],
+    [
+      -0.16277559101581573,
+      0.342791348695755
+    ],
+    [
+      0.02562825009226799,
+      2.142831563949585
+    ]
+  ],
+  "originalVertexWeightSignatures": {
+    "Mesh_0": "01988af60282727045f3d32e8e6b1e0171ca7aa054928d555ab4199ddcc15224",
+    "Mesh_1": "d4d287a0e3747c77da1bf474382cd2e3eeb778af2ce67ed37dae2376d21d1809",
+    "Mesh_2": "500f169cf4f912d546f95b8bb81bd1d29f4e02f647d1a926e82745cc6affe134",
+    "Mesh_3": "cb1dce7bf1535111e7d0f898b74ba684e0741ba7dad9b64c68ffaeac8d24c48b",
+    "Mesh_4": "e5e70440357b9f84f6137f1c05bc368dd58d12b82cb86e8e20b1687cce97b7db",
+    "Mesh_5": "e5e70440357b9f84f6137f1c05bc368dd58d12b82cb86e8e20b1687cce97b7db",
+    "Mesh_6": "02b2cfeb98f0abf4f6d03faae9beb78919c0e27b13d46f782b9dd90ee5d1a5b6",
+    "Mesh_7": "0c8cbca0fd146cf15a6e717e42d86e467193a6747f0da6879ee411cc8f2a6eb6",
+    "Mesh_8": "0c8cbca0fd146cf15a6e717e42d86e467193a6747f0da6879ee411cc8f2a6eb6",
+    "Mesh_9": "02b2cfeb98f0abf4f6d03faae9beb78919c0e27b13d46f782b9dd90ee5d1a5b6",
+    "Mesh_10": "0c8cbca0fd146cf15a6e717e42d86e467193a6747f0da6879ee411cc8f2a6eb6",
+    "Mesh_11": "0c8cbca0fd146cf15a6e717e42d86e467193a6747f0da6879ee411cc8f2a6eb6",
+    "CreatureBody": "40c74fd0809b98fec0543864fa9d075d0a29ef1de4885c0f0ce73ce471a68caf",
+    "Icosphere": "5616e0eb6aaa7ebd8a575126a5131b7b1bf505ef75fd2954acafa28e08bc1da5"
+  },
+  "retainedOriginalVerticesWeights": true,
+  "visibleSurface": "New donor hides original armour; original rig and maul retained",
+  "newTriangles": 185456,
+  "status": "Fitted intermediate; final requires packing, smoothing and exact gloves"
+}

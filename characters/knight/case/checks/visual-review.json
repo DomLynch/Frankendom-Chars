@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-28",
+  "method": "All rank views inspected; repaired L6/L7 reviewed after final local capture. Unchanged ranks cross-render comparison max mean absolute channel difference0.123/255. Actual GLB overview visually reviewed.",
+  "ranks": [
+    {
+      "rank": 2,
+      "sha256": "53c8ddf92dadd0f518e3552c5376b6974f6e2d1fc1b0dd87eac7a71717512be4",
+      "frontBackSideAttackGuardKickFight": "reviewed",
+      "decision": "accepted isolated candidate with documented finish limitations",
+      "originalClosedFaceRule": "preserved",
+      "gameIntegration": "not performed"
+    },
+    {
+      "rank": 3,
+      "sha256": "14c45faa80fdc924404daa9e103d9a22dad1b28d29f0e8d6ecf5d4dbfca8908c",
+      "frontBackSideAttackGuardKickFight": "reviewed",
+      "decision": "accepted isolated candidate with documented finish limitations",
+      "originalClosedFaceRule": "preserved",
+      "gameIntegration": "not performed"
+    },
+    {
+      "rank": 4,
+      "sha256": "331ed177f0efeaa8c5fcecc9b497f371c5ba1044b34264b54c0e9c9c5e2e6766",
+      "frontBackSideAttackGuardKickFight": "reviewed",
+      "decision": "accepted isolated candidate with documented finish limitations",
+      "originalClosedFaceRule": "preserved",
+      "gameIntegration": "not performed"
+    },
+    {
+      "rank": 5,
+      "sha256": "37751d989e74a2299436a1bd84a0e04823a5a5b01c770aae797657f82f233709",
+      "frontBackSideAttackGuardKickFight": "reviewed",
+      "decision": "accepted isolated candidate with documented finish limitations",
+      "originalClosedFaceRule": "preserved",
+      "gameIntegration": "not performed"
+    },
+    {
+      "rank": 6,
+      "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+      "frontBackSideAttackGuardKickFight": "reviewed",
+      "decision": "accepted isolated candidate with documented finish limitations",
+      "originalClosedFaceRule": "preserved",
+      "gameIntegration": "not performed"
+    },
+    {
+      "rank": 7,
+      "sha256": "82db420e9585a1e2d1c361d17f2e7c802de2f97f206d617c5da6da06309402b7",
+      "frontBackSideAttackGuardKickFight": "reviewed",
+      "decision": "accepted isolated candidate with documented finish limitations",
+      "originalClosedFaceRule": "preserved",
+      "gameIntegration": "not performed"
+    },
+    {
+      "rank": 8,
+      "sha256": "8e729c71ec36abbbe96ee77503bb55e6a0374757c52c9b4291cdea91960af908",
+      "frontBackSideAttackGuardKickFight": "reviewed",
+      "decision": "accepted isolated candidate with documented finish limitations",
+      "originalClosedFaceRule": "preserved",
+      "gameIntegration": "not performed"
+    },
+    {
+      "rank": 9,
+      "sha256": "2b8b52706d78182735e8eec883df1b5d0434ecceacad80ec2aafe12e622eed29",
+      "frontBackSideAttackGuardKickFight": "reviewed",
+      "decision": "accepted isolated candidate with documented finish limitations",
+      "originalClosedFaceRule": "preserved",
+      "gameIntegration": "not performed"
+    },
+    {
+      "rank": 10,
+      "sha256": "8668acfb7e7c660562b15207df813d1fd62ecc2153321570653d74a6d5b4d940",
+      "frontBackSideAttackGuardKickFight": "reviewed",
+      "decision": "accepted isolated candidate with documented finish limitations",
+      "originalClosedFaceRule": "preserved",
+      "gameIntegration": "not performed"
+    }
+  ]
+}

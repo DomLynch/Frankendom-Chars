@@ -1,0 +1,170 @@
+[
+  {
+    "model": "knight-L6.glb",
+    "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+    "image": "L6-front.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "samples": 32,
+    "transparentBounces": 64,
+    "projectedArmourHeightPx": null,
+    "imageSha256": "babbbf401f531dbbc377f86c8966f926fa0f1e78738c62ae1a27f4eee3138e4b",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "knight-L6.glb",
+    "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+    "image": "L6-back.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "samples": 32,
+    "transparentBounces": 64,
+    "projectedArmourHeightPx": null,
+    "imageSha256": "b58bd22883c1070f59b7a627af708a690a2e057beb4fd512e3d60e6b6800d470",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "knight-L6.glb",
+    "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+    "image": "L6-side.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "samples": 32,
+    "transparentBounces": 64,
+    "projectedArmourHeightPx": null,
+    "imageSha256": "404867fade69535ee6123f8c69be5bb5bd34592ce200ae94e1781ebd949ded9b",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "knight-L6.glb",
+    "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+    "image": "L6-attack.png",
+    "clip": "Maul_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "samples": 32,
+    "transparentBounces": 64,
+    "projectedArmourHeightPx": null,
+    "imageSha256": "d7dff8e4f10b6efce7ba63ca6536469cb45731f02d4ce769f5f26a6528a640ce",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "knight-L6.glb",
+    "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+    "image": "L6-guard.png",
+    "clip": "Maul_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "samples": 32,
+    "transparentBounces": 64,
+    "projectedArmourHeightPx": null,
+    "imageSha256": "12446b6ebb1877fc7ec6699afca9e4ebd017b09826341c343b4caca5fbdd5d82",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "knight-L6.glb",
+    "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+    "image": "L6-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "samples": 32,
+    "transparentBounces": 64,
+    "projectedArmourHeightPx": null,
+    "imageSha256": "c8b4a9eecb33deaf32198498f9f5881896eea9229e62c86d7502917aa6b7d8ca",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "knight-L6.glb",
+    "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+    "image": "L6-fight.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 10.232955932617188,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "samples": 32,
+    "transparentBounces": 64,
+    "projectedArmourHeightPx": 109.99998450279236,
+    "imageSha256": "70c6ec09a311ccd9d8cb8696a987db534627ce2600052c9b4182f7bcc2ddc3bd",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  }
+]

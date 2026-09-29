@@ -1,0 +1,1323 @@
+{
+  "rank": "L8",
+  "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+  "bytes": 79118828,
+  "sourceBuffersExact": true,
+  "sourceAnimationsExact": true,
+  "sourceJointMatricesExact": true,
+  "clipCount": 37,
+  "jointPoseSamples": 185,
+  "originalFaceSkinHidden": true,
+  "newMeshes": [
+    {
+      "mesh": "L8_Armour",
+      "vertices": 282197,
+      "triangles": 65879
+    },
+    {
+      "mesh": "L8_Armour",
+      "vertices": 282197,
+      "triangles": 63169
+    },
+    {
+      "mesh": "L8_Armour",
+      "vertices": 282197,
+      "triangles": 2759
+    },
+    {
+      "mesh": "L8_Armour",
+      "vertices": 282197,
+      "triangles": 117826
+    },
+    {
+      "mesh": "L8_Gloves",
+      "vertices": 2120,
+      "triangles": 1532
+    },
+    {
+      "mesh": "L8_Lining",
+      "vertices": 59770,
+      "triangles": 10161
+    },
+    {
+      "mesh": "L8_ClosedHelmet",
+      "vertices": 312288,
+      "triangles": 13991
+    },
+    {
+      "mesh": "L8_Coverage",
+      "vertices": 312288,
+      "triangles": 154373
+    },
+    {
+      "mesh": "L8_SealedGorget",
+      "vertices": 132,
+      "triangles": 192
+    }
+  ],
+  "motion": [
+    {
+      "clip": "Kick",
+      "fraction": 0,
+      "mesh": "L8_Armour",
+      "p99Stretch": 1.634518687439838,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 1.5300538560938814,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.445988720332526,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.488213334339657,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 1.6000040513865132,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3073183984888215,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.25,
+      "mesh": "L8_Armour",
+      "p99Stretch": 1.750354698850815,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.25,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 1.5341646972161196,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.25,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.445332621556843,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.25,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4883072780666218,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.25,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 1.727028456929663,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.25,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3080717069185996,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.5,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.049936953286939,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.5,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 1.5344897945399008,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.5,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.445517935255044,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.5,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4883125272705073,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.5,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.046651182988748,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.5,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3081299673070068,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.75,
+      "mesh": "L8_Armour",
+      "p99Stretch": 1.6983095330846338,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.75,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 1.531495333453782,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.75,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4454761341971016,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.75,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4882535352083908,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.75,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 1.6636924594747442,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 0.75,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3075910892048441,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 1,
+      "mesh": "L8_Armour",
+      "p99Stretch": 1.634518687439838,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 1,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 1.5300538560938814,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 1,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.445988720332526,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 1,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.488213334339657,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 1,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 1.6000040513865132,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Kick",
+      "fraction": 1,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3073183984888215,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.160221910176127,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.0911493352302744,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712036096877,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4912901147442572,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050910574638502,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3093660070926187,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.25,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.128977421204652,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.25,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.091149228881041,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.25,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712687261463,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.25,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4679294241762546,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.25,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.0163143212794563,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.25,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.22658411518617,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.5,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.155053913035579,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.5,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.091149374403929,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.5,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712573613717,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.5,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4912901193485726,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.5,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050006477441094,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.5,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3093659342945543,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.75,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.1290241976706787,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.75,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.091149260152911,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.75,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712520033023,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.75,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.467929456089328,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.75,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.015473606817404,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 0.75,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.2265841164206146,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 1,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.160221910176129,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 1,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.0911493352302744,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 1,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712036096877,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 1,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4912901147442572,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 1,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050910574638503,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Idle",
+      "fraction": 1,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3093660070926187,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.160221910176127,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.0911493352302744,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712036096877,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4912901147442572,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050910574638502,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3093660070926187,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.25,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.1880064939105557,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.25,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.160979544807326,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.25,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4575277930254067,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.25,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4993582094978122,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.25,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050669093492448,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.25,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.309275055961672,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.5,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.2145901401191144,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.5,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.023965049214258,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.5,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4437182387182146,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.5,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.5621294132244825,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.5,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.1144705808726703,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.5,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.293071353442507,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.75,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.1619689853727246,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.75,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.280784222890176,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.75,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4460142115784953,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.75,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.501251071122877,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.75,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.059450451856114,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 0.75,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3058095127680451,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 1,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.160221910176127,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 1,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.0911493352302744,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 1,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712036096877,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 1,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4912901147442572,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 1,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050910574638502,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Slash",
+      "fraction": 1,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3093660070926187,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.160221910176127,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.0911493352302744,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712036096877,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4912901147442572,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050910574638502,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3093660070926187,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.25,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.2551795844983515,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.25,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 2.8134570736482902,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.25,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4271775015920611,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.25,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.6462411361108187,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.25,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.0647064713005796,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.25,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3099068733431416,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.5,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.1360209610742786,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.5,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 2.928267940467701,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.5,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4721423586100322,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.5,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.5307998474817968,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.5,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.0634980944538843,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.5,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.303140967860589,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.75,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.1163065180468585,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.75,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.1404223153301514,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.75,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4678970707959451,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.75,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.5063295593553514,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.75,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.0351157077428375,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 0.75,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3056531463265384,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 1,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.160221910176127,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 1,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.0911493352302744,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 1,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712036096877,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 1,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4912901147442572,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 1,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050910574638502,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Heavy",
+      "fraction": 1,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3093660070926187,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.160221910176127,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.0911493352302744,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712036096877,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4912901147442572,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050910574638502,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3093660070926187,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.25,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.185631334402669,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.25,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.2450108384389416,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.25,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4575326114419822,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.25,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.503217124661707,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.25,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.0610696004190987,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.25,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.308544524001163,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.5,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.1740066302870917,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.5,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.1052567275523373,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.5,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4573831138609843,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.5,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.5250690014520798,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.5,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.077372968749403,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.5,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3020738071498075,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.75,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.168476173099893,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.75,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.2864748167059763,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.75,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4575626218332156,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.75,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.5025776539935845,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.75,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.0571107017914385,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 0.75,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3065716177338556,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 1,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.160221910176127,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 1,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.0911493352302744,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 1,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712036096877,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 1,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4912901147442572,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 1,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050910574638502,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Thrust",
+      "fraction": 1,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3093660070926187,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.160221910176127,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 3.0911493352302744,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4499712036096877,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.4912901147442572,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.050910574638502,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3093660070926187,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.25,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.1356165874110364,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.25,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 2.9638624227832095,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.25,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.4452172685777815,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.25,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.49166348169463,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.25,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.0418771073907505,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.25,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3079540869040767,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.5,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.111645248043556,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.5,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 2.718287681102805,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.5,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.446014214492732,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.5,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.509983217876173,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.5,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.036176591385688,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.5,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3058095149163635,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.75,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.1116452480435646,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.75,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 2.7182876811027996,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.75,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.446014214492732,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.75,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.509983217876173,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.75,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.036176591385688,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 0.75,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3058095149163635,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 1,
+      "mesh": "L8_Armour",
+      "p99Stretch": 2.1116452480435646,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 1,
+      "mesh": "L8_Gloves",
+      "p99Stretch": 2.7182876811027996,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 1,
+      "mesh": "L8_Lining",
+      "p99Stretch": 1.446014214492732,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 1,
+      "mesh": "L8_ClosedHelmet",
+      "p99Stretch": 1.509983217876173,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 1,
+      "mesh": "L8_Coverage",
+      "p99Stretch": 2.036176591385688,
+      "longStretchedEdges": 0
+    },
+    {
+      "clip": "Warhammer_Guard",
+      "fraction": 1,
+      "mesh": "L8_SealedGorget",
+      "p99Stretch": 1.3058095149163635,
+      "longStretchedEdges": 0
+    }
+  ],
+  "worstLongEdges": 0,
+  "visualCoverageAccepted": false,
+  "scope": "structural verification; visual coverage and collision review are separate"
+}

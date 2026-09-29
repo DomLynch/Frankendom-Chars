@@ -1,0 +1,2199 @@
+[
+  {
+    "model": "models/dwarf-L1.glb",
+    "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+    "image": "L1-rest.png",
+    "clip": null,
+    "frame": 0,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 417.1327516436577,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "495c4e94a7e163524dbf60ba7fdf10e62d2f9a2bcefcd58588b810ed9f064ea2"
+  },
+  {
+    "model": "models/dwarf-L1.glb",
+    "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+    "image": "L1-front.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 374.6444374322891,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "fa19c13c891681aedbefafa59eda2bc8221ce7fbdf9ce989e17d66f3ec1c3bdc"
+  },
+  {
+    "model": "models/dwarf-L1.glb",
+    "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+    "image": "L1-side.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 374.9598562717438,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "3f060a0c5fa8c089f023ff8507dac5ce57fbf781ac7c03306fa973115a9b9492"
+  },
+  {
+    "model": "models/dwarf-L1.glb",
+    "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+    "image": "L1-back.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 374.6444061398506,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "962c2da5dcb452db383013226f65d0ac4811c3629c5df33ce82d0872c423aaeb"
+  },
+  {
+    "model": "models/dwarf-L1.glb",
+    "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+    "image": "L1-attack.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 364.63154554367065,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "5106e152ba6964de330a16029b4012f33db78973b62719bc3b284a4c67e7612e"
+  },
+  {
+    "model": "models/dwarf-L1.glb",
+    "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+    "image": "L1-guard.png",
+    "clip": "Warhammer_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 372.35067039728165,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "e6dd4cf6332f19090ed8d3b7bd987251b65b2ed9acb75e4f2f820725f1b5e724"
+  },
+  {
+    "model": "models/dwarf-L1.glb",
+    "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+    "image": "L1-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 382.3590651154518,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "30867d9991896951d1abc90489f5863be6396c0ec8d0acbd5d0d98172c51dd8c"
+  },
+  {
+    "model": "models/dwarf-L1.glb",
+    "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+    "image": "L1-fight.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 8.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 89.09229040145874,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "6a19c9c1560c92481772b76930569fa0ec6a3832ea4f983d77814b82148f8ca8"
+  },
+  {
+    "model": "models/dwarf-L1.glb",
+    "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+    "image": "L1-heavy-start.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 6,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 413.15008252859116,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "073df224a29fd356c0f0eb619ba600dd6ccc44a72857681fda6f227d58cfcb97"
+  },
+  {
+    "model": "models/dwarf-L1.glb",
+    "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+    "image": "L1-guard-deep.png",
+    "clip": "Warhammer_Guard",
+    "frame": 12,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 372.34788089990616,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "310769874872c8055881048ebad07df0a86cf2f45ae2438088bfc2c03c3b3b02"
+  },
+  {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "image": "L2-rest.png",
+    "clip": null,
+    "frame": 0,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 444.4485828280449,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "84924954e99a06356fe68f141de33b3b2b61545efcfaf925c3424529d44e219d"
+  },
+  {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "image": "L2-front.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 396.20123505592346,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "05d6d7e9b3c7ab0313f3c2531a01341874dd9b7d85c86e8c82813778d76f7913"
+  },
+  {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "image": "L2-side.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 397.00736850500107,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "3d4aa6068002ae07638deca6ff7728810558c448b1fd321f5f62c26df8bd486d"
+  },
+  {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "image": "L2-back.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 396.2012216448784,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "2d125511b765e2f139c6a9d6f18213de1cc29f608870595f850b340ae5a4b4e9"
+  },
+  {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "image": "L2-attack.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 385.1299077272415,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "6456850a4d0fb5afdee4029f0974c41bf1310372fa374168622a32850d4020c6"
+  },
+  {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "image": "L2-guard.png",
+    "clip": "Warhammer_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 395.45406103134155,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "db6f147227dfa91143db4d6d2b34b66a7d2455cb8b9890974ffb317d27a56e8f"
+  },
+  {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "image": "L2-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 408.14027041196823,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "a6f2c6ecfb24f54f7144e505ab129bcf20049604fbd097f19bec8762d7149a53"
+  },
+  {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "image": "L2-fight.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 8.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 94.21859979629517,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "fd91a5b050d8ea3f9bb02e5ccf7b259cfc626e9380836b64f4c5938f5d9c3749"
+  },
+  {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "image": "L2-heavy-start.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 6,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 412.0310381054878,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "42605907d921fef94a2f6a0e8841707ee7d21b1f4ce51e285282df1ec715fc27"
+  },
+  {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "image": "L2-guard-deep.png",
+    "clip": "Warhammer_Guard",
+    "frame": 12,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 395.444056391716,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "4b2f60e589196ccd4a69383aa7acae2886495b4f5a88fbf006df2f9e5411d3de"
+  },
+  {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "image": "L3-rest.png",
+    "clip": null,
+    "frame": 0,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 443.4840068221092,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "4b7194a5932c8b43b7cabb8ef72edfd3eb110a52b2b6a9e27558f2db55fa93d4"
+  },
+  {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "image": "L3-front.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 396.00226879119873,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "27a360f24eb00896010652d51005dc2e565e66cf245ba889c9ff6e827a608a86"
+  },
+  {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "image": "L3-side.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 396.98161482810974,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "7a7383192cdb6066846f7fc8da1ee57efda18bb75404afd2aee91d284a1a2227"
+  },
+  {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "image": "L3-back.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 396.0022911429405,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "19dcefc2db07eb8371392678628f8b3e0cf1a2d5d08a12ff69b8d98f6550da70"
+  },
+  {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "image": "L3-attack.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 385.4845181107521,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "bebc356311b126e11c33cfc0060e953ffa41abfe71e662e4f87d6a8a4cf891f8"
+  },
+  {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "image": "L3-guard.png",
+    "clip": "Warhammer_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 395.2539548277855,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "06d80b1f05e6bba0870c265ae97640f9911499a7d517e81faafc4e90809c34e2"
+  },
+  {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "image": "L3-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 407.379287481308,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "4ebf948e3e78827714ee30078a8843fd8b2912da3d119b9e6ccc9c68b8c948d9"
+  },
+  {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "image": "L3-fight.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 8.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 94.17126774787903,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "f6ce38d9db7489fb4e9e3ca04427ac8dcb6062d56730dff185390ae91d2ed39f"
+  },
+  {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "image": "L3-heavy-start.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 6,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 419.4575563073158,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "c877caff0906b356f9d9df52803cfa47b84c52c146de93b39dbb4980bc92e14b"
+  },
+  {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "image": "L3-guard-deep.png",
+    "clip": "Warhammer_Guard",
+    "frame": 12,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 395.2319875359535,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "e2805b0861b268587c8cfbe2d32a7d416747802fa6aaeb1bf2306e3c8bf1ddae"
+  },
+  {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "image": "L4-rest.png",
+    "clip": null,
+    "frame": 0,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 443.1897774338722,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "5f49fe4f07e6b67a06a10a42ae025d12993f555cf08b960572d647846fd3b879"
+  },
+  {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "image": "L4-front.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 395.0267359614372,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "48292c7b993598e89800ea3b79943349c60fe5043a02d92035416e714ddb8074"
+  },
+  {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "image": "L4-side.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 395.84503322839737,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "b2e8401b399ca3be0571c0b60c79749566219b6f18bb8b3b08649af67b92fbde"
+  },
+  {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "image": "L4-back.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 395.02673149108887,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "96dae558b01db884e3550ccf30c327d414a78fd1d20b88358ae5cc07686f5166"
+  },
+  {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "image": "L4-attack.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 384.37445014715195,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "f8e260e2be1699723c89751e7b82f818606e7a1508d38253654149aaa5b2fcd6"
+  },
+  {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "image": "L4-guard.png",
+    "clip": "Warhammer_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 394.31274086236954,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "bbb0eef3d81a9a73c63f99c98f8b4cb5fb3928944f8ed223bade44455a023475"
+  },
+  {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "image": "L4-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 406.5727472305298,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "1a0ddf0983f88397ee453073e500f8087d0a83e6ecc5aba900a268ef9c6bbae0"
+  },
+  {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "image": "L4-fight.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 8.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 93.93927454948425,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "a4f1c4e8d752fe93c8b70a48bd29a00a470cfb4f0d225b62848c032399713f94"
+  },
+  {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "image": "L4-heavy-start.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 6,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 414.88514989614487,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "ad2843bf7396a9975b416f23379889e257d57cf6c527beaf22f4b23256150c78"
+  },
+  {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "image": "L4-guard-deep.png",
+    "clip": "Warhammer_Guard",
+    "frame": 12,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 394.2768529057503,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "37d2e52e59ef392540e64837c0da6121afc5f97ab5a87e69c46dcc4bb57a7ecc"
+  },
+  {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "image": "L5-rest.png",
+    "clip": null,
+    "frame": 0,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 445.4869732260704,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "a130acbf892451d016662bdf2b306f08e897e9518fbf85f4fd9632ffbb23b703"
+  },
+  {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "image": "L5-front.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 400.00728964805603,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "fea21beecec458eb5758000f419c71aa85067daf43da2df6d19d429acdeb5350"
+  },
+  {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "image": "L5-side.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 400.83265006542206,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "a8682cda77b18fecb4be08e3a67a160bdda48ec7a3d0960b63aa3237096a50d8"
+  },
+  {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "image": "L5-back.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 400.0072717666626,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "e19e5d6ffd5665dc03126e9d68fdde2ac241d566a95b24d543b6cb3a264f8368"
+  },
+  {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "image": "L5-attack.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 389.11868780851364,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "1afeb3cb1c8efb710b0090709003cd999f9f91b4d607ceacef412b0244810f9b"
+  },
+  {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "image": "L5-guard.png",
+    "clip": "Warhammer_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 398.0179041624069,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "9ae2113e0d3d4fd68272b52eba7e968cc5301a0c5e763189afc84d028a9d0686"
+  },
+  {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "image": "L5-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 409.1460585594177,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "c664ece9f69216d22b89de537f9459100913ec674523d81e7be959edc7bd6999"
+  },
+  {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "image": "L5-fight.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 8.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 95.12366652488708,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "10fd8b24ea32c10859eaf3dad1f441415b57314242002c35620eab2cd2506898"
+  },
+  {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "image": "L5-heavy-start.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 6,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 411.2809181213379,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "3cadf84235f1c6e9b18776e9649562956b44e7f2dd329e9c0c7a29093f333547"
+  },
+  {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "image": "L5-guard-deep.png",
+    "clip": "Warhammer_Guard",
+    "frame": 12,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 397.97774255275726,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "bb1d950381b177c3b7fb0f89400142f78078c8402accd1abbfb14eceffda4212"
+  },
+  {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "image": "L6-rest.png",
+    "clip": null,
+    "frame": 0,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 444.42417472600937,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "ccfbe91e6fe0ae2109b8d417c232fce4a306e0ae90566cb8dd5c060c580c0cef"
+  },
+  {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "image": "L6-front.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 394.9870437383652,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "cbb1814a62a3ba30566c4b07b97d365c1df90e0577a1ff6416cb8c43420349f7"
+  },
+  {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "image": "L6-side.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 395.77932357788086,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "9adf305e9813f13aa75f0b033e29575b3983c683d445e062fd347a5457f59acd"
+  },
+  {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "image": "L6-back.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 394.9870079755783,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "cde2cf9284c9eb8dcbd45d93ff69ac4cc6036dc1f026949051ec1c4e652613df"
+  },
+  {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "image": "L6-attack.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 384.2393293976784,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "c6717432ad8fc334520b352da097de936244e6473b1890f4a1a796cd8c310dff"
+  },
+  {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "image": "L6-guard.png",
+    "clip": "Warhammer_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 395.18907219171524,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "66c6bccf68a98457700a7c0f43d41b09caaaa305a0dad9a6ff9ebb7f8ceebc22"
+  },
+  {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "image": "L6-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 408.33988934755325,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "3dfb1849945dc7c9535c2be2924ad403e454f35a6ce388b1c6422dbec4a45fd2"
+  },
+  {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "image": "L6-fight.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 8.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 93.92985105514526,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "7c96430d13f036c8fc15d8d330aa75b849810b5a5a9421a381b7bb0d076c7682"
+  },
+  {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "image": "L6-heavy-start.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 6,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 418.7438517808914,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "1dbf42d61b204c1890e83349f9253e17e462cc5fc0b0f6c803ef5d79c32e413b"
+  },
+  {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "image": "L6-guard-deep.png",
+    "clip": "Warhammer_Guard",
+    "frame": 12,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 395.1510161161423,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "27ebf6b358b29146605d312fa17cfda408b5475ea31db88b322c4183a456fe9d"
+  },
+  {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "image": "L7-rest.png",
+    "clip": null,
+    "frame": 0,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 446.06033116579056,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "a4cfbbbd18a2b1a2b415ec88568498de23514dcdb3030484609e6c42c95ab41f"
+  },
+  {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "image": "L7-side.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 400.34341514110565,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "e93ef48199cc7d17b17b8213254b6c2b3ae61c86264affb859fa6ad0e57f2f05"
+  },
+  {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "image": "L7-back.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 399.3061378598213,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "ae2a5e1b0877da380f24bf9a48b25a559f8243dd05ffe0d4f461a12e7959b8c1"
+  },
+  {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "image": "L7-attack.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 388.5913208127022,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "f6b7320db2d9be69b55f17a137eba3cc2d2ef40b759f0370c5cd8946cd76b649"
+  },
+  {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "image": "L7-guard.png",
+    "clip": "Warhammer_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 397.83818274736404,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "3c7a95f61a4cefc061954f9078161702fce88adccfc7db856544818a8240faa5"
+  },
+  {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "image": "L7-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 410.03822833299637,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "a234aa5215c0898c7cecf9d3a1a273b5144a0b0dcbe2255fe30675f5fd527b52"
+  },
+  {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "image": "L7-fight.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 8.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 94.9569582939148,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "35a93d31e00273f42b54d4cc68b9ca327c7e4e3b199134cd716e9e2b0a62c9d0"
+  },
+  {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "image": "L7-heavy-start.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 6,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 413.9562025666237,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "3004f7e67ee9bfe434b5daa01f4b595db91996cb1efa95d835df51d631cb208e"
+  },
+  {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "image": "L7-guard-deep.png",
+    "clip": "Warhammer_Guard",
+    "frame": 12,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 397.7999836206436,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderRuntime": "Blender 5.2.1, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "5c680d9e819585b5d1d2a0a27959cbcb3da080cb6931b78d3d678fe320adf860"
+  },
+  {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "image": "L7-front.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 399.30617809295654,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/../models/dwarf-L7.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "0abba635969078da2ad103a90d21bb71a7e4a1e93e3dad9a86dbf51b2554c517"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-rest.png",
+    "clip": null,
+    "frame": 0,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 443.258835375309,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "8ab6cdf8ca9145f64f0f904c352df3b1218deb68650142f5055af2f150acea2b"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-front.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 401.30624771118164,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "bc325712b53d1ec49f5cf78c96709c72c2c5bbc14b4ddddc73526e206026e544"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-side.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 402.75459587574005,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "5071cf90f6b5657ce66d668576bb4e635dc9d1534c61cd366b3b9ea78942e77a"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-back.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 402.84189730882645,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "8080272251bcf3e9fdde50c2f42f8bcda818c5a25b766e447bb28b0f5a0cf96b"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-attack.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 393.5844898223877,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "4da306c3eb13603135aca0f02975566c4467ae322bfc18f38159570a5cda8a17"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-guard.png",
+    "clip": "Warhammer_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 401.3037085533142,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "72cf0a3c6395e22dc8680f15597ab2fde53fe5be85a7b91b176489d4e1008b6e"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 410.9541893005371,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "2df4d36b9f6633983e9746efebeea73c938c6dde07405137616a8dbae86d307b"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-fight.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 8.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 95.43260335922241,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "c9405badcc53bbd91fe48288716c1b50949d83530ca49cc844e6819edb6356ff"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-heavy-start.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 6,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 411.85659170150757,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "dbfa6fbbcb6dbfc602d91036c118caa21c650507202c413c1a84c499275a195f"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-guard-deep.png",
+    "clip": "Warhammer_Guard",
+    "frame": 12,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 401.4793395996094,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "fb033aee43ecd407c93aa1504cd154e0f8c1426cf643e2ab00dc2d6a6cff5fb3"
+  },
+  {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "image": "L8-closeup.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.25
+    ],
+    "orthoScale": 0.949999988079071,
+    "viewport": [
+      750,
+      900
+    ],
+    "figureHeightPx": 1238.0178272724152,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/targeted/L8/dwarf-L8.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "46b6b6dce17aabc9a6d3368f5284f9f3a76676fd2cfbb7fb39269670d0d4c6fb"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-rest.png",
+    "clip": null,
+    "frame": 0,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 443.4636130928993,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "610d0a046b0162a2c11e6cf18f455b22c54d1faaeba91b488e3a4a052b79fdda"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-front.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 399.0626111626625,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "bb2eb2e0506beab91aa3d8c98a964a34d4aa0647bd5509ed4c3e9f440cd54181"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-side.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 399.66005980968475,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "4a435da501deca0ada75df90dc681d39ed2699129c4eb5988db6afc8f970dc3d"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-back.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 399.06261563301086,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "96b1821925372b7c6588694759c31c152e1a23088e4c691d1a34ed12822dbc68"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-attack.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 388.29603642225266,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "277da40bd52e355ac5b817c5729c88735e83f987bd14d398d0ea2e0d84b8ca6a"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-guard.png",
+    "clip": "Warhammer_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 397.43933379650116,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "69349aa2a81c85e98c29b75e0771ce5801db9a775ca14cf5fcabb3137b712cda"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 407.87974298000336,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "01cf275acefe974ca3f57be1c57fd5e77d475e60ff6032ce6eb38ecbb8bae33d"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-fight.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 8.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 94.89905834197998,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "68a3293cdea38314eccff45e9fa0f02ffa7d781b2fac94d4ae38023a3ee40d85"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-heavy-start.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 6,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 415.96487760543823,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "bbbaab9f51736b80d11bcebb07c0ccfd1c5fa6b658577846563ed9bedba6dbe3"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-guard-deep.png",
+    "clip": "Warhammer_Guard",
+    "frame": 12,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 397.3969638347626,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "03c58a5f9d0ec003929420a261f15cc5567acab40665b427ee6f4e816a42af06"
+  },
+  {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "image": "L9-closeup.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.25
+    ],
+    "orthoScale": 0.949999988079071,
+    "viewport": [
+      750,
+      900
+    ],
+    "figureHeightPx": 1232.8640162944794,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L9/dwarf-L9.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "65db5e6fb8517b9d30ffbf29332ccc25acf2a9d2c087d5cee8b2c46c49cfc10f"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-rest.png",
+    "clip": null,
+    "frame": 0,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 443.22883039712906,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "f5e13d601747c1a3a992254dd1e972678d964573265d57fa1914745be4e8b3d2"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-front.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 398.9778622984886,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "14920c656675f3af97c44b737a2317824b94625c8fa1a4c9c5cd5f0864c2ddc2"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-side.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 399.7859090566635,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "f734db5f039176028aa8a74a5f79c35094e0aa81b144dec1eab0d5d4e2e94422"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-back.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 398.97784888744354,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "ebb31e21a671ae61edcc646e01c18098e96117ef66d155e5bded7ae61e37212e"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-attack.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 388.4352743625641,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "0160e1da07debd63fd41657e885150b9d33e4e16505b5099638f647fe8c3a022"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-guard.png",
+    "clip": "Warhammer_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 396.247136592865,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "c6a4c829694f157b29fa64c0020917ca01ff37ad7c2b0f0b583b86efbb17b30d"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 406.9458469748497,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "5d824ab894b34c3114964b96c210c39e5e68c474e310b074351dd2543ece8d09"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-fight.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 8.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 94.87890601158142,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "f335364ab67fe1ece70e59100468752f7861215ac60bb61ac606b80fc0914f57"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-heavy-start.png",
+    "clip": "Warhammer_Heavy",
+    "frame": 6,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 417.78663396835327,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "d30ba742dc8bed975a07c9d41ad664b3202016f1fbee3e7d241ccdc870b0c0bc"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-guard-deep.png",
+    "clip": "Warhammer_Guard",
+    "frame": 12,
+    "camera": [
+      0.0,
+      -6.0,
+      0.8999999761581421
+    ],
+    "orthoScale": 1.9500000476837158,
+    "viewport": [
+      375,
+      600
+    ],
+    "figureHeightPx": 396.2138593196869,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "975189cc089bb4aaefcb5e34c99c6157c7d603f3fd1fa85845196816f166d5d5"
+  },
+  {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "image": "L10-closeup.png",
+    "clip": "Warhammer_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.25
+    ],
+    "orthoScale": 0.949999988079071,
+    "viewport": [
+      750,
+      900
+    ],
+    "figureHeightPx": 1232.489687204361,
+    "scope": "CPU studio render; not gameplay or physical phone performance",
+    "renderInputModel": "elite-correction/L10/dwarf-L10.glb",
+    "renderRuntime": "Blender 4.5.3, Cycles CPU, 32 samples, two threads",
+    "imageSha256": "513996b7cc586e4d3d664b9b112e33b1c534ef098b595f19069f982335454825"
+  }
+]

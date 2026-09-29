@@ -1,0 +1,36 @@
+{
+  "source_signatures": {
+    "WeaponDrawn_1": "67dde0b796fbc5d3211581a2d5a4c18078fe5c4ef6c63d3960b330b2a668a430",
+    "WeaponDrawn_2": "4dbc6cf672d5cd530bc33734cc4de349d8c00711f08a17587de585171f211e22",
+    "Steel": "4ce2473872b2df551abdb22f380f50a1aa7b931a784df560af64b77b2db348f8",
+    "Steel.Body": "b6216f9745ba115e3fb59838ea8000ea7e0e7f2ad9064cf74b26f19290706fa5",
+    "Antique brass": "6ad5f6f40f76fc0444b29c58535746ce9a3ed1ae2545dbd8f5914f3ffda111c5",
+    "Leather": "806a562cf3cb42663a5ada8408bfccb91775822eed17e43c179a7b61ed483005",
+    "Leather.Body": "ba33b564f82dffa27e2455b89fed276f1a0b25a141ad8c77403cc211c3a9da9c",
+    "Heraldry": "446e123622bcceebb487054f4ce043d2738d3c976b6f631af53a341a55bc5865",
+    "Gambeson": "6c4a9592ca568f78c77b87979b2650303d63021b1a295a0b8a3690b3168ed0a5",
+    "Wrap": "da32ccdcda2b4642a2d90c250856f0b085a4da7734e44f2e895412c7022d810a",
+    "Skin": "6e797cf2119761de3c170c0e9a3dc8d0b63d0b7e987d07a4e1a57beed9663fbc",
+    "Face": "4783a69883e55eadd801d2baec35e77e2df818db1ff7e8af14df2f98ce47c525",
+    "Photo": "50343bd8125b4e37058c435ea646196132346cc68093efce441357956cbe54e1",
+    "PhotoEyes": "0ac3598e6ce62884f94ed232704b6b3e5b5fbff354535e3d5457904956e95d38",
+    "PhotoTeeth": "08937265cec979cbcbf6800b23c7419a770233da9f723a8bb87e5300debbd9d0",
+    "Ruby": "67f5f0be405b4b71c035f6ec5b968826d829170f8af5a556540b20463107e3ac"
+  },
+  "unchanged_original_vertices_weights": true,
+  "donor_scale": 1.9196733294608848,
+  "face": "original Photo/Face/Eyes/Teeth retained visibly",
+  "hidden_originals": [
+    "Steel",
+    "Steel.Body",
+    "Antique brass",
+    "Leather",
+    "Leather.Body",
+    "Heraldry",
+    "Gambeson",
+    "Wrap",
+    "Skin",
+    "Ruby"
+  ],
+  "candidate": "first fit, visual acceptance pending"
+}

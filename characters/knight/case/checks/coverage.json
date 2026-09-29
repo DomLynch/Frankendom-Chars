@@ -1,0 +1,25 @@
+{
+  "ranks": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "candidateGLBs": 9,
+  "hashMatchedRankImages": 63,
+  "hashMatchedOriginalImages": 7,
+  "sampledMotionPoses": 252,
+  "qualifyingSevereStretchOccurrences": 0,
+  "introducedFormatErrors": 0,
+  "inheritedFormatErrorsPerModel": 95,
+  "originalRigJoints": 65,
+  "originalClips": 37,
+  "gameSourceChanges": false,
+  "carrierAssembly": false,
+  "phonePerformanceMeasured": false
+}

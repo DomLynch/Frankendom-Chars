@@ -1,0 +1,15 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 28092809,
+  "resolution": "1024",
+  "faces": 100000,
+  "texture": 2048,
+  "image": "source/L9-reference.png",
+  "preprocess_s": 10.8,
+  "image_to_3d_s": 28.2,
+  "extract_glb_s": 20.7,
+  "glb": "src/assets/source/creatures/witch-L9-donor.glb",
+  "bytes": 5284716,
+  "sha256": "e79017f191b9a0964d085bd58a0e7df769c1e87e4c827df26116a3ca8805ef7a",
+  "attempts": 1
+}

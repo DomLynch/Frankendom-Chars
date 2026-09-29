@@ -1,0 +1,16 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280904,
+  "resolution": "1536",
+  "faces": 200000,
+  "texture": 2048,
+  "image": "source/L4-reference.png",
+  "sampling_steps_each_stage": 36,
+  "preprocess_s": 14.3,
+  "image_to_3d_s": 117.1,
+  "extract_glb_s": 50.8,
+  "glb": "src/assets/source/creatures/knight-L4-detail-donor.glb",
+  "bytes": 9608364,
+  "sha256": "3d62fcd3345bd375721a3c07c909f0a7ad83a098fc756ee0dd65486fd41844e7",
+  "attempts": 1
+}

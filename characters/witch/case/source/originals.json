@@ -1,0 +1,11 @@
+{
+  "body": "/Users/domininclynch/Desktop/Business/frankendom/src/assets/witch.glb",
+  "sha256": "c99798db5972d37c0540b0b6683aedaf9afaf381cb39d7298818434adf55d45d",
+  "revision": "829dfdf8e5a151fe6dd3d1c29bf224e15b3d4dec",
+  "carrier": {
+    "source": "/Users/domininclynch/Desktop/Business/artifacts/silhouette-roster/carriers/witch.glb",
+    "revision": "ed385c6b752af2c0d2912d8addf0953c08dac63c",
+    "sha256": "0cb348815c60dd61325244cde3ef4c4344a434609b672b0e96a95b29f4f3fa24",
+    "bytes": 2200416
+  }
+}

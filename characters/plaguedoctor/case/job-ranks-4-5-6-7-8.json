@@ -1,0 +1,20 @@
+{
+  "id": "6aba2c126b030d633f69c02d",
+  "url": "https://huggingface.co/jobs/Domlynch/6aba2c126b030d633f69c02d",
+  "ranks": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "timeout": 1200,
+  "scales": {
+    "4": 1.84,
+    "5": 1.84,
+    "6": 1.84,
+    "7": 1.87,
+    "8": 1.94
+  },
+  "scope": "Candidate fitting and six reimported GLB captures each; visual review required"
+}

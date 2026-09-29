@@ -1,0 +1,16 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280909,
+  "resolution": "1536",
+  "faces": 200000,
+  "texture": 2048,
+  "image": "source/L9-reference.png",
+  "sampling_steps_each_stage": 36,
+  "preprocess_s": 13.0,
+  "image_to_3d_s": 112.1,
+  "extract_glb_s": 48.9,
+  "glb": "src/assets/source/creatures/knight-L9-detail-donor.glb",
+  "bytes": 10101552,
+  "sha256": "fcad3d06b41834606b83dc253e6a0ea546734912ac50a7e73617e33565046fbf",
+  "attempts": 1
+}

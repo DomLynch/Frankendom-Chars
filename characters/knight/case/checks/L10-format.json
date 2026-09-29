@@ -1,0 +1,1211 @@
+{
+  "report": {
+    "mimeType": "model/gltf-binary",
+    "validatorVersion": "2.0.0-dev.3.10",
+    "validatedAt": "2026-09-28T13:41:23.933Z",
+    "issues": {
+      "numErrors": 95,
+      "numWarnings": 34,
+      "numInfos": 40,
+      "numHints": 0,
+      "messages": [
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/0/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/0/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/1/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/1/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "MESH_PRIMITIVE_GENERATED_TANGENT_SPACE",
+          "message": "Material requires a tangent space but the mesh primitive does not provide it. Runtime-generated tangent space may be non-portable across implementations.",
+          "severity": 1,
+          "pointer": "/meshes/2/primitives/0/material"
+        },
+        {
+          "code": "MESH_PRIMITIVE_GENERATED_TANGENT_SPACE",
+          "message": "Material requires a tangent space but the mesh primitive does not provide it. Runtime-generated tangent space may be non-portable across implementations.",
+          "severity": 1,
+          "pointer": "/meshes/3/primitives/0/material"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/3/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/4/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/4/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/5/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/5/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/6/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/6/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/7/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/7/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/8/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/8/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/9/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/9/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/10/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/10/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/11/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/11/primitives/0/attributes/TEXCOORD_1"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/meshes/12/primitives/0/attributes/TEXCOORD_0"
+        },
+        {
+          "code": "NODE_EMPTY",
+          "message": "Empty node encountered.",
+          "severity": 2,
+          "pointer": "/nodes/57"
+        },
+        {
+          "code": "NODE_EMPTY",
+          "message": "Empty node encountered.",
+          "severity": 2,
+          "pointer": "/nodes/81"
+        },
+        {
+          "code": "NODE_SKINNED_MESH_NON_ROOT",
+          "message": "Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh.",
+          "severity": 1,
+          "pointer": "/nodes/97"
+        },
+        {
+          "code": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS",
+          "message": "Local transforms will not affect a skinned mesh.",
+          "severity": 1,
+          "pointer": "/nodes/98"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/accessors/4871"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/accessors/4872"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/accessors/4873"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/accessors/4874"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/accessors/4875"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/accessors/4876"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/bufferViews/4873"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/bufferViews/4874"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/bufferViews/4876"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/bufferViews/4877"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/bufferViews/4881"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/bufferViews/4882"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/bufferViews/4884"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/bufferViews/4891"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/materials/4"
+        },
+        {
+          "code": "UNUSED_OBJECT",
+          "message": "This object may be unused.",
+          "severity": 2,
+          "pointer": "/materials/6"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 0..3 is not of unit length: 0.9888588083723007.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 4..7 is not of unit length: 0.9888588083723007.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 8..11 is not of unit length: 0.9888588083723007.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 12..15 is not of unit length: 0.988892238211463.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 16..19 is not of unit length: 0.9889957285877187.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 20..23 is not of unit length: 0.9891488043366734.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 24..27 is not of unit length: 0.9893308748325123.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 28..31 is not of unit length: 0.9895230609577628.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 32..35 is not of unit length: 0.98970834908456.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 36..39 is not of unit length: 0.9898714685819155.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 40..43 is not of unit length: 0.9899984636284795.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 44..47 is not of unit length: 0.9900758421169394.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 48..51 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 52..55 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 56..59 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 60..63 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 64..67 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 68..71 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 72..75 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 76..79 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 80..83 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 84..87 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 88..91 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 92..95 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 96..99 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 100..103 is not of unit length: 0.990093044459431.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 104..107 is not of unit length: 0.9901027916428938.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 108..111 is not of unit length: 0.9901403444118563.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 112..115 is not of unit length: 0.9902022960211581.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 116..119 is not of unit length: 0.9902846654251691.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 120..123 is not of unit length: 0.9903834262999396.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 124..127 is not of unit length: 0.9904945365596306.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 128..131 is not of unit length: 0.9906143298331833.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 132..135 is not of unit length: 0.9907391278005939.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 136..139 is not of unit length: 0.9908656891476446.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 140..143 is not of unit length: 0.9909906257891602.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 144..147 is not of unit length: 0.9911109883539787.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 148..151 is not of unit length: 0.9912236421185566.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 152..155 is not of unit length: 0.9913342774371915.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 156..159 is not of unit length: 0.9914810755491285.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 160..163 is not of unit length: 0.9917191371855526.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 164..167 is not of unit length: 0.9921065213448106.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/9/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 36..39 is not of unit length: 1.0206269423455148.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 44..47 is not of unit length: 0.9898472688485634.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 48..51 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 52..55 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 56..59 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 60..63 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 64..67 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 68..71 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 72..75 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 76..79 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 80..83 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 84..87 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 88..91 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 92..95 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 96..99 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 100..103 is not of unit length: 0.9889963777137486.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 104..107 is not of unit length: 0.9890053427083617.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 108..111 is not of unit length: 0.9890404783136402.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 112..115 is not of unit length: 0.9891000130270318.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 116..119 is not of unit length: 0.9891820186617719.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 120..123 is not of unit length: 0.9892847493686453.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 124..127 is not of unit length: 0.9894061884592676.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 128..131 is not of unit length: 0.989543913401056.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 132..135 is not of unit length: 0.9896949643569456.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 136..139 is not of unit length: 0.9898557752910904.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 140..143 is not of unit length: 0.9900221004986953.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 144..147 is not of unit length: 0.9901889844558425.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 148..151 is not of unit length: 0.9903510452104928.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 152..155 is not of unit length: 0.9908199164453663.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 156..159 is not of unit length: 0.9920960628659935.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/10/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 36..39 is not of unit length: 1.0082840883130684.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 176..179 is not of unit length: 1.009172221699503.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 180..183 is not of unit length: 1.0121122486832588.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 184..187 is not of unit length: 1.0140306907593548.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 188..191 is not of unit length: 1.0150990628805545.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 192..195 is not of unit length: 1.015391460164887.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 196..199 is not of unit length: 1.014908439743929.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 200..203 is not of unit length: 1.013677615080528.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 204..207 is not of unit length: 1.0118545878702394.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 208..211 is not of unit length: 1.0097640077837278.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 212..215 is not of unit length: 1.0078654057504115.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/11/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 192..195 is not of unit length: 0.9905774837280977.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/33/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 196..199 is not of unit length: 0.98755343822625.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/33/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 200..203 is not of unit length: 0.9845410649891355.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/33/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 204..207 is not of unit length: 0.9817736643191602.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/33/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 208..211 is not of unit length: 0.97945860742161.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/33/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 164..167 is not of unit length: 1.0100045852736117.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/57/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 168..171 is not of unit length: 1.0130215608299862.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/57/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 172..175 is not of unit length: 1.0161883751925247.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/57/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 176..179 is not of unit length: 1.01943599043303.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/57/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 168..171 is not of unit length: 1.008341497821908.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/58/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 172..175 is not of unit length: 1.0112972029018086.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/58/sampler"
+        },
+        {
+          "code": "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION",
+          "message": "Animation sampler output accessor element at indices 192..195 is not of unit length: 0.9905469546351154.",
+          "severity": 0,
+          "pointer": "/animations/36/channels/63/sampler"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374148 (component index 0) is used with zero weight but has non-zero value (29).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374149 (component index 1) is used with zero weight but has non-zero value (16).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374150 (component index 2) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374152 (component index 0) is used with zero weight but has non-zero value (29).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374153 (component index 1) is used with zero weight but has non-zero value (16).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374154 (component index 2) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374156 (component index 0) is used with zero weight but has non-zero value (29).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374157 (component index 1) is used with zero weight but has non-zero value (16).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374158 (component index 2) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374160 (component index 0) is used with zero weight but has non-zero value (29).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374161 (component index 1) is used with zero weight but has non-zero value (16).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 374162 (component index 2) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522296 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522300 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522304 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522308 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522312 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522316 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522320 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522324 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522328 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522332 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522336 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522340 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522344 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522348 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522352 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522356 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522360 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        },
+        {
+          "code": "ACCESSOR_JOINTS_USED_ZERO_WEIGHT",
+          "message": "Joints accessor element at index 522364 (component index 0) is used with zero weight but has non-zero value (64).",
+          "severity": 1,
+          "pointer": "/meshes/13/primitives/0/attributes/JOINTS_0"
+        }
+      ],
+      "truncated": false
+    },
+    "info": {
+      "version": "2.0",
+      "generator": "THREE.GLTFExporter r186",
+      "extensionsUsed": [
+        "EXT_texture_webp",
+        "KHR_materials_clearcoat",
+        "KHR_materials_specular"
+      ],
+      "extensionsRequired": [
+        "EXT_texture_webp"
+      ],
+      "resources": [
+        {
+          "pointer": "/buffers/0",
+          "mimeType": "application/gltf-buffer",
+          "storage": "glb",
+          "byteLength": 31626268
+        },
+        {
+          "pointer": "/images/0",
+          "mimeType": "image/png",
+          "storage": "buffer-view",
+          "image": {
+            "width": 256,
+            "height": 256,
+            "format": "rgba",
+            "primaries": "srgb",
+            "transfer": "srgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/1",
+          "mimeType": "image/png",
+          "storage": "buffer-view",
+          "image": {
+            "width": 256,
+            "height": 256,
+            "format": "rgba",
+            "primaries": "srgb",
+            "transfer": "srgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/2",
+          "mimeType": "image/jpeg",
+          "storage": "buffer-view",
+          "image": {
+            "width": 1024,
+            "height": 1024,
+            "format": "rgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/3",
+          "mimeType": "image/jpeg",
+          "storage": "buffer-view",
+          "image": {
+            "width": 512,
+            "height": 512,
+            "format": "rgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/4",
+          "mimeType": "image/jpeg",
+          "storage": "buffer-view",
+          "image": {
+            "width": 1024,
+            "height": 1024,
+            "format": "rgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/5",
+          "mimeType": "image/jpeg",
+          "storage": "buffer-view",
+          "image": {
+            "width": 1024,
+            "height": 1024,
+            "format": "rgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/6",
+          "mimeType": "image/webp",
+          "storage": "buffer-view",
+          "image": {
+            "width": 2048,
+            "height": 2048,
+            "format": "rgba",
+            "primaries": "srgb",
+            "transfer": "srgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/7",
+          "mimeType": "image/webp",
+          "storage": "buffer-view",
+          "image": {
+            "width": 2048,
+            "height": 2048,
+            "format": "rgb",
+            "primaries": "srgb",
+            "transfer": "srgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/8",
+          "mimeType": "image/webp",
+          "storage": "buffer-view",
+          "image": {
+            "width": 2048,
+            "height": 2048,
+            "format": "rgba",
+            "primaries": "srgb",
+            "transfer": "srgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/9",
+          "mimeType": "image/webp",
+          "storage": "buffer-view",
+          "image": {
+            "width": 2048,
+            "height": 2048,
+            "format": "rgb",
+            "primaries": "srgb",
+            "transfer": "srgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/10",
+          "mimeType": "image/webp",
+          "storage": "buffer-view",
+          "image": {
+            "width": 2048,
+            "height": 2048,
+            "format": "rgba",
+            "primaries": "srgb",
+            "transfer": "srgb",
+            "bits": 8
+          }
+        },
+        {
+          "pointer": "/images/11",
+          "mimeType": "image/webp",
+          "storage": "buffer-view",
+          "image": {
+            "width": 2048,
+            "height": 2048,
+            "format": "rgb",
+            "primaries": "srgb",
+            "transfer": "srgb",
+            "bits": 8
+          }
+        }
+      ],
+      "animationCount": 37,
+      "materialCount": 9,
+      "hasMorphTargets": false,
+      "hasSkins": true,
+      "hasTextures": true,
+      "hasDefaultScene": true,
+      "drawCallCount": 15,
+      "totalVertexCount": 278284,
+      "totalTriangleCount": 242221,
+      "maxUVs": 2,
+      "maxInfluences": 4,
+      "maxAttributes": 5
+    }
+  },
+  "sha256": "8668acfb7e7c660562b15207df813d1fd62ecc2153321570653d74a6d5b4d940"
+}

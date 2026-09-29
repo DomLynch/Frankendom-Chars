@@ -1,0 +1,16 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280907,
+  "resolution": "1536",
+  "faces": 200000,
+  "texture": 2048,
+  "image": "source/L7-reference.png",
+  "sampling_steps_each_stage": 36,
+  "preprocess_s": 11.3,
+  "image_to_3d_s": 98.5,
+  "extract_glb_s": 33.2,
+  "glb": "src/assets/source/creatures/knight-L7-detail-donor.glb",
+  "bytes": 7846868,
+  "sha256": "ab21a7da68b9bbabdc5db14cb1e6a1c1dd25d4f2ab8cd8d6ef6f07701e5a3ccd",
+  "attempts": 1
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frankendom Character Pilot"
+  short_description: "Preserve approved 3D characters through asset review"
+  default_prompt: "Use $frankendom-character-pilot to build or refine a character while preserving its approved appearance and verifying the exported GLB."

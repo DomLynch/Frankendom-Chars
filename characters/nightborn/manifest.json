@@ -1,0 +1,197 @@
+{
+  "id": "nightborn",
+  "name": "Nightborn",
+  "archive": "nightborn-L2-L10-covered-review.zip",
+  "archiveRoot": "nightborn-L2-L10",
+  "models": [
+    {
+      "rank": 2,
+      "archive": "nightborn-L2-L10-covered-review.zip",
+      "member": "nightborn-L2-L10/models/nightborn-L2.glb",
+      "bytes": 15921988,
+      "sha256": "cb6c5b13af8b2bef6f14af6580359d5966d4babf0e6aa2418e783f3088920903",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/nightborn/previews/L2-front.png",
+          "sha256": "6a7897dc3187b0344a27e4ace9a2b2cfeb1671b0e9ae56a0243c84fbf5b7696c",
+          "archiveMember": "nightborn-L2-L10/review/renders/L2-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "archive": "nightborn-L2-L10-covered-review.zip",
+      "member": "nightborn-L2-L10/models/nightborn-L3.glb",
+      "bytes": 15117912,
+      "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/nightborn/previews/L3-front.png",
+          "sha256": "83efab66cfe8cb829ac8516559c09131079c51713a601a82f748e5fe3b772925",
+          "archiveMember": "nightborn-L2-L10/review/renders/L3-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "archive": "nightborn-L2-L10-covered-review.zip",
+      "member": "nightborn-L2-L10/models/nightborn-L4.glb",
+      "bytes": 13857800,
+      "sha256": "4c4aaa94f6db632a681af481b2ec8236239d9d38d2d603f1d38cce8469fb48a6",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/nightborn/previews/L4-front.png",
+          "sha256": "a5639938d3494f99dc90f7b57cf5111847b0aa792d1d85665424b40e803d9614",
+          "archiveMember": "nightborn-L2-L10/review/renders/L4-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "archive": "nightborn-L2-L10-covered-review.zip",
+      "member": "nightborn-L2-L10/models/nightborn-L5.glb",
+      "bytes": 14039192,
+      "sha256": "3140ef59a6dd05fd55f6ba7f9e0f0177805d987df6ee781c213659b6fb9a5818",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/nightborn/previews/L5-front.png",
+          "sha256": "9024d45ed969511c45a952a19b317166c383cba4c14fffd09caf9c87f451df35",
+          "archiveMember": "nightborn-L2-L10/review/renders/L5-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "archive": "nightborn-L2-L10-covered-review.zip",
+      "member": "nightborn-L2-L10/models/nightborn-L6.glb",
+      "bytes": 12505064,
+      "sha256": "7a900f48d3727a383664fd936266f05e0b18822932e5073145477985e3b72a53",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/nightborn/previews/L6-front.png",
+          "sha256": "e3f3b583b2b09987e163d9e0ef1b63121cdb877ef04c1a2c3686d3fc510093dc",
+          "archiveMember": "nightborn-L2-L10/review/renders/L6-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "archive": "nightborn-L2-L10-covered-review.zip",
+      "member": "nightborn-L2-L10/models/nightborn-L7.glb",
+      "bytes": 13766476,
+      "sha256": "d29c6ad96777bb902d463b3442049b9841833fd4cd68c3402b0b53377a335d2e",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/nightborn/previews/L7-front.png",
+          "sha256": "974a6c98bae09f574dcc3e4d7a5d80daeaad28455043a501efd975de3d9a9c0d",
+          "archiveMember": "nightborn-L2-L10/review/renders/L7-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "archive": "nightborn-L2-L10-covered-review.zip",
+      "member": "nightborn-L2-L10/models/nightborn-L8.glb",
+      "bytes": 16635388,
+      "sha256": "66edaf77cf0478efb76929d2500503b73723d45fef59a80c8fefd43ada231b14",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/nightborn/previews/L8-front.png",
+          "sha256": "3012f4427f9bf7c0211f2b6153ccf3df8c79e6c56c720d6ace51401194ad5ca3",
+          "archiveMember": "nightborn-L2-L10/review/renders/L8-front.png",
+          "originalReceiptHasImageHash": false
+        },
+        {
+          "path": "characters/nightborn/previews/L8-back.png",
+          "sha256": "d69a73038e4b8382428da418c0f0f3fe43c582a9266d740f276148772ed24800",
+          "archiveMember": "nightborn-L2-L10/review/renders/L8-back.png",
+          "originalReceiptHasImageHash": false
+        },
+        {
+          "path": "characters/nightborn/previews/L8-head.png",
+          "sha256": "4397ae15b48e1c700e970172497dcca9d06ab324aa5352b0f0ff9e668bd27249",
+          "archiveMember": "nightborn-L2-L10/review/renders/L8-head.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "archive": "nightborn-L2-L10-covered-review.zip",
+      "member": "nightborn-L2-L10/models/nightborn-L9.glb",
+      "bytes": 16016912,
+      "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/nightborn/previews/L9-front.png",
+          "sha256": "a54abad0c52ebd21308be50bc2b69132bdeddfe6b2b1d2c3a9b19ffc910e91bc",
+          "archiveMember": "nightborn-L2-L10/review/renders/L9-front.png",
+          "originalReceiptHasImageHash": false
+        },
+        {
+          "path": "characters/nightborn/previews/L9-back.png",
+          "sha256": "5a916a9d2ab6f2069736715f0383f577b6cf1fff50e7dd41b32ac4ebd3c96025",
+          "archiveMember": "nightborn-L2-L10/review/renders/L9-back.png",
+          "originalReceiptHasImageHash": false
+        },
+        {
+          "path": "characters/nightborn/previews/L9-head.png",
+          "sha256": "a7e69ab752984cc82c4473ce58e2222a1fce24d81c1b4cd371f1c47fc040f6c0",
+          "archiveMember": "nightborn-L2-L10/review/renders/L9-head.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "archive": "nightborn-L2-L10-covered-review.zip",
+      "member": "nightborn-L2-L10/models/nightborn-L10.glb",
+      "bytes": 16183916,
+      "sha256": "4ce0d1b3fca7f44dc6f4d7706b2f448805263279c44941df1d62272b0020f110",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/nightborn/previews/L10-front.png",
+          "sha256": "035505c8ab145aeb0aacb862cc993bb2fec967ea2bb93d94b7950133eda89e33",
+          "archiveMember": "nightborn-L2-L10/review/renders/L10-front.png",
+          "originalReceiptHasImageHash": false
+        },
+        {
+          "path": "characters/nightborn/previews/L10-back.png",
+          "sha256": "25f577cb76a0fb8c3d16502ab90058e8bf3e293cdcd3157fb9374f51da58367b",
+          "archiveMember": "nightborn-L2-L10/review/renders/L10-back.png",
+          "originalReceiptHasImageHash": false
+        },
+        {
+          "path": "characters/nightborn/previews/L10-head.png",
+          "sha256": "657af01d2d09d74714490e99be0c1b4dd215a7dea108b5609c8ad54c9277a718",
+          "archiveMember": "nightborn-L2-L10/review/renders/L10-head.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    }
+  ]
+}

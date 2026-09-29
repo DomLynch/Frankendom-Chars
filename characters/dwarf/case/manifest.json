@@ -1,0 +1,1232 @@
+{
+  "scope": "Isolated combined wardrobe candidates. Includes hidden original geometry and unchanged original animation buffers; not optimized runtime loot carriers.",
+  "counting": "Stored mesh totals count definitions including retained inactive originals; position vertices deduplicate shared POSITION accessors. Active instance counts follow the selected scene graph. Primitive counts are static glTF instances, not measured GPU draw calls.",
+  "models": [
+    {
+      "rank": "L1",
+      "path": "models/dwarf-L1.glb",
+      "sha256": "a14f5b9be57f7fa19d72ce43c544676407a10162e8a5b9508756269b9a3f6f33",
+      "fileBytes": 8179520,
+      "storedMeshDefinitions": 18,
+      "storedMaterialDefinitions": 6,
+      "storedTextureDefinitions": 9,
+      "storedUniqueImages": 9,
+      "storedMeshDefinitionTriangles": 45787,
+      "storedUniquePositionAccessorVertices": 60645,
+      "activeMeshInstances": 18,
+      "activePrimitiveInstances": 18,
+      "activeTriangleInstances": 45787,
+      "newWardrobeTriangles": 0,
+      "animations": 37,
+      "skeletonJoints": 65,
+      "images": [
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 49734,
+          "sha256": "2a70b12e5db9b0b329a1c831fdcf46f088b66a0fe9b128d380559a82acc86605"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 64513,
+          "sha256": "45b894cb833f93305a3e09c1e664c6ea9152e76f8dc5d5a221a948518dfe2c78"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 51626,
+          "sha256": "fded5b7ae5211e260d031dacaf63184148f8cbf4d89588f315a29693beffc910"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 256898,
+          "sha256": "3cef9ab42bd02b1126d058edd36158137c43d269df1fa398a59ccc94c11c3da7"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 512,
+          "height": 512,
+          "bytes": 23223,
+          "sha256": "bc15132be7e2111697646fc185126f1e9bbb37b31e0091ed10cbe6c1cc8f88dc"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 249993,
+          "sha256": "b4314ecae3916bc974f6e361c2d175221f56dd0269e61c8da86959f08f6bc418"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 166298,
+          "sha256": "c66f30f7cfbdecc8ec88b829c1ad44058bb9593ea9e39ddd64523f56a7eb6c6c"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 946420,
+          "sha256": "d56e714dba83650c10327e810299e6b8cdf1c4fb445fc6f7772bcd81ad5eae31"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 464028,
+          "sha256": "9f252a5bf4262ff4fd7f57ce08f2895e8c9437e112c0e0d518b36738bf31ccf8"
+        }
+      ]
+    },
+    {
+      "rank": "L2",
+      "path": "models/dwarf-L2.glb",
+      "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+      "fileBytes": 22065492,
+      "storedMeshDefinitions": 22,
+      "storedMaterialDefinitions": 11,
+      "storedTextureDefinitions": 12,
+      "storedUniqueImages": 11,
+      "storedMeshDefinitionTriangles": 150374,
+      "storedUniquePositionAccessorVertices": 204455,
+      "activeMeshInstances": 19,
+      "activePrimitiveInstances": 20,
+      "activeTriangleInstances": 105047,
+      "newWardrobeTriangles": 95144,
+      "animations": 37,
+      "skeletonJoints": 65,
+      "images": [
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 49734,
+          "sha256": "2a70b12e5db9b0b329a1c831fdcf46f088b66a0fe9b128d380559a82acc86605"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 64513,
+          "sha256": "45b894cb833f93305a3e09c1e664c6ea9152e76f8dc5d5a221a948518dfe2c78"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 51626,
+          "sha256": "fded5b7ae5211e260d031dacaf63184148f8cbf4d89588f315a29693beffc910"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 256898,
+          "sha256": "3cef9ab42bd02b1126d058edd36158137c43d269df1fa398a59ccc94c11c3da7"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 512,
+          "height": 512,
+          "bytes": 23223,
+          "sha256": "bc15132be7e2111697646fc185126f1e9bbb37b31e0091ed10cbe6c1cc8f88dc"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 249993,
+          "sha256": "b4314ecae3916bc974f6e361c2d175221f56dd0269e61c8da86959f08f6bc418"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 166298,
+          "sha256": "c66f30f7cfbdecc8ec88b829c1ad44058bb9593ea9e39ddd64523f56a7eb6c6c"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 946420,
+          "sha256": "d56e714dba83650c10327e810299e6b8cdf1c4fb445fc6f7772bcd81ad5eae31"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 464028,
+          "sha256": "9f252a5bf4262ff4fd7f57ce08f2895e8c9437e112c0e0d518b36738bf31ccf8"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 888516,
+          "sha256": "e751b7e99510ef31dc21866e0bac8f6ed9de776d3f02c2557d7f317138bc130f"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 336596,
+          "sha256": "e211e4c28d32e887d4ec16f1808365f7b8bf554612f5d100ec793bcb0b87c564"
+        }
+      ]
+    },
+    {
+      "rank": "L3",
+      "path": "models/dwarf-L3.glb",
+      "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+      "fileBytes": 22706296,
+      "storedMeshDefinitions": 22,
+      "storedMaterialDefinitions": 11,
+      "storedTextureDefinitions": 12,
+      "storedUniqueImages": 11,
+      "storedMeshDefinitionTriangles": 156357,
+      "storedUniquePositionAccessorVertices": 221470,
+      "activeMeshInstances": 19,
+      "activePrimitiveInstances": 20,
+      "activeTriangleInstances": 111030,
+      "newWardrobeTriangles": 101127,
+      "animations": 37,
+      "skeletonJoints": 65,
+      "images": [
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 49734,
+          "sha256": "2a70b12e5db9b0b329a1c831fdcf46f088b66a0fe9b128d380559a82acc86605"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 64513,
+          "sha256": "45b894cb833f93305a3e09c1e664c6ea9152e76f8dc5d5a221a948518dfe2c78"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 51626,
+          "sha256": "fded5b7ae5211e260d031dacaf63184148f8cbf4d89588f315a29693beffc910"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 256898,
+          "sha256": "3cef9ab42bd02b1126d058edd36158137c43d269df1fa398a59ccc94c11c3da7"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 512,
+          "height": 512,
+          "bytes": 23223,
+          "sha256": "bc15132be7e2111697646fc185126f1e9bbb37b31e0091ed10cbe6c1cc8f88dc"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 249993,
+          "sha256": "b4314ecae3916bc974f6e361c2d175221f56dd0269e61c8da86959f08f6bc418"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 166298,
+          "sha256": "c66f30f7cfbdecc8ec88b829c1ad44058bb9593ea9e39ddd64523f56a7eb6c6c"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 946420,
+          "sha256": "d56e714dba83650c10327e810299e6b8cdf1c4fb445fc6f7772bcd81ad5eae31"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 464028,
+          "sha256": "9f252a5bf4262ff4fd7f57ce08f2895e8c9437e112c0e0d518b36738bf31ccf8"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1100712,
+          "sha256": "d3dbe5c7d1980e29e7c390a7f7ea828ce3a159e08e5d11c6cf55e9003c73236f"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 456156,
+          "sha256": "aa1457289dc260e62db461520e708a79a4fd36ca723d85f604f6b51819c3cf3f"
+        }
+      ]
+    },
+    {
+      "rank": "L4",
+      "path": "models/dwarf-L4.glb",
+      "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+      "fileBytes": 21791012,
+      "storedMeshDefinitions": 22,
+      "storedMaterialDefinitions": 11,
+      "storedTextureDefinitions": 12,
+      "storedUniqueImages": 11,
+      "storedMeshDefinitionTriangles": 154659,
+      "storedUniquePositionAccessorVertices": 212840,
+      "activeMeshInstances": 19,
+      "activePrimitiveInstances": 20,
+      "activeTriangleInstances": 109332,
+      "newWardrobeTriangles": 99429,
+      "animations": 37,
+      "skeletonJoints": 65,
+      "images": [
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 49734,
+          "sha256": "2a70b12e5db9b0b329a1c831fdcf46f088b66a0fe9b128d380559a82acc86605"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 64513,
+          "sha256": "45b894cb833f93305a3e09c1e664c6ea9152e76f8dc5d5a221a948518dfe2c78"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 51626,
+          "sha256": "fded5b7ae5211e260d031dacaf63184148f8cbf4d89588f315a29693beffc910"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 256898,
+          "sha256": "3cef9ab42bd02b1126d058edd36158137c43d269df1fa398a59ccc94c11c3da7"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 512,
+          "height": 512,
+          "bytes": 23223,
+          "sha256": "bc15132be7e2111697646fc185126f1e9bbb37b31e0091ed10cbe6c1cc8f88dc"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 249993,
+          "sha256": "b4314ecae3916bc974f6e361c2d175221f56dd0269e61c8da86959f08f6bc418"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 166298,
+          "sha256": "c66f30f7cfbdecc8ec88b829c1ad44058bb9593ea9e39ddd64523f56a7eb6c6c"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 946420,
+          "sha256": "d56e714dba83650c10327e810299e6b8cdf1c4fb445fc6f7772bcd81ad5eae31"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 464028,
+          "sha256": "9f252a5bf4262ff4fd7f57ce08f2895e8c9437e112c0e0d518b36738bf31ccf8"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 840548,
+          "sha256": "7302c982638a3b4fc597a7687f94dd3d88234ee482cb6701f9e03051e5379d01"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 448156,
+          "sha256": "af697159426e4164480c7a72bd7aa89d4c2bede5fc1b753feb5f36a99d39b612"
+        }
+      ]
+    },
+    {
+      "rank": "L5",
+      "path": "models/dwarf-L5.glb",
+      "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+      "fileBytes": 23125316,
+      "storedMeshDefinitions": 22,
+      "storedMaterialDefinitions": 11,
+      "storedTextureDefinitions": 12,
+      "storedUniqueImages": 11,
+      "storedMeshDefinitionTriangles": 157243,
+      "storedUniquePositionAccessorVertices": 224281,
+      "activeMeshInstances": 19,
+      "activePrimitiveInstances": 20,
+      "activeTriangleInstances": 111916,
+      "newWardrobeTriangles": 102013,
+      "animations": 37,
+      "skeletonJoints": 65,
+      "images": [
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 49734,
+          "sha256": "2a70b12e5db9b0b329a1c831fdcf46f088b66a0fe9b128d380559a82acc86605"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 64513,
+          "sha256": "45b894cb833f93305a3e09c1e664c6ea9152e76f8dc5d5a221a948518dfe2c78"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 51626,
+          "sha256": "fded5b7ae5211e260d031dacaf63184148f8cbf4d89588f315a29693beffc910"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 256898,
+          "sha256": "3cef9ab42bd02b1126d058edd36158137c43d269df1fa398a59ccc94c11c3da7"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 512,
+          "height": 512,
+          "bytes": 23223,
+          "sha256": "bc15132be7e2111697646fc185126f1e9bbb37b31e0091ed10cbe6c1cc8f88dc"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 249993,
+          "sha256": "b4314ecae3916bc974f6e361c2d175221f56dd0269e61c8da86959f08f6bc418"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 166298,
+          "sha256": "c66f30f7cfbdecc8ec88b829c1ad44058bb9593ea9e39ddd64523f56a7eb6c6c"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 946420,
+          "sha256": "d56e714dba83650c10327e810299e6b8cdf1c4fb445fc6f7772bcd81ad5eae31"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 464028,
+          "sha256": "9f252a5bf4262ff4fd7f57ce08f2895e8c9437e112c0e0d518b36738bf31ccf8"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1084456,
+          "sha256": "e51df7c2eba77606b2797bb689d8a88870494a5275516321ebe7ffc39da985c5"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 661344,
+          "sha256": "07e071bbafd3477dae65202563ef6809d8d2efb8b141b975a45e5a63d2e4d71c"
+        }
+      ]
+    },
+    {
+      "rank": "L6",
+      "path": "models/dwarf-L6.glb",
+      "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+      "fileBytes": 22230864,
+      "storedMeshDefinitions": 22,
+      "storedMaterialDefinitions": 11,
+      "storedTextureDefinitions": 12,
+      "storedUniqueImages": 11,
+      "storedMeshDefinitionTriangles": 153285,
+      "storedUniquePositionAccessorVertices": 217541,
+      "activeMeshInstances": 19,
+      "activePrimitiveInstances": 20,
+      "activeTriangleInstances": 107958,
+      "newWardrobeTriangles": 98055,
+      "animations": 37,
+      "skeletonJoints": 65,
+      "images": [
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 49734,
+          "sha256": "2a70b12e5db9b0b329a1c831fdcf46f088b66a0fe9b128d380559a82acc86605"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 64513,
+          "sha256": "45b894cb833f93305a3e09c1e664c6ea9152e76f8dc5d5a221a948518dfe2c78"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 51626,
+          "sha256": "fded5b7ae5211e260d031dacaf63184148f8cbf4d89588f315a29693beffc910"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 256898,
+          "sha256": "3cef9ab42bd02b1126d058edd36158137c43d269df1fa398a59ccc94c11c3da7"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 512,
+          "height": 512,
+          "bytes": 23223,
+          "sha256": "bc15132be7e2111697646fc185126f1e9bbb37b31e0091ed10cbe6c1cc8f88dc"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 249993,
+          "sha256": "b4314ecae3916bc974f6e361c2d175221f56dd0269e61c8da86959f08f6bc418"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 166298,
+          "sha256": "c66f30f7cfbdecc8ec88b829c1ad44058bb9593ea9e39ddd64523f56a7eb6c6c"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 946420,
+          "sha256": "d56e714dba83650c10327e810299e6b8cdf1c4fb445fc6f7772bcd81ad5eae31"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 464028,
+          "sha256": "9f252a5bf4262ff4fd7f57ce08f2895e8c9437e112c0e0d518b36738bf31ccf8"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1026416,
+          "sha256": "5664f8389cd65a8588f7ba992032a2c3f2b731331abae05283bb5584569bdec6"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 435036,
+          "sha256": "28427788da1881845ce48a2dd0d30ca08c80324622048e9430b3bc464af91deb"
+        }
+      ]
+    },
+    {
+      "rank": "L7",
+      "path": "models/dwarf-L7.glb",
+      "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+      "fileBytes": 21539608,
+      "storedMeshDefinitions": 22,
+      "storedMaterialDefinitions": 11,
+      "storedTextureDefinitions": 12,
+      "storedUniqueImages": 11,
+      "storedMeshDefinitionTriangles": 152185,
+      "storedUniquePositionAccessorVertices": 210276,
+      "activeMeshInstances": 19,
+      "activePrimitiveInstances": 20,
+      "activeTriangleInstances": 106858,
+      "newWardrobeTriangles": 96955,
+      "animations": 37,
+      "skeletonJoints": 65,
+      "images": [
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 49734,
+          "sha256": "2a70b12e5db9b0b329a1c831fdcf46f088b66a0fe9b128d380559a82acc86605"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 64513,
+          "sha256": "45b894cb833f93305a3e09c1e664c6ea9152e76f8dc5d5a221a948518dfe2c78"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 51626,
+          "sha256": "fded5b7ae5211e260d031dacaf63184148f8cbf4d89588f315a29693beffc910"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 256898,
+          "sha256": "3cef9ab42bd02b1126d058edd36158137c43d269df1fa398a59ccc94c11c3da7"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 512,
+          "height": 512,
+          "bytes": 23223,
+          "sha256": "bc15132be7e2111697646fc185126f1e9bbb37b31e0091ed10cbe6c1cc8f88dc"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 249993,
+          "sha256": "b4314ecae3916bc974f6e361c2d175221f56dd0269e61c8da86959f08f6bc418"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 166298,
+          "sha256": "c66f30f7cfbdecc8ec88b829c1ad44058bb9593ea9e39ddd64523f56a7eb6c6c"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 946420,
+          "sha256": "d56e714dba83650c10327e810299e6b8cdf1c4fb445fc6f7772bcd81ad5eae31"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 464028,
+          "sha256": "9f252a5bf4262ff4fd7f57ce08f2895e8c9437e112c0e0d518b36738bf31ccf8"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1065932,
+          "sha256": "e5a1aa87d024f30b0b73a14525632da6e7d445f44fd16903fb409f43ead5bfe6"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 237884,
+          "sha256": "069e5f9a7dfacc6126269aa4f2e20adcf1e02f2903162e6a6a6278e16e6e454f"
+        }
+      ]
+    },
+    {
+      "rank": "L8",
+      "path": "models/dwarf-L8.glb",
+      "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+      "fileBytes": 79118828,
+      "storedMeshDefinitions": 25,
+      "storedMaterialDefinitions": 17,
+      "storedTextureDefinitions": 14,
+      "storedUniqueImages": 13,
+      "storedMeshDefinitionTriangles": 485112,
+      "storedUniquePositionAccessorVertices": 717152,
+      "activeMeshInstances": 21,
+      "activePrimitiveInstances": 24,
+      "activeTriangleInstances": 430342,
+      "newWardrobeTriangles": 429882,
+      "animations": 37,
+      "skeletonJoints": 65,
+      "images": [
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 49734,
+          "sha256": "2a70b12e5db9b0b329a1c831fdcf46f088b66a0fe9b128d380559a82acc86605"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 64513,
+          "sha256": "45b894cb833f93305a3e09c1e664c6ea9152e76f8dc5d5a221a948518dfe2c78"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 51626,
+          "sha256": "fded5b7ae5211e260d031dacaf63184148f8cbf4d89588f315a29693beffc910"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 256898,
+          "sha256": "3cef9ab42bd02b1126d058edd36158137c43d269df1fa398a59ccc94c11c3da7"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 512,
+          "height": 512,
+          "bytes": 23223,
+          "sha256": "bc15132be7e2111697646fc185126f1e9bbb37b31e0091ed10cbe6c1cc8f88dc"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 249993,
+          "sha256": "b4314ecae3916bc974f6e361c2d175221f56dd0269e61c8da86959f08f6bc418"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 166298,
+          "sha256": "c66f30f7cfbdecc8ec88b829c1ad44058bb9593ea9e39ddd64523f56a7eb6c6c"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 946420,
+          "sha256": "d56e714dba83650c10327e810299e6b8cdf1c4fb445fc6f7772bcd81ad5eae31"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 464028,
+          "sha256": "9f252a5bf4262ff4fd7f57ce08f2895e8c9437e112c0e0d518b36738bf31ccf8"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 4096,
+          "height": 4096,
+          "bytes": 4820192,
+          "sha256": "99221aa629b18fee64cf437833f90ba3bc7911d0adeb957048b945d0dad4f48a"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 4096,
+          "height": 4096,
+          "bytes": 1545976,
+          "sha256": "9414c914b7d1bee58e25f5218b07e394b15f0eb70558f1b9a078423a44775847"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 4096,
+          "height": 4096,
+          "bytes": 4153844,
+          "sha256": "c2aedf36cb488b696076f2674e7feea5de166fe00842b273322e2a79b1809616"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 4096,
+          "height": 4096,
+          "bytes": 1078396,
+          "sha256": "875d78611d02a0a8f1f69ae739d9c0c28a64b29143d75cc9ab64d56522fa1537"
+        }
+      ]
+    },
+    {
+      "rank": "L9",
+      "path": "models/dwarf-L9.glb",
+      "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+      "fileBytes": 54680844,
+      "storedMeshDefinitions": 35,
+      "storedMaterialDefinitions": 17,
+      "storedTextureDefinitions": 14,
+      "storedUniqueImages": 13,
+      "storedMeshDefinitionTriangles": 309972,
+      "storedUniquePositionAccessorVertices": 537749,
+      "activeMeshInstances": 31,
+      "activePrimitiveInstances": 35,
+      "activeTriangleInstances": 255202,
+      "newWardrobeTriangles": 254742,
+      "animations": 37,
+      "skeletonJoints": 65,
+      "images": [
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 49734,
+          "sha256": "2a70b12e5db9b0b329a1c831fdcf46f088b66a0fe9b128d380559a82acc86605"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 64513,
+          "sha256": "45b894cb833f93305a3e09c1e664c6ea9152e76f8dc5d5a221a948518dfe2c78"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 51626,
+          "sha256": "fded5b7ae5211e260d031dacaf63184148f8cbf4d89588f315a29693beffc910"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 256898,
+          "sha256": "3cef9ab42bd02b1126d058edd36158137c43d269df1fa398a59ccc94c11c3da7"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 512,
+          "height": 512,
+          "bytes": 23223,
+          "sha256": "bc15132be7e2111697646fc185126f1e9bbb37b31e0091ed10cbe6c1cc8f88dc"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 249993,
+          "sha256": "b4314ecae3916bc974f6e361c2d175221f56dd0269e61c8da86959f08f6bc418"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 166298,
+          "sha256": "c66f30f7cfbdecc8ec88b829c1ad44058bb9593ea9e39ddd64523f56a7eb6c6c"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 946420,
+          "sha256": "d56e714dba83650c10327e810299e6b8cdf1c4fb445fc6f7772bcd81ad5eae31"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 464028,
+          "sha256": "9f252a5bf4262ff4fd7f57ce08f2895e8c9437e112c0e0d518b36738bf31ccf8"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1109892,
+          "sha256": "8e6622b18a9aec415874b7b613865cda55cc14be21bef1cb85125d62019624ba"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 312628,
+          "sha256": "200b2582ba2de8d4725da12d78ebb2b80685edf63f4935c1b39f4cce4bfc61a4"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 4096,
+          "height": 4096,
+          "bytes": 4153844,
+          "sha256": "c2aedf36cb488b696076f2674e7feea5de166fe00842b273322e2a79b1809616"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 4096,
+          "height": 4096,
+          "bytes": 1078396,
+          "sha256": "875d78611d02a0a8f1f69ae739d9c0c28a64b29143d75cc9ab64d56522fa1537"
+        }
+      ]
+    },
+    {
+      "rank": "L10",
+      "path": "models/dwarf-L10.glb",
+      "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+      "fileBytes": 52677712,
+      "storedMeshDefinitions": 35,
+      "storedMaterialDefinitions": 16,
+      "storedTextureDefinitions": 14,
+      "storedUniqueImages": 13,
+      "storedMeshDefinitionTriangles": 309209,
+      "storedUniquePositionAccessorVertices": 519149,
+      "activeMeshInstances": 31,
+      "activePrimitiveInstances": 33,
+      "activeTriangleInstances": 254439,
+      "newWardrobeTriangles": 253979,
+      "animations": 37,
+      "skeletonJoints": 65,
+      "images": [
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 49734,
+          "sha256": "2a70b12e5db9b0b329a1c831fdcf46f088b66a0fe9b128d380559a82acc86605"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 64513,
+          "sha256": "45b894cb833f93305a3e09c1e664c6ea9152e76f8dc5d5a221a948518dfe2c78"
+        },
+        {
+          "name": null,
+          "mimeType": "image/png",
+          "format": "PNG",
+          "width": 256,
+          "height": 256,
+          "bytes": 51626,
+          "sha256": "fded5b7ae5211e260d031dacaf63184148f8cbf4d89588f315a29693beffc910"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 256898,
+          "sha256": "3cef9ab42bd02b1126d058edd36158137c43d269df1fa398a59ccc94c11c3da7"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 512,
+          "height": 512,
+          "bytes": 23223,
+          "sha256": "bc15132be7e2111697646fc185126f1e9bbb37b31e0091ed10cbe6c1cc8f88dc"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 249993,
+          "sha256": "b4314ecae3916bc974f6e361c2d175221f56dd0269e61c8da86959f08f6bc418"
+        },
+        {
+          "name": null,
+          "mimeType": "image/jpeg",
+          "format": "JPEG",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 166298,
+          "sha256": "c66f30f7cfbdecc8ec88b829c1ad44058bb9593ea9e39ddd64523f56a7eb6c6c"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 946420,
+          "sha256": "d56e714dba83650c10327e810299e6b8cdf1c4fb445fc6f7772bcd81ad5eae31"
+        },
+        {
+          "name": null,
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 464028,
+          "sha256": "9f252a5bf4262ff4fd7f57ce08f2895e8c9437e112c0e0d518b36738bf31ccf8"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 1409032,
+          "sha256": "16a2a64bd37766ecc15a3e3c1e526abac6551ce85edca0d670a834b689850e11"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 2048,
+          "height": 2048,
+          "bytes": 204424,
+          "sha256": "8600cade4f8417aaa306eef85d9550a54ff4d60bc1fd781e49e0c71114938f7f"
+        },
+        {
+          "name": "Image_0",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 4096,
+          "height": 4096,
+          "bytes": 4153844,
+          "sha256": "c2aedf36cb488b696076f2674e7feea5de166fe00842b273322e2a79b1809616"
+        },
+        {
+          "name": "Image_1",
+          "mimeType": "image/webp",
+          "format": "WEBP",
+          "width": 4096,
+          "height": 4096,
+          "bytes": 1078396,
+          "sha256": "875d78611d02a0a8f1f69ae739d9c0c28a64b29143d75cc9ab64d56522fa1537"
+        }
+      ]
+    }
+  ]
+}

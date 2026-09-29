@@ -1,0 +1,179 @@
+{
+  "id": "plaguedoctor",
+  "name": "Plague Doctor",
+  "archive": "plaguedoctor-L2-L10-review.zip",
+  "archiveRoot": "",
+  "models": [
+    {
+      "rank": 2,
+      "archive": "plaguedoctor-L2-L10-review.zip",
+      "member": "models/plaguedoctor-L2.glb",
+      "bytes": 13710484,
+      "sha256": "a45a553e7cafbb1e5c53e517941923fd82b5eb366510946f5318fb4cc415755b",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/plaguedoctor/previews/L2-front.png",
+          "sha256": "365f8b0875d02e9f80e2678ab1232126d7cfbf30115e2988c52cbcfd7290f83f",
+          "archiveMember": "ladder/L2/renders/L2-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "archive": "plaguedoctor-L2-L10-review.zip",
+      "member": "models/plaguedoctor-L3.glb",
+      "bytes": 15117980,
+      "sha256": "16f9803e79ce433d6dc20873b8b530b723a7dbf4420da5eb803d86636b5bdd96",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/plaguedoctor/previews/L3-front.png",
+          "sha256": "316afea293518cd868bd831652da167709bb7bba94e9fd56392ee113e264a46a",
+          "archiveMember": "ladder/L3/renders/L3-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "archive": "plaguedoctor-L2-L10-review.zip",
+      "member": "models/plaguedoctor-L4.glb",
+      "bytes": 12460000,
+      "sha256": "438fe87506f7ec977638e659a87e8427ca297355c398c7a4f79f43d4d9fae46b",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/plaguedoctor/previews/L4-front.png",
+          "sha256": "c35d1d14e4ceee05445de8adafa67489bc534d75fce0e7da4783c3e83875910f",
+          "archiveMember": "ladder/L4/renders/L4-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "archive": "plaguedoctor-L2-L10-review.zip",
+      "member": "models/plaguedoctor-L5.glb",
+      "bytes": 12409196,
+      "sha256": "5eff8e71a0ebe46d7f1726d0866ad5f9b8bcbaf14c6fcc23125a4ddf2bd7f8e4",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/plaguedoctor/previews/L5-front.png",
+          "sha256": "3e0fab339624bbe98f0c9b1b4772ac67789880e9e1cce320517098211a06f9a1",
+          "archiveMember": "ladder/L5/renders/L5-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "archive": "plaguedoctor-L2-L10-review.zip",
+      "member": "models/plaguedoctor-L6.glb",
+      "bytes": 12973836,
+      "sha256": "0c6ea065759b90dba837ad9ec6ddb1801f6d300510ece3d0f46b87b7cca45e96",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/plaguedoctor/previews/L6-front.png",
+          "sha256": "82ce9f984c4a413d29aa770f30dbb3ac0719edfad0980b9b628f8bb9a09385e6",
+          "archiveMember": "ladder/L6/renders/L6-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "archive": "plaguedoctor-L2-L10-review.zip",
+      "member": "models/plaguedoctor-L7.glb",
+      "bytes": 12653428,
+      "sha256": "c925171606ecc31b5f11eaf553d7546ab63b85a6a51cb87876dc909a4e35f2c4",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/plaguedoctor/previews/L7-front.png",
+          "sha256": "85fcd9309d06815a7bec03c7adffd7bfef45a93ec533770cf280703336b7be11",
+          "archiveMember": "ladder/L7/renders/L7-front.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "archive": "plaguedoctor-L2-L10-review.zip",
+      "member": "models/plaguedoctor-L8.glb",
+      "bytes": 13233716,
+      "sha256": "8d5ebd8109a2a1154a403161d32e07fd286967a8eecd346c081a0d8c2816701c",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/plaguedoctor/previews/L8-front.png",
+          "sha256": "4b958012fe13a93369a8b04dd36fca2469554e671fd19e80bf68e9b20fab485a",
+          "archiveMember": "ladder/L8/renders/L8-front.png",
+          "originalReceiptHasImageHash": false
+        },
+        {
+          "path": "characters/plaguedoctor/previews/L8-back.png",
+          "sha256": "3726fb55b7ab050781be1e73649265f685a60e2d0ddd4cee81c71062b468d17e",
+          "archiveMember": "ladder/L8/renders/L8-back.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "archive": "plaguedoctor-L2-L10-review.zip",
+      "member": "models/plaguedoctor-L9.glb",
+      "bytes": 13401696,
+      "sha256": "7ae7001079d4c299aea6d42cff80ccf89b379c193c4e45be765be81f24230229",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/plaguedoctor/previews/L9-front.png",
+          "sha256": "65716e342ed86f512443900dc34e4abfe5c36fbf751ba4c229e9c4be71ff2d35",
+          "archiveMember": "ladder/L9/renders/L9-front.png",
+          "originalReceiptHasImageHash": false
+        },
+        {
+          "path": "characters/plaguedoctor/previews/L9-back.png",
+          "sha256": "64a92abca5c7e3be3bf61a9106704903bcbc7923367476fdffd808edb11466bf",
+          "archiveMember": "ladder/L9/renders/L9-back.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "archive": "plaguedoctor-L2-L10-review.zip",
+      "member": "models/plaguedoctor-L10.glb",
+      "bytes": 14798260,
+      "sha256": "7e3563c4ff9b7bf69b563c49613dd3a7b583e1cdb92b298aae478c80c1863ff2",
+      "joints": 65,
+      "animations": 25,
+      "previewEvidence": [
+        {
+          "path": "characters/plaguedoctor/previews/L10-front.png",
+          "sha256": "3f3f9aef4410e6c69fd4b4a5d118a4581da28013013cadb7f4456784e8399727",
+          "archiveMember": "proof-v3/renders/L10-front.png",
+          "originalReceiptHasImageHash": false
+        },
+        {
+          "path": "characters/plaguedoctor/previews/L10-back.png",
+          "sha256": "3764555ef05bb4ac581fb101e49e97ed23f385381e67d35e3aae5c56c1c10c2b",
+          "archiveMember": "proof-v3/renders/L10-back.png",
+          "originalReceiptHasImageHash": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280905,
+  "resolution": "1024",
+  "faces": 100000,
+  "texture": 2048,
+  "image": "/Users/domininclynch/Desktop/Business/artifacts/plaguedoctor-ranks/source/L5-reference.png",
+  "preprocess_s": 13.6,
+  "image_to_3d_s": 22.7,
+  "extract_glb_s": 26.3,
+  "glb": "src/assets/source/creatures/plaguedoctor-L5-donor.glb",
+  "bytes": 5224500,
+  "sha256": "fb1bb926ff8333c5f9445ea65048c0ebd0be035a4a69c159986a90f85fa5487f",
+  "attempts": 1
+}

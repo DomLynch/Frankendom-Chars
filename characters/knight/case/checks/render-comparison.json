@@ -1,0 +1,247 @@
+[
+  {
+    "rank": 2,
+    "view": "front",
+    "meanAbsoluteChannelDifference255": 0.037221111111111115
+  },
+  {
+    "rank": 2,
+    "view": "back",
+    "meanAbsoluteChannelDifference255": 0.037198888888888886
+  },
+  {
+    "rank": 2,
+    "view": "side",
+    "meanAbsoluteChannelDifference255": 0.03415
+  },
+  {
+    "rank": 2,
+    "view": "attack",
+    "meanAbsoluteChannelDifference255": 0.02645
+  },
+  {
+    "rank": 2,
+    "view": "guard",
+    "meanAbsoluteChannelDifference255": 0.027504444444444446
+  },
+  {
+    "rank": 2,
+    "view": "kick",
+    "meanAbsoluteChannelDifference255": 0.031014444444444445
+  },
+  {
+    "rank": 2,
+    "view": "fight",
+    "meanAbsoluteChannelDifference255": 0.007701111111111111
+  },
+  {
+    "rank": 3,
+    "view": "front",
+    "meanAbsoluteChannelDifference255": 0.024262222222222223
+  },
+  {
+    "rank": 3,
+    "view": "back",
+    "meanAbsoluteChannelDifference255": 0.018407777777777776
+  },
+  {
+    "rank": 3,
+    "view": "side",
+    "meanAbsoluteChannelDifference255": 0.025723333333333334
+  },
+  {
+    "rank": 3,
+    "view": "attack",
+    "meanAbsoluteChannelDifference255": 0.01759111111111111
+  },
+  {
+    "rank": 3,
+    "view": "guard",
+    "meanAbsoluteChannelDifference255": 0.020306666666666667
+  },
+  {
+    "rank": 3,
+    "view": "kick",
+    "meanAbsoluteChannelDifference255": 0.01865111111111111
+  },
+  {
+    "rank": 3,
+    "view": "fight",
+    "meanAbsoluteChannelDifference255": 0.008975555555555556
+  },
+  {
+    "rank": 4,
+    "view": "front",
+    "meanAbsoluteChannelDifference255": 0.09906555555555556
+  },
+  {
+    "rank": 4,
+    "view": "back",
+    "meanAbsoluteChannelDifference255": 0.12270111111111111
+  },
+  {
+    "rank": 4,
+    "view": "side",
+    "meanAbsoluteChannelDifference255": 0.08861666666666666
+  },
+  {
+    "rank": 4,
+    "view": "attack",
+    "meanAbsoluteChannelDifference255": 0.07997666666666667
+  },
+  {
+    "rank": 4,
+    "view": "guard",
+    "meanAbsoluteChannelDifference255": 0.07457333333333334
+  },
+  {
+    "rank": 4,
+    "view": "kick",
+    "meanAbsoluteChannelDifference255": 0.09633111111111112
+  },
+  {
+    "rank": 4,
+    "view": "fight",
+    "meanAbsoluteChannelDifference255": 0.012521111111111111
+  },
+  {
+    "rank": 5,
+    "view": "front",
+    "meanAbsoluteChannelDifference255": 0.04616555555555556
+  },
+  {
+    "rank": 5,
+    "view": "back",
+    "meanAbsoluteChannelDifference255": 0.041314444444444445
+  },
+  {
+    "rank": 5,
+    "view": "side",
+    "meanAbsoluteChannelDifference255": 0.037672222222222225
+  },
+  {
+    "rank": 5,
+    "view": "attack",
+    "meanAbsoluteChannelDifference255": 0.03455888888888889
+  },
+  {
+    "rank": 5,
+    "view": "guard",
+    "meanAbsoluteChannelDifference255": 0.03156333333333333
+  },
+  {
+    "rank": 5,
+    "view": "kick",
+    "meanAbsoluteChannelDifference255": 0.037172222222222225
+  },
+  {
+    "rank": 5,
+    "view": "fight",
+    "meanAbsoluteChannelDifference255": 0.007583333333333333
+  },
+  {
+    "rank": 8,
+    "view": "front",
+    "meanAbsoluteChannelDifference255": 0.07019333333333333
+  },
+  {
+    "rank": 8,
+    "view": "back",
+    "meanAbsoluteChannelDifference255": 0.07291666666666667
+  },
+  {
+    "rank": 8,
+    "view": "side",
+    "meanAbsoluteChannelDifference255": 0.06633444444444445
+  },
+  {
+    "rank": 8,
+    "view": "attack",
+    "meanAbsoluteChannelDifference255": 0.060643333333333334
+  },
+  {
+    "rank": 8,
+    "view": "guard",
+    "meanAbsoluteChannelDifference255": 0.054614444444444445
+  },
+  {
+    "rank": 8,
+    "view": "kick",
+    "meanAbsoluteChannelDifference255": 0.06919777777777777
+  },
+  {
+    "rank": 8,
+    "view": "fight",
+    "meanAbsoluteChannelDifference255": 0.011334444444444444
+  },
+  {
+    "rank": 9,
+    "view": "front",
+    "meanAbsoluteChannelDifference255": 0.07294555555555556
+  },
+  {
+    "rank": 9,
+    "view": "back",
+    "meanAbsoluteChannelDifference255": 0.0936088888888889
+  },
+  {
+    "rank": 9,
+    "view": "side",
+    "meanAbsoluteChannelDifference255": 0.06853222222222222
+  },
+  {
+    "rank": 9,
+    "view": "attack",
+    "meanAbsoluteChannelDifference255": 0.06474
+  },
+  {
+    "rank": 9,
+    "view": "guard",
+    "meanAbsoluteChannelDifference255": 0.06250333333333333
+  },
+  {
+    "rank": 9,
+    "view": "kick",
+    "meanAbsoluteChannelDifference255": 0.07301222222222223
+  },
+  {
+    "rank": 9,
+    "view": "fight",
+    "meanAbsoluteChannelDifference255": 0.01163
+  },
+  {
+    "rank": 10,
+    "view": "front",
+    "meanAbsoluteChannelDifference255": 0.03428666666666667
+  },
+  {
+    "rank": 10,
+    "view": "back",
+    "meanAbsoluteChannelDifference255": 0.02920111111111111
+  },
+  {
+    "rank": 10,
+    "view": "side",
+    "meanAbsoluteChannelDifference255": 0.025486666666666668
+  },
+  {
+    "rank": 10,
+    "view": "attack",
+    "meanAbsoluteChannelDifference255": 0.02706
+  },
+  {
+    "rank": 10,
+    "view": "guard",
+    "meanAbsoluteChannelDifference255": 0.028323333333333332
+  },
+  {
+    "rank": 10,
+    "view": "kick",
+    "meanAbsoluteChannelDifference255": 0.03004
+  },
+  {
+    "rank": 10,
+    "view": "fight",
+    "meanAbsoluteChannelDifference255": 0.009814444444444445
+  }
+]

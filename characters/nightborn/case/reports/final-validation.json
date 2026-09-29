@@ -1,0 +1,101 @@
+[
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-ranks-20260928/delivery/models/nightborn-L2.glb",
+    "sha256": "cb6c5b13af8b2bef6f14af6580359d5966d4babf0e6aa2418e783f3088920903",
+    "bytes": 15921988,
+    "trianglesIncludingHiddenOriginals": 147020,
+    "exactSamplerTimes": true,
+    "exactSamplerValues": true,
+    "maxJointMatrixDelta": 5.234019861966033e-08,
+    "sampleCount": 225,
+    "status": "passed"
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-ranks-20260928/delivery/models/nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "bytes": 15117912,
+    "trianglesIncludingHiddenOriginals": 146745,
+    "exactSamplerTimes": true,
+    "exactSamplerValues": true,
+    "maxJointMatrixDelta": 5.234019861966033e-08,
+    "sampleCount": 225,
+    "status": "passed"
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-ranks-20260928/delivery/models/nightborn-L4.glb",
+    "sha256": "4c4aaa94f6db632a681af481b2ec8236239d9d38d2d603f1d38cce8469fb48a6",
+    "bytes": 13857800,
+    "trianglesIncludingHiddenOriginals": 153437,
+    "exactSamplerTimes": true,
+    "exactSamplerValues": true,
+    "maxJointMatrixDelta": 5.234019861966033e-08,
+    "sampleCount": 225,
+    "status": "passed"
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-ranks-20260928/delivery/models/nightborn-L5.glb",
+    "sha256": "3140ef59a6dd05fd55f6ba7f9e0f0177805d987df6ee781c213659b6fb9a5818",
+    "bytes": 14039192,
+    "trianglesIncludingHiddenOriginals": 150494,
+    "exactSamplerTimes": true,
+    "exactSamplerValues": true,
+    "maxJointMatrixDelta": 5.234019861966033e-08,
+    "sampleCount": 225,
+    "status": "passed"
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-ranks-20260928/delivery/models/nightborn-L6.glb",
+    "sha256": "7a900f48d3727a383664fd936266f05e0b18822932e5073145477985e3b72a53",
+    "bytes": 12505064,
+    "trianglesIncludingHiddenOriginals": 138666,
+    "exactSamplerTimes": true,
+    "exactSamplerValues": true,
+    "maxJointMatrixDelta": 5.234019861966033e-08,
+    "sampleCount": 225,
+    "status": "passed"
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-ranks-20260928/delivery/models/nightborn-L7.glb",
+    "sha256": "d29c6ad96777bb902d463b3442049b9841833fd4cd68c3402b0b53377a335d2e",
+    "bytes": 13766476,
+    "trianglesIncludingHiddenOriginals": 146685,
+    "exactSamplerTimes": true,
+    "exactSamplerValues": true,
+    "maxJointMatrixDelta": 5.234019861966033e-08,
+    "sampleCount": 225,
+    "status": "passed"
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-elites-covered-r2/models/pilot-v5/nightborn-L8.glb",
+    "sha256": "66edaf77cf0478efb76929d2500503b73723d45fef59a80c8fefd43ada231b14",
+    "bytes": 16635388,
+    "trianglesIncludingHiddenOriginals": 188552,
+    "exactSamplerTimes": true,
+    "exactSamplerValues": true,
+    "maxJointMatrixDelta": 5.234019861966033e-08,
+    "sampleCount": 225,
+    "status": "passed"
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-elites-covered-r2/models/elites-v2/nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "bytes": 16016912,
+    "trianglesIncludingHiddenOriginals": 179243,
+    "exactSamplerTimes": true,
+    "exactSamplerValues": true,
+    "maxJointMatrixDelta": 5.234019861966033e-08,
+    "sampleCount": 225,
+    "status": "passed"
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-elites-covered-r2/models/elites-v1/nightborn-L10.glb",
+    "sha256": "4ce0d1b3fca7f44dc6f4d7706b2f448805263279c44941df1d62272b0020f110",
+    "bytes": 16183916,
+    "trianglesIncludingHiddenOriginals": 181966,
+    "exactSamplerTimes": true,
+    "exactSamplerValues": true,
+    "maxJointMatrixDelta": 5.234019861966033e-08,
+    "sampleCount": 225,
+    "status": "passed"
+  }
+]

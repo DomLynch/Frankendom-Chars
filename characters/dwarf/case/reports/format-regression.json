@@ -1,0 +1,65 @@
+[
+  {
+    "rank": "L2",
+    "originalErrors": 88,
+    "candidateErrors": 88,
+    "newErrors": 0,
+    "warnings": 3
+  },
+  {
+    "rank": "L3",
+    "originalErrors": 88,
+    "candidateErrors": 88,
+    "newErrors": 0,
+    "warnings": 3
+  },
+  {
+    "rank": "L4",
+    "originalErrors": 88,
+    "candidateErrors": 88,
+    "newErrors": 0,
+    "warnings": 3
+  },
+  {
+    "rank": "L5",
+    "originalErrors": 88,
+    "candidateErrors": 88,
+    "newErrors": 0,
+    "warnings": 3
+  },
+  {
+    "rank": "L6",
+    "originalErrors": 88,
+    "candidateErrors": 88,
+    "newErrors": 0,
+    "warnings": 3
+  },
+  {
+    "rank": "L7",
+    "originalErrors": 88,
+    "candidateErrors": 88,
+    "newErrors": 0,
+    "warnings": 3
+  },
+  {
+    "rank": "L8",
+    "originalErrors": 88,
+    "candidateErrors": 88,
+    "newErrors": 0,
+    "warnings": 2
+  },
+  {
+    "rank": "L9",
+    "originalErrors": 88,
+    "candidateErrors": 88,
+    "newErrors": 0,
+    "warnings": 2
+  },
+  {
+    "rank": "L10",
+    "originalErrors": 88,
+    "candidateErrors": 88,
+    "newErrors": 0,
+    "warnings": 2
+  }
+]

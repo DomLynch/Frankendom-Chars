@@ -1,0 +1,110 @@
+[
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-elites-covered-r2/models/pilot-v5/nightborn-L8.glb",
+    "sha256": "66edaf77cf0478efb76929d2500503b73723d45fef59a80c8fefd43ada231b14",
+    "activeMeshNames": [
+      "L8_ArmLame",
+      "L8_ArmLame.001",
+      "L8_ArmLame.002",
+      "L8_ArmLame.003",
+      "L8_ArmLame.004",
+      "L8_ArmLame.005",
+      "L8_ArmLame.006",
+      "L8_ArmLame.007",
+      "L8_ArmLame.008",
+      "L8_ArmLame.009",
+      "L8_ArmLame.010",
+      "L8_ArmLame.011",
+      "L8_Armour",
+      "L8_ArmouredArmsAndGauntlets",
+      "L8_ClosedHelmet",
+      "L8_CompleteJointCover",
+      "WeaponDrawn_1",
+      "WeaponDrawn_2"
+    ],
+    "activeMaterialNames": [
+      "L8 articulated armour metal",
+      "L8 worn plate edges",
+      "Material_0",
+      "Material_0.001",
+      "WeaponEstoc",
+      "WeaponEstocShaft"
+    ],
+    "visibleOriginalFaceSkinOrOpenCrowns": [],
+    "helmetBoundToOriginalHeadOnly": true,
+    "requiredCoverageMeshesPresent": true,
+    "limitation": "Scene tests do not replace front/back/side and motion inspection for holes, intersections or skin-like donor textures."
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-elites-covered-r2/models/elites-v2/nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "activeMeshNames": [
+      "L9_ArmLame",
+      "L9_ArmLame.001",
+      "L9_ArmLame.002",
+      "L9_ArmLame.003",
+      "L9_ArmLame.004",
+      "L9_ArmLame.005",
+      "L9_ArmLame.006",
+      "L9_ArmLame.007",
+      "L9_ArmLame.008",
+      "L9_ArmLame.009",
+      "L9_ArmLame.010",
+      "L9_ArmLame.011",
+      "L9_Armour",
+      "L9_ArmouredArmsAndGauntlets",
+      "L9_ClosedHelmet",
+      "L9_CompleteJointCover",
+      "WeaponDrawn_1",
+      "WeaponDrawn_2"
+    ],
+    "activeMaterialNames": [
+      "L9 articulated armour metal",
+      "L9 worn plate edges",
+      "Material_0",
+      "Material_0.001",
+      "WeaponEstoc",
+      "WeaponEstocShaft"
+    ],
+    "visibleOriginalFaceSkinOrOpenCrowns": [],
+    "helmetBoundToOriginalHeadOnly": true,
+    "requiredCoverageMeshesPresent": true,
+    "limitation": "Scene tests do not replace front/back/side and motion inspection for holes, intersections or skin-like donor textures."
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-elites-covered-r2/models/elites-v1/nightborn-L10.glb",
+    "sha256": "4ce0d1b3fca7f44dc6f4d7706b2f448805263279c44941df1d62272b0020f110",
+    "activeMeshNames": [
+      "L10_ArmLame",
+      "L10_ArmLame.001",
+      "L10_ArmLame.002",
+      "L10_ArmLame.003",
+      "L10_ArmLame.004",
+      "L10_ArmLame.005",
+      "L10_ArmLame.006",
+      "L10_ArmLame.007",
+      "L10_ArmLame.008",
+      "L10_ArmLame.009",
+      "L10_ArmLame.010",
+      "L10_ArmLame.011",
+      "L10_Armour",
+      "L10_ArmouredArmsAndGauntlets",
+      "L10_ClosedHelmet",
+      "L10_CompleteJointCover",
+      "WeaponDrawn_1",
+      "WeaponDrawn_2"
+    ],
+    "activeMaterialNames": [
+      "L10 articulated armour metal",
+      "L10 worn plate edges",
+      "Material_0",
+      "Material_0.001",
+      "WeaponEstoc",
+      "WeaponEstocShaft"
+    ],
+    "visibleOriginalFaceSkinOrOpenCrowns": [],
+    "helmetBoundToOriginalHeadOnly": true,
+    "requiredCoverageMeshesPresent": true,
+    "limitation": "Scene tests do not replace front/back/side and motion inspection for holes, intersections or skin-like donor textures."
+  }
+]

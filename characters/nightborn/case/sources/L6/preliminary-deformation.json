@@ -1,0 +1,38 @@
+[
+  {
+    "clip": "Armed",
+    "bad_edges": 0,
+    "max_ratio": 15.385188634270426,
+    "top": []
+  },
+  {
+    "clip": "Armed",
+    "bad_edges": 0,
+    "max_ratio": 15.385188634270426,
+    "top": []
+  },
+  {
+    "clip": "Armed",
+    "bad_edges": 0,
+    "max_ratio": 15.385188634270426,
+    "top": []
+  },
+  {
+    "clip": "Heavy",
+    "bad_edges": 0,
+    "max_ratio": 15.874288112144061,
+    "top": []
+  },
+  {
+    "clip": "Guard",
+    "bad_edges": 0,
+    "max_ratio": 18.19823779498201,
+    "top": []
+  },
+  {
+    "clip": "Kick",
+    "bad_edges": 0,
+    "max_ratio": 22.756696612021695,
+    "top": []
+  }
+]

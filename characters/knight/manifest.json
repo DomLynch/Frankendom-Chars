@@ -1,0 +1,179 @@
+{
+  "id": "knight",
+  "name": "Knight",
+  "archive": "knight-L2-L10-candidates.zip",
+  "archiveRoot": "knight-L2-L10",
+  "models": [
+    {
+      "rank": 2,
+      "archive": "knight-L2-L10-candidates.zip",
+      "member": "knight-L2-L10/models/knight-L2.glb",
+      "bytes": 36584980,
+      "sha256": "53c8ddf92dadd0f518e3552c5376b6974f6e2d1fc1b0dd87eac7a71717512be4",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/knight/previews/L2-front.png",
+          "sha256": "a65d9adc3bca4320e7431ede5fd17e8e1dd16962e54c74436a39c902a5abffa5",
+          "archiveMember": "knight-L2-L10/review/L2/L2-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "archive": "knight-L2-L10-candidates.zip",
+      "member": "knight-L2-L10/models/knight-L3.glb",
+      "bytes": 34046836,
+      "sha256": "14c45faa80fdc924404daa9e103d9a22dad1b28d29f0e8d6ecf5d4dbfca8908c",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/knight/previews/L3-front.png",
+          "sha256": "e1edd4099e84771e546d2aa0b9e40302be69d1fdd2d1a8ebee6c9bebe1672a6c",
+          "archiveMember": "knight-L2-L10/review/L3/L3-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "archive": "knight-L2-L10-candidates.zip",
+      "member": "knight-L2-L10/models/knight-L4.glb",
+      "bytes": 30367796,
+      "sha256": "331ed177f0efeaa8c5fcecc9b497f371c5ba1044b34264b54c0e9c9c5e2e6766",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/knight/previews/L4-front.png",
+          "sha256": "058a3c8a65b9a19bd851666769579bcfc1ed93f274272f06c9b36bc04752e7ae",
+          "archiveMember": "knight-L2-L10/review/L4/L4-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "archive": "knight-L2-L10-candidates.zip",
+      "member": "knight-L2-L10/models/knight-L5.glb",
+      "bytes": 32167336,
+      "sha256": "37751d989e74a2299436a1bd84a0e04823a5a5b01c770aae797657f82f233709",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/knight/previews/L5-front.png",
+          "sha256": "bf18a3a2543784ca7fb64c8bd1cb8cb15d7c74d634a7c5fb81d1f6f36f5dfc59",
+          "archiveMember": "knight-L2-L10/review/L5/L5-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "archive": "knight-L2-L10-candidates.zip",
+      "member": "knight-L2-L10/models/knight-L6.glb",
+      "bytes": 30125360,
+      "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/knight/previews/L6-front.png",
+          "sha256": "babbbf401f531dbbc377f86c8966f926fa0f1e78738c62ae1a27f4eee3138e4b",
+          "archiveMember": "knight-L2-L10/review/L6/L6-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "archive": "knight-L2-L10-candidates.zip",
+      "member": "knight-L2-L10/models/knight-L7.glb",
+      "bytes": 25385540,
+      "sha256": "82db420e9585a1e2d1c361d17f2e7c802de2f97f206d617c5da6da06309402b7",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/knight/previews/L7-front.png",
+          "sha256": "12f5dab0b2be086350985410efbc40e10d52e060e3b6c810e7935f1301baec54",
+          "archiveMember": "knight-L2-L10/review/L7/L7-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "archive": "knight-L2-L10-candidates.zip",
+      "member": "knight-L2-L10/models/knight-L8.glb",
+      "bytes": 27722484,
+      "sha256": "8e729c71ec36abbbe96ee77503bb55e6a0374757c52c9b4291cdea91960af908",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/knight/previews/L8-front.png",
+          "sha256": "3b1b6090115708a61e1fc3d35d422144c2d0e53edbbc712090a4088c5c84f01d",
+          "archiveMember": "knight-L2-L10/review/L8/L8-front.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/knight/previews/L8-back.png",
+          "sha256": "c487d6266f9b4d17aa0343ccd7ed9ea09cf060b6d19fd2821ec78631614f1bba",
+          "archiveMember": "knight-L2-L10/review/L8/L8-back.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "archive": "knight-L2-L10-candidates.zip",
+      "member": "knight-L2-L10/models/knight-L9.glb",
+      "bytes": 32496276,
+      "sha256": "2b8b52706d78182735e8eec883df1b5d0434ecceacad80ec2aafe12e622eed29",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/knight/previews/L9-front.png",
+          "sha256": "b9c7e0eefbf835215f1b35b36388dab1f0dd24bd10bcd6fbfc67b652ab3c0290",
+          "archiveMember": "knight-L2-L10/review/L9/L9-front.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/knight/previews/L9-back.png",
+          "sha256": "4c76c44217e850c95057e7f53adc3eab3795c8be08d6a5721fec1cc6aa886d5d",
+          "archiveMember": "knight-L2-L10/review/L9/L9-back.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "archive": "knight-L2-L10-candidates.zip",
+      "member": "knight-L2-L10/models/knight-L10.glb",
+      "bytes": 32974152,
+      "sha256": "8668acfb7e7c660562b15207df813d1fd62ecc2153321570653d74a6d5b4d940",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/knight/previews/L10-front.png",
+          "sha256": "94749c7d9a6232a9e3607b4d8a7b6a591c72b1211a015afba33b9fdc4fdbf031",
+          "archiveMember": "knight-L2-L10/review/L10/L10-front.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/knight/previews/L10-back.png",
+          "sha256": "8a9b8d37d502cbbcfef7eead806d934eff3699781888f7a9514dade46c6a7685",
+          "archiveMember": "knight-L2-L10/review/L10/L10-back.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "description": "Nightborn candidate GLB format validation",
+  "dependencies": {
+    "gltf-validator": "2.0.0-dev.3.10"
+  }
+}

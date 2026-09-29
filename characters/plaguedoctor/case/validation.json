@@ -1,0 +1,114 @@
+{
+  "status": "passed",
+  "models": [
+    {
+      "status": "passed",
+      "file": "/Users/domininclynch/Desktop/Business/artifacts/plaguedoctor-ranks/models/plaguedoctor-L2.glb",
+      "sha256": "a45a553e7cafbb1e5c53e517941923fd82b5eb366510946f5318fb4cc415755b",
+      "bytes": 13710484,
+      "trianglesIncludingPreservedHiddenOriginal": 142412,
+      "jointNames": 65,
+      "clips": 25,
+      "scope": "Finite geometry, normalized weights, unchanged joint and clip names. Visual fit acceptance separate.",
+      "rank": 2,
+      "hashMatchedViews": 6
+    },
+    {
+      "status": "passed",
+      "file": "/Users/domininclynch/Desktop/Business/artifacts/plaguedoctor-ranks/models/plaguedoctor-L3.glb",
+      "sha256": "16f9803e79ce433d6dc20873b8b530b723a7dbf4420da5eb803d86636b5bdd96",
+      "bytes": 15117980,
+      "trianglesIncludingPreservedHiddenOriginal": 144801,
+      "jointNames": 65,
+      "clips": 25,
+      "scope": "Finite geometry, normalized weights, unchanged joint and clip names. Visual fit acceptance separate.",
+      "rank": 3,
+      "hashMatchedViews": 6
+    },
+    {
+      "status": "passed",
+      "file": "/Users/domininclynch/Desktop/Business/artifacts/plaguedoctor-ranks/models/plaguedoctor-L4.glb",
+      "sha256": "438fe87506f7ec977638e659a87e8427ca297355c398c7a4f79f43d4d9fae46b",
+      "bytes": 12460000,
+      "trianglesIncludingPreservedHiddenOriginal": 141893,
+      "jointNames": 65,
+      "clips": 25,
+      "scope": "Finite geometry, normalized weights, unchanged joint and clip names. Visual fit acceptance separate.",
+      "rank": 4,
+      "hashMatchedViews": 6
+    },
+    {
+      "status": "passed",
+      "file": "/Users/domininclynch/Desktop/Business/artifacts/plaguedoctor-ranks/models/plaguedoctor-L5.glb",
+      "sha256": "5eff8e71a0ebe46d7f1726d0866ad5f9b8bcbaf14c6fcc23125a4ddf2bd7f8e4",
+      "bytes": 12409196,
+      "trianglesIncludingPreservedHiddenOriginal": 143648,
+      "jointNames": 65,
+      "clips": 25,
+      "scope": "Finite geometry, normalized weights, unchanged joint and clip names. Visual fit acceptance separate.",
+      "rank": 5,
+      "hashMatchedViews": 6
+    },
+    {
+      "status": "passed",
+      "file": "/Users/domininclynch/Desktop/Business/artifacts/plaguedoctor-ranks/models/plaguedoctor-L6.glb",
+      "sha256": "0c6ea065759b90dba837ad9ec6ddb1801f6d300510ece3d0f46b87b7cca45e96",
+      "bytes": 12973836,
+      "trianglesIncludingPreservedHiddenOriginal": 144944,
+      "jointNames": 65,
+      "clips": 25,
+      "scope": "Finite geometry, normalized weights, unchanged joint and clip names. Visual fit acceptance separate.",
+      "rank": 6,
+      "hashMatchedViews": 6
+    },
+    {
+      "status": "passed",
+      "file": "/Users/domininclynch/Desktop/Business/artifacts/plaguedoctor-ranks/models/plaguedoctor-L7.glb",
+      "sha256": "c925171606ecc31b5f11eaf553d7546ab63b85a6a51cb87876dc909a4e35f2c4",
+      "bytes": 12653428,
+      "trianglesIncludingPreservedHiddenOriginal": 144576,
+      "jointNames": 65,
+      "clips": 25,
+      "scope": "Finite geometry, normalized weights, unchanged joint and clip names. Visual fit acceptance separate.",
+      "rank": 7,
+      "hashMatchedViews": 6
+    },
+    {
+      "status": "passed",
+      "file": "/Users/domininclynch/Desktop/Business/artifacts/plaguedoctor-ranks/models/plaguedoctor-L8.glb",
+      "sha256": "8d5ebd8109a2a1154a403161d32e07fd286967a8eecd346c081a0d8c2816701c",
+      "bytes": 13233716,
+      "trianglesIncludingPreservedHiddenOriginal": 141768,
+      "jointNames": 65,
+      "clips": 25,
+      "scope": "Finite geometry, normalized weights, unchanged joint and clip names. Visual fit acceptance separate.",
+      "rank": 8,
+      "hashMatchedViews": 6
+    },
+    {
+      "status": "passed",
+      "file": "/Users/domininclynch/Desktop/Business/artifacts/plaguedoctor-ranks/models/plaguedoctor-L9.glb",
+      "sha256": "7ae7001079d4c299aea6d42cff80ccf89b379c193c4e45be765be81f24230229",
+      "bytes": 13401696,
+      "trianglesIncludingPreservedHiddenOriginal": 143478,
+      "jointNames": 65,
+      "clips": 25,
+      "scope": "Finite geometry, normalized weights, unchanged joint and clip names. Visual fit acceptance separate.",
+      "rank": 9,
+      "hashMatchedViews": 6
+    },
+    {
+      "status": "passed",
+      "file": "/Users/domininclynch/Desktop/Business/artifacts/plaguedoctor-ranks/models/plaguedoctor-L10.glb",
+      "sha256": "7e3563c4ff9b7bf69b563c49613dd3a7b583e1cdb92b298aae478c80c1863ff2",
+      "bytes": 14798260,
+      "trianglesIncludingPreservedHiddenOriginal": 144946,
+      "jointNames": 65,
+      "clips": 25,
+      "scope": "Finite geometry, normalized weights, unchanged joint and clip names. Visual fit acceptance separate.",
+      "rank": 10,
+      "hashMatchedViews": 6
+    }
+  ],
+  "originalUnchanged": true
+}

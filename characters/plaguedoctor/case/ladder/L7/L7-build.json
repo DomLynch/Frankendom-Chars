@@ -1,0 +1,15 @@
+{
+  "donorScale": 1.87,
+  "originalSignatures": {
+    "WeaponDrawn_1": "1a82fa0b3a557a59ebea420ca77a5c29562a571169cbbcf4eada0404191de10f",
+    "WeaponDrawn_2": "09490dc4e15291d0c3c6d0e657a315af778f16c1b4a74ed00298d8b31a3b850a",
+    "WeaponDrawn_1.001": "1a82fa0b3a557a59ebea420ca77a5c29562a571169cbbcf4eada0404191de10f",
+    "WeaponDrawn_2.001": "09490dc4e15291d0c3c6d0e657a315af778f16c1b4a74ed00298d8b31a3b850a",
+    "CreatureBody": "171c3617b065d7857c297d0b37f7c0c1fb41a5fbe1960c32fba1c01d3896f3b2",
+    "Icosphere": "5616e0eb6aaa7ebd8a575126a5131b7b1bf505ef75fd2954acafa28e08bc1da5"
+  },
+  "retainedVerticesWeightsUnchanged": true,
+  "donorTriangles": 95339,
+  "visibleBodyPolicy": "Complete original face/body geometry and weights retained, hidden beneath reconstructed armour; original rig and weapons retained.",
+  "scope": "First fit; visual and motion review required."
+}

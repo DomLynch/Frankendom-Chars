@@ -1,0 +1,15 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 28092802,
+  "resolution": "1024",
+  "faces": 100000,
+  "texture": 2048,
+  "image": "source/L2-reference.png",
+  "preprocess_s": 9.6,
+  "image_to_3d_s": 70.2,
+  "extract_glb_s": 34.9,
+  "glb": "src/assets/source/creatures/witch-L2-donor.glb",
+  "bytes": 5628500,
+  "sha256": "6b31ad30dd624848487cf6482bd86a2e56aa38f8479eac4bc97253c83f3c8c13",
+  "attempts": 1
+}

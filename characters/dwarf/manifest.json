@@ -1,0 +1,179 @@
+{
+  "id": "dwarf",
+  "name": "Dwarf",
+  "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+  "archiveRoot": "delivery",
+  "models": [
+    {
+      "rank": 2,
+      "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "member": "delivery/models/dwarf-L2.glb",
+      "bytes": 22065492,
+      "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/dwarf/previews/L2-front.png",
+          "sha256": "05d6d7e9b3c7ab0313f3c2531a01341874dd9b7d85c86e8c82813778d76f7913",
+          "archiveMember": "delivery/images/L2-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "member": "delivery/models/dwarf-L3.glb",
+      "bytes": 22706296,
+      "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/dwarf/previews/L3-front.png",
+          "sha256": "27a360f24eb00896010652d51005dc2e565e66cf245ba889c9ff6e827a608a86",
+          "archiveMember": "delivery/images/L3-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "member": "delivery/models/dwarf-L4.glb",
+      "bytes": 21791012,
+      "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/dwarf/previews/L4-front.png",
+          "sha256": "48292c7b993598e89800ea3b79943349c60fe5043a02d92035416e714ddb8074",
+          "archiveMember": "delivery/images/L4-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "member": "delivery/models/dwarf-L5.glb",
+      "bytes": 23125316,
+      "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/dwarf/previews/L5-front.png",
+          "sha256": "fea21beecec458eb5758000f419c71aa85067daf43da2df6d19d429acdeb5350",
+          "archiveMember": "delivery/images/L5-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "member": "delivery/models/dwarf-L6.glb",
+      "bytes": 22230864,
+      "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/dwarf/previews/L6-front.png",
+          "sha256": "cbb1814a62a3ba30566c4b07b97d365c1df90e0577a1ff6416cb8c43420349f7",
+          "archiveMember": "delivery/images/L6-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "member": "delivery/models/dwarf-L7.glb",
+      "bytes": 21539608,
+      "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/dwarf/previews/L7-front.png",
+          "sha256": "0abba635969078da2ad103a90d21bb71a7e4a1e93e3dad9a86dbf51b2554c517",
+          "archiveMember": "delivery/images/L7-front.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "member": "delivery/models/dwarf-L8.glb",
+      "bytes": 79118828,
+      "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/dwarf/previews/L8-front.png",
+          "sha256": "bc325712b53d1ec49f5cf78c96709c72c2c5bbc14b4ddddc73526e206026e544",
+          "archiveMember": "delivery/images/L8-front.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/dwarf/previews/L8-back.png",
+          "sha256": "8080272251bcf3e9fdde50c2f42f8bcda818c5a25b766e447bb28b0f5a0cf96b",
+          "archiveMember": "delivery/images/L8-back.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "member": "delivery/models/dwarf-L9.glb",
+      "bytes": 54680844,
+      "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/dwarf/previews/L9-front.png",
+          "sha256": "bb2eb2e0506beab91aa3d8c98a964a34d4aa0647bd5509ed4c3e9f440cd54181",
+          "archiveMember": "delivery/images/L9-front.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/dwarf/previews/L9-back.png",
+          "sha256": "96b1821925372b7c6588694759c31c152e1a23088e4c691d1a34ed12822dbc68",
+          "archiveMember": "delivery/images/L9-back.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "member": "delivery/models/dwarf-L10.glb",
+      "bytes": 52677712,
+      "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+      "joints": 65,
+      "animations": 37,
+      "previewEvidence": [
+        {
+          "path": "characters/dwarf/previews/L10-front.png",
+          "sha256": "14920c656675f3af97c44b737a2317824b94625c8fa1a4c9c5cd5f0864c2ddc2",
+          "archiveMember": "delivery/images/L10-front.png",
+          "originalReceiptHasImageHash": true
+        },
+        {
+          "path": "characters/dwarf/previews/L10-back.png",
+          "sha256": "ebb31e21a671ae61edcc646e01c18098e96117ef66d155e5bded7ae61e37212e",
+          "archiveMember": "delivery/images/L10-back.png",
+          "originalReceiptHasImageHash": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "model": "witch-L5.glb",
+    "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+    "image": "L5-front.png",
+    "clip": "Trident_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.2 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "8cac7feee6546ec7538c7ed545225cf899e6c6bf08c9afd752c44f307daddfed",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "witch-L5.glb",
+    "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+    "image": "L5-back.png",
+    "clip": "Trident_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.2 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "45a4a45f83524f5f4ab3db6a2e677066c4e0ef84157a87d4d95f08b9be682326",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "witch-L5.glb",
+    "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+    "image": "L5-side.png",
+    "clip": "Trident_Idle",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.2 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "52e1a7ac5bb77ff859fcecee21a50c98f9e0b762c0be5c4044c2b3a8bb92c18f",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "witch-L5.glb",
+    "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+    "image": "L5-attack.png",
+    "clip": "Trident_High",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.2 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "1f7ee8aca5114c1ed9c8e2e85f86d9c9fe77a374cd1fee82e5309a7666d625bb",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "witch-L5.glb",
+    "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+    "image": "L5-guard.png",
+    "clip": "Trident_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.2 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "3cced2b638c9868e194b5cfea847b53702cb45b4882c1956165baa79c3b0781e",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "witch-L5.glb",
+    "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+    "image": "L5-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.2 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "c0149a089c1722a6078e890f6e2e6ed1017fea0807f59e089b0004479674ec1a",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "witch-L5.glb",
+    "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+    "image": "L5-fight.png",
+    "clip": "Trident_Idle",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 8.797491073608398,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.2 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": 109.99996662139893,
+    "imageSha256": "3246a57b725cb59ec31afad6db0c63916c00e66d86eaec40336f994a001a9d62",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "witch-L5.glb",
+    "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+    "image": "L5-head.png",
+    "clip": "Trident_Idle",
+    "frame": 8,
+    "camera": [
+      -0.020853029564023018,
+      -6.0,
+      1.4866564273834229
+    ],
+    "orthoScale": 0.800000011920929,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.2 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "dd08ab4efdf142cfe8175a58554a3e96a6d8cfc6f15e20f108b66a577c2aeedf",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "witch-L5.glb",
+    "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+    "image": "L5-high-rear.png",
+    "clip": "Trident_Idle",
+    "frame": 8,
+    "camera": [
+      2.799999952316284,
+      5.0,
+      3.200000047683716
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.2 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "2799f66ea984a3f7246f9db03290a477a173bac230b083cb7707fca670939819",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  }
+]

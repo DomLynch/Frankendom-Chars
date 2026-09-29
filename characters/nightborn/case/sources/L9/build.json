@@ -1,0 +1,61 @@
+{
+  "rank": 9,
+  "version": "elites-v1",
+  "removedOpenFaceAndCrownMeshes": [
+    "Face",
+    "L9_CrownLeaf",
+    "L9_CrownLeaf.001",
+    "L9_CrownLeaf.002",
+    "L9_CrownLeaf.003",
+    "L9_CrownLeaf.004",
+    "L9_CrownRuby",
+    "L9_CrownRuby.001",
+    "L9_CrownRuby.002",
+    "L9_FittedGloves",
+    "L9_OpenCrown",
+    "L9_RubySetting",
+    "L9_RubySetting.001",
+    "L9_RubySetting.002",
+    "L9_WristCuff",
+    "L9_WristCuff.001",
+    "Photo",
+    "PhotoEyes",
+    "PhotoTeeth"
+  ],
+  "activeMeshes": [
+    "L9_Armour",
+    "WeaponDrawn_1",
+    "WeaponDrawn_2",
+    "L9_CompleteJointCover",
+    "L9_ArmouredArmsAndGauntlets",
+    "L9_ArmLame",
+    "L9_ArmLame.001",
+    "L9_ArmLame.002",
+    "L9_ArmLame.003",
+    "L9_ArmLame.004",
+    "L9_ArmLame.005",
+    "L9_ArmLame.006",
+    "L9_ArmLame.007",
+    "L9_ArmLame.008",
+    "L9_ArmLame.009",
+    "L9_ArmLame.010",
+    "L9_ArmLame.011",
+    "L9_ClosedHelmet",
+    "Icosphere"
+  ],
+  "originalSkinWeightSignature": "6e797cf2119761de3c170c0e9a3dc8d0b63d0b7e987d07a4e1a57beed9663fbc",
+  "fullCoverageParts": [
+    "L9_CompleteJointCover",
+    "L9_ArmouredArmsAndGauntlets",
+    "L9_ClosedHelmet"
+  ],
+  "helmetScale": 0.4800966505072765,
+  "helmetHeight": 0.48,
+  "helmetBaseZ": 1.525,
+  "inputs": {
+    "original.glb": "ffd772602ac354fd1f2e3b29df5bc08937f0f5561804d5512d3fcced48c2a504",
+    "previous-L9.glb": "e7509bcde2ecb19223fd443cf8d928d4050482c6f8afda319594a36f64f00b4b",
+    "L9-helmet.glb": "4fee86e00d36d2f9c7e4051c25d08830675327f2c324ed134e598661d3d40405"
+  },
+  "candidate": "exported; coverage and motion review required"
+}

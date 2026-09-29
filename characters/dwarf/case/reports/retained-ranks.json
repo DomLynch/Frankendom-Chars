@@ -1,0 +1,32 @@
+[
+  {
+    "rank": "L2",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "unchanged": true
+  },
+  {
+    "rank": "L3",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "unchanged": true
+  },
+  {
+    "rank": "L4",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "unchanged": true
+  },
+  {
+    "rank": "L5",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "unchanged": true
+  },
+  {
+    "rank": "L6",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "unchanged": true
+  },
+  {
+    "rank": "L7",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "unchanged": true
+  }
+]

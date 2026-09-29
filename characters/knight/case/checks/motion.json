@@ -1,0 +1,1838 @@
+[
+  {
+    "rank": 2,
+    "sha256": "53c8ddf92dadd0f518e3552c5376b6974f6e2d1fc1b0dd87eac7a71717512be4",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7697231871290673,
+        "maxStretch": 14.4453757726923
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7477064593320595,
+        "maxStretch": 14.735928173827853
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7464728271790322,
+        "maxStretch": 14.726712914414955
+      },
+      {
+        "clip": "Armed",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7447010035120771,
+        "maxStretch": 14.703754131349832
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7635342521411095,
+        "maxStretch": 14.445372202810361
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7464780486472373,
+        "maxStretch": 14.726712901643145
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7697232064231339,
+        "maxStretch": 14.445373122152516
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9601195364629282,
+        "maxStretch": 23.647164742543932
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8923171311902904,
+        "maxStretch": 26.99878777232411
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.049558238095858,
+        "maxStretch": 30.02486662791579
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.0639735555586958,
+        "maxStretch": 29.75670971786348
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.064798359898893,
+        "maxStretch": 28.578619980194695
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9990834683969423,
+        "maxStretch": 25.725371238693445
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9601195364629154,
+        "maxStretch": 23.647164742543932
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9601195364629282,
+        "maxStretch": 23.647164742543932
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9677887199149062,
+        "maxStretch": 25.125508726343337
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.962880644273995,
+        "maxStretch": 25.829551957385032
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9589370249423763,
+        "maxStretch": 26.026149183884392
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9572750940931873,
+        "maxStretch": 26.202725119548063
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9572750940931873,
+        "maxStretch": 26.202725119548063
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9572750940931873,
+        "maxStretch": 26.202725119548063
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7235437999935972,
+        "maxStretch": 14.44537619171754
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8064344709204865,
+        "maxStretch": 14.23583110250124
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8069389317787183,
+        "maxStretch": 14.214515150543598
+      },
+      {
+        "clip": "Kick",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8451504721177234,
+        "maxStretch": 14.21867251364419
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.902671574759247,
+        "maxStretch": 14.22861499106146
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7381065482067324,
+        "maxStretch": 14.345383358293736
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7235437999935972,
+        "maxStretch": 14.44537619171754
+      }
+    ],
+    "maxLongStretchedEdgeOccurrences": 0,
+    "scope": "Sampled new-armour deformation diagnostic; not continuous collision or original finisher clearance."
+  },
+  {
+    "rank": 3,
+    "sha256": "14c45faa80fdc924404daa9e103d9a22dad1b28d29f0e8d6ecf5d4dbfca8908c",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.732124344456004,
+        "maxStretch": 14.147068065625655
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7099156037267793,
+        "maxStretch": 13.788749176683103
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7100322683573013,
+        "maxStretch": 13.759723251759432
+      },
+      {
+        "clip": "Armed",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7093859932624942,
+        "maxStretch": 13.709155071746537
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7300824969452506,
+        "maxStretch": 14.147064367140448
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7096728181276863,
+        "maxStretch": 13.75972362175945
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7321243824105697,
+        "maxStretch": 14.147065938449439
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9344808824284079,
+        "maxStretch": 19.31213215807925
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9751507271634798,
+        "maxStretch": 23.8665080084913
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.0624622392956824,
+        "maxStretch": 22.61911464684652
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.0715636144045053,
+        "maxStretch": 21.74825369940054
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.075396084091614,
+        "maxStretch": 21.894910120600542
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9892280731626257,
+        "maxStretch": 19.178627716430793
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9344808824284079,
+        "maxStretch": 19.312132158079205
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9344808824284079,
+        "maxStretch": 19.31213215807925
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9430129954788393,
+        "maxStretch": 19.634432671324294
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9344991618009268,
+        "maxStretch": 19.182472698257193
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9326984903114857,
+        "maxStretch": 19.455831928320833
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.930704166829077,
+        "maxStretch": 19.71666415076767
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.930704166829077,
+        "maxStretch": 19.71666415076767
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.930704166829077,
+        "maxStretch": 19.71666415076767
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6921446071062052,
+        "maxStretch": 14.14706844856563
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8098158458694733,
+        "maxStretch": 14.132580277654501
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8250984410148121,
+        "maxStretch": 14.127644942242743
+      },
+      {
+        "clip": "Kick",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8586611656949066,
+        "maxStretch": 14.129354097696282
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9132230120563414,
+        "maxStretch": 14.131473890752918
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7232900464546705,
+        "maxStretch": 14.141774368153268
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6921446071062052,
+        "maxStretch": 14.14706844856563
+      }
+    ],
+    "maxLongStretchedEdgeOccurrences": 0,
+    "scope": "Sampled new-armour deformation diagnostic; not continuous collision or original finisher clearance."
+  },
+  {
+    "rank": 4,
+    "sha256": "331ed177f0efeaa8c5fcecc9b497f371c5ba1044b34264b54c0e9c9c5e2e6766",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.762830060739203,
+        "maxStretch": 18.2070438943258
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7475078497770211,
+        "maxStretch": 17.892552040533598
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7462485652353514,
+        "maxStretch": 17.889742480060818
+      },
+      {
+        "clip": "Armed",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7451005163582056,
+        "maxStretch": 17.89433253730489
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7640721942753255,
+        "maxStretch": 18.639479733978025
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.746248576098101,
+        "maxStretch": 17.900260301172285
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.762830095179423,
+        "maxStretch": 18.207048265533764
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9131158789861111,
+        "maxStretch": 27.689370107824317
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9319642899494807,
+        "maxStretch": 32.5709918696418
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.046175503336506,
+        "maxStretch": 32.64881693129501
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.068086889207668,
+        "maxStretch": 31.175078962648733
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.078224927406193,
+        "maxStretch": 30.025389923462846
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.981944271193279,
+        "maxStretch": 27.0885673447883
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9131158789861085,
+        "maxStretch": 27.68937010782427
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9131158789861111,
+        "maxStretch": 27.689370107824317
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9263718839657442,
+        "maxStretch": 28.196396615705524
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9333444817527004,
+        "maxStretch": 27.667517541807293
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9308450311532608,
+        "maxStretch": 27.406248421068184
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.932481475560939,
+        "maxStretch": 27.127995713139644
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9324814755609236,
+        "maxStretch": 27.12799571313962
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9324814755609236,
+        "maxStretch": 27.12799571313962
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.712835199022146,
+        "maxStretch": 18.20704447551
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8131448101630903,
+        "maxStretch": 17.773658263228466
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8350211250865065,
+        "maxStretch": 17.61114097758934
+      },
+      {
+        "clip": "Kick",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8653916539386046,
+        "maxStretch": 17.668480748689312
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.925937998055114,
+        "maxStretch": 17.738016206173704
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7334952528139573,
+        "maxStretch": 18.055028182996757
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.712835199022146,
+        "maxStretch": 18.20704447551
+      }
+    ],
+    "maxLongStretchedEdgeOccurrences": 0,
+    "scope": "Sampled new-armour deformation diagnostic; not continuous collision or original finisher clearance."
+  },
+  {
+    "rank": 5,
+    "sha256": "37751d989e74a2299436a1bd84a0e04823a5a5b01c770aae797657f82f233709",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9091403441731016,
+        "maxStretch": 14.05760783862641
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.890289766064139,
+        "maxStretch": 13.776592412634866
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8890156159024345,
+        "maxStretch": 13.776307839015681
+      },
+      {
+        "clip": "Armed",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8879910130696076,
+        "maxStretch": 13.784447224304513
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9081530507435396,
+        "maxStretch": 14.412887362056702
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8890547471026617,
+        "maxStretch": 13.785401750893568
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9091403112822267,
+        "maxStretch": 14.057611510854288
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.204286562303472,
+        "maxStretch": 21.024975358891048
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1844566580422744,
+        "maxStretch": 23.892646051756223
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.3910021860528956,
+        "maxStretch": 24.843888078044902
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.3968336716795893,
+        "maxStretch": 23.71305409866972
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.390479920513766,
+        "maxStretch": 22.769975851873664
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.268755691404742,
+        "maxStretch": 20.499203254739168
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.204286562303472,
+        "maxStretch": 21.024975358891083
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.204286562303472,
+        "maxStretch": 21.024975358891048
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.220044487674568,
+        "maxStretch": 21.717805135069145
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.2161759685908673,
+        "maxStretch": 21.479094554714692
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.2177185728909548,
+        "maxStretch": 21.325659604798208
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.2178790732332514,
+        "maxStretch": 21.15442121603372
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.2178790732332514,
+        "maxStretch": 21.154421216033736
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.2178790732332514,
+        "maxStretch": 21.154421216033736
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8810965368467627,
+        "maxStretch": 14.057608290055331
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9461710960873904,
+        "maxStretch": 13.708794796510807
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.945198886385971,
+        "maxStretch": 13.578588726879394
+      },
+      {
+        "clip": "Kick",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9781505250048488,
+        "maxStretch": 13.624493300884806
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.0209376095387737,
+        "maxStretch": 16.18217812823791
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.896085581522164,
+        "maxStretch": 13.93497982357104
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8810965368467627,
+        "maxStretch": 14.057608290055331
+      }
+    ],
+    "maxLongStretchedEdgeOccurrences": 0,
+    "scope": "Sampled new-armour deformation diagnostic; not continuous collision or original finisher clearance."
+  },
+  {
+    "rank": 6,
+    "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.5121935436030345,
+        "maxStretch": 31.001527077601587
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.5202658989352336,
+        "maxStretch": 31.558665592153776
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.518861450699656,
+        "maxStretch": 31.549568457516333
+      },
+      {
+        "clip": "Armed",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.518489982069948,
+        "maxStretch": 31.522022522587488
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.536802062264791,
+        "maxStretch": 31.00151715928976
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.5188614078605434,
+        "maxStretch": 31.549568294412747
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.5121936863232293,
+        "maxStretch": 31.0015213197171
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.672008536393587,
+        "maxStretch": 55.28255661745062
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.436946447923121,
+        "maxStretch": 53.29144502229047
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 4.076681864619165,
+        "maxStretch": 67.25327252320234
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 4.0101196961342875,
+        "maxStretch": 70.10480022633033
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.9559023331719927,
+        "maxStretch": 69.9344076000891
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.6750351687725633,
+        "maxStretch": 61.56840701762921
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.672008536393614,
+        "maxStretch": 55.28255661745062
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.672008536393587,
+        "maxStretch": 55.28255661745062
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.699604864076692,
+        "maxStretch": 60.01448452389445
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.6661868700687505,
+        "maxStretch": 62.56054066930166
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.6585455896657413,
+        "maxStretch": 63.33596511901784
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.6395672873175524,
+        "maxStretch": 64.07000847988273
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.6395672873175524,
+        "maxStretch": 64.07000847988273
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 3.6395672873175524,
+        "maxStretch": 64.07000847988273
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.50664739108087,
+        "maxStretch": 31.001528081481354
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.522679968091231,
+        "maxStretch": 30.699271751955884
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.526810357929724,
+        "maxStretch": 30.606841454094585
+      },
+      {
+        "clip": "Kick",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.5464383569662328,
+        "maxStretch": 30.638213241612362
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.5725947658062607,
+        "maxStretch": 30.678065550798664
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.5044825485164486,
+        "maxStretch": 30.88587469937879
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.50664739108087,
+        "maxStretch": 31.001528081481354
+      }
+    ],
+    "maxLongStretchedEdgeOccurrences": 0,
+    "scope": "Sampled new-armour deformation diagnostic; not continuous collision or original finisher clearance."
+  },
+  {
+    "rank": 7,
+    "sha256": "82db420e9585a1e2d1c361d17f2e7c802de2f97f206d617c5da6da06309402b7",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.913227982537105,
+        "maxStretch": 14.114382149243708
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8894814424189512,
+        "maxStretch": 14.637630722335148
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8885210496030618,
+        "maxStretch": 14.644933789380588
+      },
+      {
+        "clip": "Armed",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8883643110006767,
+        "maxStretch": 14.650034758317659
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.911508859432854,
+        "maxStretch": 14.11437721553226
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8889097800664796,
+        "maxStretch": 14.644933736446347
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9132281150027088,
+        "maxStretch": 14.114379363709142
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.4392226649803415,
+        "maxStretch": 26.389705240205558
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.3277778039223476,
+        "maxStretch": 30.805729341993246
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.6077464714833423,
+        "maxStretch": 33.971485780153316
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.6074209329672433,
+        "maxStretch": 34.872085810967214
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.6021775160300753,
+        "maxStretch": 34.206754342848754
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.4653882334863657,
+        "maxStretch": 29.743004620683887
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.4392226649803486,
+        "maxStretch": 26.389705240205558
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.4392226649803415,
+        "maxStretch": 26.389705240205558
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.442938013401586,
+        "maxStretch": 28.960364169896675
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.43151859324403,
+        "maxStretch": 30.331264484443157
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.4265065302295428,
+        "maxStretch": 30.748139871206075
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.4216648425528065,
+        "maxStretch": 31.14293707699154
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.4216648425528065,
+        "maxStretch": 31.14293707699154
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.4216648425528065,
+        "maxStretch": 31.14293707699154
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.865312889397817,
+        "maxStretch": 14.114382619667508
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.992416194984011,
+        "maxStretch": 13.974112775417142
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9966281628902325,
+        "maxStretch": 13.930624902448274
+      },
+      {
+        "clip": "Kick",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.041545514629502,
+        "maxStretch": 13.945428019129134
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1175263623560756,
+        "maxStretch": 13.964167760460514
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8853325671843113,
+        "maxStretch": 14.060985486011772
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.865312889397817,
+        "maxStretch": 14.114382619667508
+      }
+    ],
+    "maxLongStretchedEdgeOccurrences": 0,
+    "scope": "Sampled new-armour deformation diagnostic; not continuous collision or original finisher clearance."
+  },
+  {
+    "rank": 8,
+    "sha256": "8e729c71ec36abbbe96ee77503bb55e6a0374757c52c9b4291cdea91960af908",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.788290030652346,
+        "maxStretch": 12.71318017100918
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7609612340433216,
+        "maxStretch": 12.771738825329873
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7601437552981525,
+        "maxStretch": 12.74358854472082
+      },
+      {
+        "clip": "Armed",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7577378314578898,
+        "maxStretch": 12.687612050940421
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7803495498979904,
+        "maxStretch": 12.713176191805402
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7600199267080563,
+        "maxStretch": 12.743589191492257
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7882899888169013,
+        "maxStretch": 12.713176242511349
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1325026068327517,
+        "maxStretch": 21.39135450773604
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.0547828669352577,
+        "maxStretch": 22.31902826851199
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1903412908561926,
+        "maxStretch": 24.076375409720395
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1881489368650433,
+        "maxStretch": 21.69038283646879
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1812104022886714,
+        "maxStretch": 20.20616385432755
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.138723046158383,
+        "maxStretch": 21.347990118915394
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1325026068327517,
+        "maxStretch": 21.391354507736022
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1325026068327517,
+        "maxStretch": 21.39135450773604
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1267721335584997,
+        "maxStretch": 21.994005490659944
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1126280477200257,
+        "maxStretch": 21.544824117662444
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1087914473158467,
+        "maxStretch": 21.30765397598475
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1041145304705107,
+        "maxStretch": 21.049959116456222
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1041145304705102,
+        "maxStretch": 21.049959116456222
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 2.1041145304705102,
+        "maxStretch": 21.049959116456222
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7199643604981736,
+        "maxStretch": 12.713180435164592
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8393104248848955,
+        "maxStretch": 12.675719380201908
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.849539692253188,
+        "maxStretch": 12.662518476555144
+      },
+      {
+        "clip": "Kick",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.878948470112957,
+        "maxStretch": 12.667123665446757
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9392304879722915,
+        "maxStretch": 12.67278495084907
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7466540586759882,
+        "maxStretch": 12.699664016716264
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7199643604981736,
+        "maxStretch": 12.713180435164592
+      }
+    ],
+    "maxLongStretchedEdgeOccurrences": 0,
+    "scope": "Sampled new-armour deformation diagnostic; not continuous collision or original finisher clearance."
+  },
+  {
+    "rank": 9,
+    "sha256": "2b8b52706d78182735e8eec883df1b5d0434ecceacad80ec2aafe12e622eed29",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6639620133491915,
+        "maxStretch": 14.673805350174911
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.620210513960039,
+        "maxStretch": 14.705465676225211
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.619195345306466,
+        "maxStretch": 14.674027489345255
+      },
+      {
+        "clip": "Armed",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6185232253573103,
+        "maxStretch": 14.611973173404955
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6519362744443007,
+        "maxStretch": 14.674260713542031
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6191952977805113,
+        "maxStretch": 14.674027249550587
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.663962050819908,
+        "maxStretch": 14.673805936759742
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.750481168872785,
+        "maxStretch": 25.72657589517321
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.722819710900916,
+        "maxStretch": 26.435156594929158
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7699982140659163,
+        "maxStretch": 25.872548819366514
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.783697753968023,
+        "maxStretch": 24.12161394530768
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7942549029219488,
+        "maxStretch": 24.471831596059538
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.775116575083019,
+        "maxStretch": 24.68282589371346
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.750481168872785,
+        "maxStretch": 25.726575895173237
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.750481168872785,
+        "maxStretch": 25.72657589517321
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7511560943388518,
+        "maxStretch": 21.446827106931217
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7468815080048041,
+        "maxStretch": 21.11067128795478
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7451621944193034,
+        "maxStretch": 20.91846032241732
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7457308716214621,
+        "maxStretch": 20.70749153224955
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7457308716214621,
+        "maxStretch": 20.70749153224955
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7457308716214621,
+        "maxStretch": 20.70749153224955
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.5873198227932033,
+        "maxStretch": 14.673805802323514
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7561340093043523,
+        "maxStretch": 14.684469407541279
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7414002652891865,
+        "maxStretch": 14.68882245661611
+      },
+      {
+        "clip": "Kick",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7871957594920223,
+        "maxStretch": 14.687269023508351
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8746627783346208,
+        "maxStretch": 14.685410498840463
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6357335898580847,
+        "maxStretch": 14.677362026160969
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.5873198227932033,
+        "maxStretch": 14.673805802323514
+      }
+    ],
+    "maxLongStretchedEdgeOccurrences": 0,
+    "scope": "Sampled new-armour deformation diagnostic; not continuous collision or original finisher clearance."
+  },
+  {
+    "rank": 10,
+    "sha256": "8668acfb7e7c660562b15207df813d1fd62ecc2153321570653d74a6d5b4d940",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.71109980660608,
+        "maxStretch": 10.931918930931905
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.684087264849785,
+        "maxStretch": 10.954390025260091
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6836789909199554,
+        "maxStretch": 10.93183542761352
+      },
+      {
+        "clip": "Armed",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6841926766974842,
+        "maxStretch": 10.887280792466303
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7090108271124964,
+        "maxStretch": 10.931930596105254
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6839030095645606,
+        "maxStretch": 10.931835240999398
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.711099899054572,
+        "maxStretch": 10.93191939237831
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8429489580046852,
+        "maxStretch": 16.690433793302766
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.9094389178271944,
+        "maxStretch": 17.68157792665986
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.88522690562396,
+        "maxStretch": 17.515391163988127
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8933977164239324,
+        "maxStretch": 16.971555110079205
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.894740441784186,
+        "maxStretch": 17.03221023495661
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8588939328368543,
+        "maxStretch": 16.686201705116577
+      },
+      {
+        "clip": "Maul_Heavy",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8429489580046852,
+        "maxStretch": 16.69043379330277
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8429489580046852,
+        "maxStretch": 16.690433793302766
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8502815151292005,
+        "maxStretch": 15.196320270216713
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8562873492252372,
+        "maxStretch": 15.235084923114215
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8592259355259355,
+        "maxStretch": 15.261864959299078
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8595400415181575,
+        "maxStretch": 15.277271400741162
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8595400415181575,
+        "maxStretch": 15.277271400741162
+      },
+      {
+        "clip": "Maul_Guard",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8595400415181575,
+        "maxStretch": 15.277271400741162
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6742909073727374,
+        "maxStretch": 10.931919294720226
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.766798927584183,
+        "maxStretch": 10.936458520456513
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.7548487971913804,
+        "maxStretch": 10.938198882172255
+      },
+      {
+        "clip": "Kick",
+        "time": 0.45,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.786100368398064,
+        "maxStretch": 10.937584760964771
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.8293580446429312,
+        "maxStretch": 10.93683993277817
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6991704098467344,
+        "maxStretch": 10.93348051200025
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdgeOccurrences": 0,
+        "p99Stretch": 1.6742909073727374,
+        "maxStretch": 10.931919294720226
+      }
+    ],
+    "maxLongStretchedEdgeOccurrences": 0,
+    "scope": "Sampled new-armour deformation diagnostic; not continuous collision or original finisher clearance."
+  }
+]

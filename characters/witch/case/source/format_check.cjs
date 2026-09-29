@@ -1,0 +1,2 @@
+const fs=require('fs'),v=require(process.env.GLTF_VALIDATOR || './validation/node_modules/gltf-validator');
+(async()=>{for(const p of process.argv.slice(2)){const r=await v.validateBytes(new Uint8Array(fs.readFileSync(p)),{maxIssues:0});fs.writeFileSync(p+'.validation.json',JSON.stringify(r,null,2));console.log(p,r.issues.numErrors,'errors',r.issues.numWarnings,'warnings')}})().catch(e=>{console.error(e);process.exitCode=1});

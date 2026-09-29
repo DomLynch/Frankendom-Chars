@@ -1,0 +1,533 @@
+[
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-elites-covered-r2/models/pilot-v5/nightborn-L8.glb",
+    "sha256": "66edaf77cf0478efb76929d2500503b73723d45fef59a80c8fefd43ada231b14",
+    "meshPrimitivesChecked": 18,
+    "threshold": "posed edge > 0.10m AND > 3x rest",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044032051275932
+      },
+      {
+        "clip": "Armed",
+        "time": 0.3333333333333333,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044156159563018
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.0470680818837
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.212332865666115
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.047068177181115
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.04403205657675
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.73206354695444
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.25,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.923785582945174
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.4583333333333333,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.423480339284998
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.5,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.785738867877443
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.75,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.045853064613336
+      },
+      {
+        "clip": "Heavy",
+        "time": 1.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.732063546954617
+      },
+      {
+        "clip": "Guard",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.922229976436354
+      },
+      {
+        "clip": "Guard",
+        "time": 0.25,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.711692725895436
+      },
+      {
+        "clip": "Guard",
+        "time": 0.4166666666666667,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.751127498764209
+      },
+      {
+        "clip": "Guard",
+        "time": 0.5,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.758249329743848
+      },
+      {
+        "clip": "Guard",
+        "time": 0.75,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.76039631107861
+      },
+      {
+        "clip": "Guard",
+        "time": 1.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.753750850162202
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044032400893446
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.027513448583141
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4166666666666667,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.021851629842079
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.026177329863383
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.03819159394024
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044032400893446
+      }
+    ],
+    "worstLongEdgeCount": 0
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-elites-covered-r2/models/elites-v2/nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "meshPrimitivesChecked": 18,
+    "threshold": "posed edge > 0.10m AND > 3x rest",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044032051275932
+      },
+      {
+        "clip": "Armed",
+        "time": 0.3333333333333333,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044156159563018
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.0470680818837
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.212332865666115
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.047068177181115
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.04403205657675
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.73206354695444
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.25,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.923785582945174
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.4583333333333333,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.423480339284998
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.5,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.785738867877443
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.75,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.045853064613336
+      },
+      {
+        "clip": "Heavy",
+        "time": 1.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.732063546954617
+      },
+      {
+        "clip": "Guard",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.922229976436354
+      },
+      {
+        "clip": "Guard",
+        "time": 0.25,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.711692725895436
+      },
+      {
+        "clip": "Guard",
+        "time": 0.4166666666666667,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.751127498764209
+      },
+      {
+        "clip": "Guard",
+        "time": 0.5,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.758249329743848
+      },
+      {
+        "clip": "Guard",
+        "time": 0.75,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.76039631107861
+      },
+      {
+        "clip": "Guard",
+        "time": 1.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.753750850162202
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044032400893446
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.027513448583141
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4166666666666667,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.021851629842079
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.026177329863383
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.03819159394024
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044032400893446
+      }
+    ],
+    "worstLongEdgeCount": 0
+  },
+  {
+    "file": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-elites-covered-r2/models/elites-v1/nightborn-L10.glb",
+    "sha256": "4ce0d1b3fca7f44dc6f4d7706b2f448805263279c44941df1d62272b0020f110",
+    "meshPrimitivesChecked": 18,
+    "threshold": "posed edge > 0.10m AND > 3x rest",
+    "samples": [
+      {
+        "clip": "Armed",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044032051275932
+      },
+      {
+        "clip": "Armed",
+        "time": 0.3333333333333333,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044156159563018
+      },
+      {
+        "clip": "Armed",
+        "time": 0.4166666567325592,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.0470680818837
+      },
+      {
+        "clip": "Armed",
+        "time": 0.8333333134651184,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.212332865666115
+      },
+      {
+        "clip": "Armed",
+        "time": 1.2499999701976776,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.047068177181115
+      },
+      {
+        "clip": "Armed",
+        "time": 1.6666666269302368,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.04403205657675
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.73206354695444
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.25,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.923785582945174
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.4583333333333333,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.423480339284998
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.5,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.785738867877443
+      },
+      {
+        "clip": "Heavy",
+        "time": 0.75,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.045853064613336
+      },
+      {
+        "clip": "Heavy",
+        "time": 1.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.732063546954617
+      },
+      {
+        "clip": "Guard",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.922229976436354
+      },
+      {
+        "clip": "Guard",
+        "time": 0.25,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.711692725895436
+      },
+      {
+        "clip": "Guard",
+        "time": 0.4166666666666667,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.751127498764209
+      },
+      {
+        "clip": "Guard",
+        "time": 0.5,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.758249329743848
+      },
+      {
+        "clip": "Guard",
+        "time": 0.75,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.76039631107861
+      },
+      {
+        "clip": "Guard",
+        "time": 1.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 10.753750850162202
+      },
+      {
+        "clip": "Kick",
+        "time": 0.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044032400893446
+      },
+      {
+        "clip": "Kick",
+        "time": 0.25,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.027513448583141
+      },
+      {
+        "clip": "Kick",
+        "time": 0.4166666666666667,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.021851629842079
+      },
+      {
+        "clip": "Kick",
+        "time": 0.5,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.026177329863383
+      },
+      {
+        "clip": "Kick",
+        "time": 0.75,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.03819159394024
+      },
+      {
+        "clip": "Kick",
+        "time": 1.0,
+        "longStretchedEdges": 0,
+        "badMeshes": [],
+        "worstRatio": 11.044032400893446
+      }
+    ],
+    "worstLongEdgeCount": 0
+  }
+]

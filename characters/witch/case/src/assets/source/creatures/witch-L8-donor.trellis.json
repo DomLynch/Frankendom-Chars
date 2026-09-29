@@ -1,0 +1,15 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 28092808,
+  "resolution": "1024",
+  "faces": 100000,
+  "texture": 2048,
+  "image": "source/L8-transparent.png",
+  "preprocess_s": 10.4,
+  "image_to_3d_s": 32.0,
+  "extract_glb_s": 29.3,
+  "glb": "src/assets/source/creatures/witch-L8-donor.glb",
+  "bytes": 5485160,
+  "sha256": "0cf401619be6355b2b1df95927dba4f323b3253f586663dd11bdc012017ddf00",
+  "attempts": 1
+}

@@ -1,0 +1,1243 @@
+[
+  {
+    "rank": 2,
+    "direction": "Brown leather",
+    "model": "models/nightborn-L2.glb",
+    "sha256": "cb6c5b13af8b2bef6f14af6580359d5966d4babf0e6aa2418e783f3088920903",
+    "bytes": 15921988,
+    "trianglesAllStoredMeshes": 147020,
+    "trianglesActiveMeshInstances": 101636,
+    "storedMeshes": 21,
+    "activeMeshInstances": 11,
+    "activePrimitiveInstances": 11,
+    "storedMaterials": 10,
+    "inactiveOriginalNodes": [
+      "Antique brass",
+      "Gambeson",
+      "Heraldry",
+      "Leather",
+      "Leather.Body",
+      "Ruby",
+      "Skin",
+      "Steel",
+      "Steel.Body",
+      "Wrap"
+    ],
+    "animations": 25,
+    "joints": 65,
+    "donorSha256": "63fb09c55382d3f39324ffe56d608f0345224962510beedd3c5f00313411912c",
+    "textures": [
+      {
+        "index": 0,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "123a7f8dbd76dbabdf758b98d3b2b97cf62f8aeb4f57a4221d15a08c68fae0fe"
+      },
+      {
+        "index": 1,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "8388824451f61b17b1a7772f73159a9bf11015213bd586dc8f99b0951ca610ba"
+      },
+      {
+        "index": 2,
+        "mimeType": "image/jpeg",
+        "width": 256,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "3951ac74a6755ad2f4d14dcdd279e0631e144b660e1a0851b39d19649d2dc39a"
+      },
+      {
+        "index": 3,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "f818aa6f4346c5c61e84efaac78d0b84dce523cd1c44cd1ce14914cec4176fbb"
+      },
+      {
+        "index": 4,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024,
+        "format": "PNG",
+        "pixelSha256": "18d462475c982b850f1c5031cad4b5cb2af132f8ce4ca03a047b55da2a72e4d2"
+      },
+      {
+        "index": 5,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "2fad9ed8fd86629cd109e04c6ad935d19a9f0054fc3c42d58ac782fcedb1d8e1"
+      },
+      {
+        "index": 6,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP",
+        "pixelSha256": "153e6f2c9d25fd4ad9bb79d5543334962baa0b198ae47cbcee27f5b0e55d7a3c"
+      },
+      {
+        "index": 7,
+        "mimeType": "image/png",
+        "width": 2048,
+        "height": 2048,
+        "format": "PNG",
+        "pixelSha256": "1e76f44f8b41ce53dc27ec3668926ab0f783d8ed92bb82e6669de8b9676d0af3"
+      },
+      {
+        "index": 8,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "fe698e7875ee0ebab3ba4b5d95186cf8b6baacb58bde6858f5e67d8cffb1e27d"
+      },
+      {
+        "index": 9,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "eb07db6f654329aee41f03af9b9ecb3e39d6551522b7ff2fce70325acd9a2f7c"
+      },
+      {
+        "index": 10,
+        "mimeType": "image/jpeg",
+        "width": 2048,
+        "height": 2048,
+        "format": "JPEG",
+        "pixelSha256": "169dbcbf4666b385f1c9e2ddd544a62856db2779376b7da79dc42c4380fe89ec"
+      },
+      {
+        "index": 11,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "1dce3cb9b0a7160b8f05ab57701990cf5e9e3c7fb4af3d1e55bef3d508f21320"
+      },
+      {
+        "index": 12,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "34cf63459ac46badf863319f0c4454d85eb5a88618ccc12a1efc5ddf0ab39034"
+      }
+    ],
+    "armourMaterial": {
+      "name": "Material_0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicFactor": 0,
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    },
+    "donorArmourMaterial": {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 1.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    "donorBaseColorPixelsPreserved": true,
+    "metallicRoughnessPixelsPreserved": false,
+    "materialChanges": "Emission disabled; L2/L3 metallic factor forced 0. Authored crown/gloves separate.",
+    "renderCount": 10,
+    "status": "isolated review candidate; production integration pending"
+  },
+  {
+    "rank": 3,
+    "direction": "Bone and hide",
+    "model": "models/nightborn-L3.glb",
+    "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+    "bytes": 15117912,
+    "trianglesAllStoredMeshes": 146745,
+    "trianglesActiveMeshInstances": 101361,
+    "storedMeshes": 23,
+    "activeMeshInstances": 13,
+    "activePrimitiveInstances": 13,
+    "storedMaterials": 10,
+    "inactiveOriginalNodes": [
+      "Antique brass",
+      "Gambeson",
+      "Heraldry",
+      "Leather",
+      "Leather.Body",
+      "Ruby",
+      "Skin",
+      "Steel",
+      "Steel.Body",
+      "Wrap"
+    ],
+    "animations": 25,
+    "joints": 65,
+    "donorSha256": "b3635ed5f7417f973c2e9eae24d221c4a032756423f4768e37625f243ddc40c4",
+    "textures": [
+      {
+        "index": 0,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "123a7f8dbd76dbabdf758b98d3b2b97cf62f8aeb4f57a4221d15a08c68fae0fe"
+      },
+      {
+        "index": 1,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "8388824451f61b17b1a7772f73159a9bf11015213bd586dc8f99b0951ca610ba"
+      },
+      {
+        "index": 2,
+        "mimeType": "image/jpeg",
+        "width": 256,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "3951ac74a6755ad2f4d14dcdd279e0631e144b660e1a0851b39d19649d2dc39a"
+      },
+      {
+        "index": 3,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "f818aa6f4346c5c61e84efaac78d0b84dce523cd1c44cd1ce14914cec4176fbb"
+      },
+      {
+        "index": 4,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024,
+        "format": "PNG",
+        "pixelSha256": "18d462475c982b850f1c5031cad4b5cb2af132f8ce4ca03a047b55da2a72e4d2"
+      },
+      {
+        "index": 5,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "2fad9ed8fd86629cd109e04c6ad935d19a9f0054fc3c42d58ac782fcedb1d8e1"
+      },
+      {
+        "index": 6,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP",
+        "pixelSha256": "4148569bfba1243434cf4caac2f133b4e9e3ecd33153a9d112cbfbf78cb11eb1"
+      },
+      {
+        "index": 7,
+        "mimeType": "image/png",
+        "width": 2048,
+        "height": 2048,
+        "format": "PNG",
+        "pixelSha256": "9ec12f39e1fb03434aee906b99da867d3596690c1af1f1f7ea797d5ff0f7fba0"
+      },
+      {
+        "index": 8,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "fe698e7875ee0ebab3ba4b5d95186cf8b6baacb58bde6858f5e67d8cffb1e27d"
+      },
+      {
+        "index": 9,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "eb07db6f654329aee41f03af9b9ecb3e39d6551522b7ff2fce70325acd9a2f7c"
+      },
+      {
+        "index": 10,
+        "mimeType": "image/jpeg",
+        "width": 2048,
+        "height": 2048,
+        "format": "JPEG",
+        "pixelSha256": "169dbcbf4666b385f1c9e2ddd544a62856db2779376b7da79dc42c4380fe89ec"
+      },
+      {
+        "index": 11,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "1dce3cb9b0a7160b8f05ab57701990cf5e9e3c7fb4af3d1e55bef3d508f21320"
+      },
+      {
+        "index": 12,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "34cf63459ac46badf863319f0c4454d85eb5a88618ccc12a1efc5ddf0ab39034"
+      }
+    ],
+    "armourMaterial": {
+      "name": "Material_0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicFactor": 0,
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    },
+    "donorArmourMaterial": {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 1.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    "donorBaseColorPixelsPreserved": true,
+    "metallicRoughnessPixelsPreserved": false,
+    "materialChanges": "Emission disabled; L2/L3 metallic factor forced 0. Authored crown/gloves separate.",
+    "renderCount": 10,
+    "status": "isolated review candidate; production integration pending"
+  },
+  {
+    "rank": 4,
+    "direction": "Copper",
+    "model": "models/nightborn-L4.glb",
+    "sha256": "4c4aaa94f6db632a681af481b2ec8236239d9d38d2d603f1d38cce8469fb48a6",
+    "bytes": 13857800,
+    "trianglesAllStoredMeshes": 153437,
+    "trianglesActiveMeshInstances": 108053,
+    "storedMeshes": 24,
+    "activeMeshInstances": 14,
+    "activePrimitiveInstances": 14,
+    "storedMaterials": 10,
+    "inactiveOriginalNodes": [
+      "Antique brass",
+      "Gambeson",
+      "Heraldry",
+      "Leather",
+      "Leather.Body",
+      "Ruby",
+      "Skin",
+      "Steel",
+      "Steel.Body",
+      "Wrap"
+    ],
+    "animations": 25,
+    "joints": 65,
+    "donorSha256": "de77a77d7f2d57b58cbcb1c478830c0ff7eea70c4c549cab8bce921e3e412f87",
+    "textures": [
+      {
+        "index": 0,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "123a7f8dbd76dbabdf758b98d3b2b97cf62f8aeb4f57a4221d15a08c68fae0fe"
+      },
+      {
+        "index": 1,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "8388824451f61b17b1a7772f73159a9bf11015213bd586dc8f99b0951ca610ba"
+      },
+      {
+        "index": 2,
+        "mimeType": "image/jpeg",
+        "width": 256,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "3951ac74a6755ad2f4d14dcdd279e0631e144b660e1a0851b39d19649d2dc39a"
+      },
+      {
+        "index": 3,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "f818aa6f4346c5c61e84efaac78d0b84dce523cd1c44cd1ce14914cec4176fbb"
+      },
+      {
+        "index": 4,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024,
+        "format": "PNG",
+        "pixelSha256": "18d462475c982b850f1c5031cad4b5cb2af132f8ce4ca03a047b55da2a72e4d2"
+      },
+      {
+        "index": 5,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "2fad9ed8fd86629cd109e04c6ad935d19a9f0054fc3c42d58ac782fcedb1d8e1"
+      },
+      {
+        "index": 6,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP",
+        "pixelSha256": "75f2d8e1556af93fe070ea713221cb89f20d3b750cf6d157d503e40c3848a968"
+      },
+      {
+        "index": 7,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP",
+        "pixelSha256": "3aaed84d7ad67f5c5ccd52bac495eed3c86154ad97d5e6270b29b940a962f9d7"
+      },
+      {
+        "index": 8,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "fe698e7875ee0ebab3ba4b5d95186cf8b6baacb58bde6858f5e67d8cffb1e27d"
+      },
+      {
+        "index": 9,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "eb07db6f654329aee41f03af9b9ecb3e39d6551522b7ff2fce70325acd9a2f7c"
+      },
+      {
+        "index": 10,
+        "mimeType": "image/jpeg",
+        "width": 2048,
+        "height": 2048,
+        "format": "JPEG",
+        "pixelSha256": "169dbcbf4666b385f1c9e2ddd544a62856db2779376b7da79dc42c4380fe89ec"
+      },
+      {
+        "index": 11,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "1dce3cb9b0a7160b8f05ab57701990cf5e9e3c7fb4af3d1e55bef3d508f21320"
+      },
+      {
+        "index": 12,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "34cf63459ac46badf863319f0c4454d85eb5a88618ccc12a1efc5ddf0ab39034"
+      }
+    ],
+    "armourMaterial": {
+      "name": "Material_0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    },
+    "donorArmourMaterial": {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 1.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    "donorBaseColorPixelsPreserved": true,
+    "metallicRoughnessPixelsPreserved": true,
+    "materialChanges": "Emission disabled; L2/L3 metallic factor forced 0. Authored crown/gloves separate.",
+    "renderCount": 10,
+    "status": "isolated review candidate; production integration pending"
+  },
+  {
+    "rank": 5,
+    "direction": "Bronze",
+    "model": "models/nightborn-L5.glb",
+    "sha256": "3140ef59a6dd05fd55f6ba7f9e0f0177805d987df6ee781c213659b6fb9a5818",
+    "bytes": 14039192,
+    "trianglesAllStoredMeshes": 150494,
+    "trianglesActiveMeshInstances": 105110,
+    "storedMeshes": 26,
+    "activeMeshInstances": 16,
+    "activePrimitiveInstances": 16,
+    "storedMaterials": 10,
+    "inactiveOriginalNodes": [
+      "Antique brass",
+      "Gambeson",
+      "Heraldry",
+      "Leather",
+      "Leather.Body",
+      "Ruby",
+      "Skin",
+      "Steel",
+      "Steel.Body",
+      "Wrap"
+    ],
+    "animations": 25,
+    "joints": 65,
+    "donorSha256": "9961f0cff8fb13ef6cfd02dfd8a387b90d0fabee5d4fd52dc8c2ac1b96195490",
+    "textures": [
+      {
+        "index": 0,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "123a7f8dbd76dbabdf758b98d3b2b97cf62f8aeb4f57a4221d15a08c68fae0fe"
+      },
+      {
+        "index": 1,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "8388824451f61b17b1a7772f73159a9bf11015213bd586dc8f99b0951ca610ba"
+      },
+      {
+        "index": 2,
+        "mimeType": "image/jpeg",
+        "width": 256,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "3951ac74a6755ad2f4d14dcdd279e0631e144b660e1a0851b39d19649d2dc39a"
+      },
+      {
+        "index": 3,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "f818aa6f4346c5c61e84efaac78d0b84dce523cd1c44cd1ce14914cec4176fbb"
+      },
+      {
+        "index": 4,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024,
+        "format": "PNG",
+        "pixelSha256": "18d462475c982b850f1c5031cad4b5cb2af132f8ce4ca03a047b55da2a72e4d2"
+      },
+      {
+        "index": 5,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "2fad9ed8fd86629cd109e04c6ad935d19a9f0054fc3c42d58ac782fcedb1d8e1"
+      },
+      {
+        "index": 6,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP",
+        "pixelSha256": "d6c94d728da76e0a5aeac7dba4b3cfac550be8e937da467e698ec83c54682828"
+      },
+      {
+        "index": 7,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP",
+        "pixelSha256": "618dce9a6f633f84cdd5e770dd4a92b78825ff74e2336b42132d85860407baa0"
+      },
+      {
+        "index": 8,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "fe698e7875ee0ebab3ba4b5d95186cf8b6baacb58bde6858f5e67d8cffb1e27d"
+      },
+      {
+        "index": 9,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "eb07db6f654329aee41f03af9b9ecb3e39d6551522b7ff2fce70325acd9a2f7c"
+      },
+      {
+        "index": 10,
+        "mimeType": "image/jpeg",
+        "width": 2048,
+        "height": 2048,
+        "format": "JPEG",
+        "pixelSha256": "169dbcbf4666b385f1c9e2ddd544a62856db2779376b7da79dc42c4380fe89ec"
+      },
+      {
+        "index": 11,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "1dce3cb9b0a7160b8f05ab57701990cf5e9e3c7fb4af3d1e55bef3d508f21320"
+      },
+      {
+        "index": 12,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "34cf63459ac46badf863319f0c4454d85eb5a88618ccc12a1efc5ddf0ab39034"
+      }
+    ],
+    "armourMaterial": {
+      "name": "Material_0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    },
+    "donorArmourMaterial": {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 1.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    "donorBaseColorPixelsPreserved": true,
+    "metallicRoughnessPixelsPreserved": true,
+    "materialChanges": "Emission disabled; L2/L3 metallic factor forced 0. Authored crown/gloves separate.",
+    "renderCount": 10,
+    "status": "isolated review candidate; production integration pending"
+  },
+  {
+    "rank": 6,
+    "direction": "Iron",
+    "model": "models/nightborn-L6.glb",
+    "sha256": "7a900f48d3727a383664fd936266f05e0b18822932e5073145477985e3b72a53",
+    "bytes": 12505064,
+    "trianglesAllStoredMeshes": 138666,
+    "trianglesActiveMeshInstances": 93282,
+    "storedMeshes": 24,
+    "activeMeshInstances": 14,
+    "activePrimitiveInstances": 14,
+    "storedMaterials": 10,
+    "inactiveOriginalNodes": [
+      "Antique brass",
+      "Gambeson",
+      "Heraldry",
+      "Leather",
+      "Leather.Body",
+      "Ruby",
+      "Skin",
+      "Steel",
+      "Steel.Body",
+      "Wrap"
+    ],
+    "animations": 25,
+    "joints": 65,
+    "donorSha256": "a118deb29ef9dd20b111549efe55146a352b3d9b7e7f8ead4ed817da7520bc76",
+    "textures": [
+      {
+        "index": 0,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "123a7f8dbd76dbabdf758b98d3b2b97cf62f8aeb4f57a4221d15a08c68fae0fe"
+      },
+      {
+        "index": 1,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "8388824451f61b17b1a7772f73159a9bf11015213bd586dc8f99b0951ca610ba"
+      },
+      {
+        "index": 2,
+        "mimeType": "image/jpeg",
+        "width": 256,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "3951ac74a6755ad2f4d14dcdd279e0631e144b660e1a0851b39d19649d2dc39a"
+      },
+      {
+        "index": 3,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "f818aa6f4346c5c61e84efaac78d0b84dce523cd1c44cd1ce14914cec4176fbb"
+      },
+      {
+        "index": 4,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024,
+        "format": "PNG",
+        "pixelSha256": "18d462475c982b850f1c5031cad4b5cb2af132f8ce4ca03a047b55da2a72e4d2"
+      },
+      {
+        "index": 5,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "2fad9ed8fd86629cd109e04c6ad935d19a9f0054fc3c42d58ac782fcedb1d8e1"
+      },
+      {
+        "index": 6,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP",
+        "pixelSha256": "45c1aabab6fe9965a3171fd6f5e4ae13b88bd2c8e63769e10fb0dd715a01755f"
+      },
+      {
+        "index": 7,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP",
+        "pixelSha256": "4174381af56d9d738c94f96aee0c3be68bbce913e6e386463d19895c6577a4ae"
+      },
+      {
+        "index": 8,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "fe698e7875ee0ebab3ba4b5d95186cf8b6baacb58bde6858f5e67d8cffb1e27d"
+      },
+      {
+        "index": 9,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "eb07db6f654329aee41f03af9b9ecb3e39d6551522b7ff2fce70325acd9a2f7c"
+      },
+      {
+        "index": 10,
+        "mimeType": "image/jpeg",
+        "width": 2048,
+        "height": 2048,
+        "format": "JPEG",
+        "pixelSha256": "169dbcbf4666b385f1c9e2ddd544a62856db2779376b7da79dc42c4380fe89ec"
+      },
+      {
+        "index": 11,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "1dce3cb9b0a7160b8f05ab57701990cf5e9e3c7fb4af3d1e55bef3d508f21320"
+      },
+      {
+        "index": 12,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "34cf63459ac46badf863319f0c4454d85eb5a88618ccc12a1efc5ddf0ab39034"
+      }
+    ],
+    "armourMaterial": {
+      "name": "Material_0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    },
+    "donorArmourMaterial": {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 1.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    "donorBaseColorPixelsPreserved": true,
+    "metallicRoughnessPixelsPreserved": true,
+    "materialChanges": "Emission disabled; L2/L3 metallic factor forced 0. Authored crown/gloves separate.",
+    "renderCount": 10,
+    "status": "isolated review candidate; production integration pending"
+  },
+  {
+    "rank": 7,
+    "direction": "Steel",
+    "model": "models/nightborn-L7.glb",
+    "sha256": "d29c6ad96777bb902d463b3442049b9841833fd4cd68c3402b0b53377a335d2e",
+    "bytes": 13766476,
+    "trianglesAllStoredMeshes": 146685,
+    "trianglesActiveMeshInstances": 101301,
+    "storedMeshes": 25,
+    "activeMeshInstances": 15,
+    "activePrimitiveInstances": 15,
+    "storedMaterials": 10,
+    "inactiveOriginalNodes": [
+      "Antique brass",
+      "Gambeson",
+      "Heraldry",
+      "Leather",
+      "Leather.Body",
+      "Ruby",
+      "Skin",
+      "Steel",
+      "Steel.Body",
+      "Wrap"
+    ],
+    "animations": 25,
+    "joints": 65,
+    "donorSha256": "06e28f627402a644394a8b569d3fd288339d5627d942d7c754191e5225f575bf",
+    "textures": [
+      {
+        "index": 0,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "123a7f8dbd76dbabdf758b98d3b2b97cf62f8aeb4f57a4221d15a08c68fae0fe"
+      },
+      {
+        "index": 1,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "8388824451f61b17b1a7772f73159a9bf11015213bd586dc8f99b0951ca610ba"
+      },
+      {
+        "index": 2,
+        "mimeType": "image/jpeg",
+        "width": 256,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "3951ac74a6755ad2f4d14dcdd279e0631e144b660e1a0851b39d19649d2dc39a"
+      },
+      {
+        "index": 3,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "f818aa6f4346c5c61e84efaac78d0b84dce523cd1c44cd1ce14914cec4176fbb"
+      },
+      {
+        "index": 4,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024,
+        "format": "PNG",
+        "pixelSha256": "18d462475c982b850f1c5031cad4b5cb2af132f8ce4ca03a047b55da2a72e4d2"
+      },
+      {
+        "index": 5,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "2fad9ed8fd86629cd109e04c6ad935d19a9f0054fc3c42d58ac782fcedb1d8e1"
+      },
+      {
+        "index": 6,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP",
+        "pixelSha256": "cd98fadfa98e729a1824e02931e256144b389675be0b4316237303036e574829"
+      },
+      {
+        "index": 7,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP",
+        "pixelSha256": "49249dbb096373beaaf630e10041fb9d6f07b3181f11fffebb86d60e241bd6d0"
+      },
+      {
+        "index": 8,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "fe698e7875ee0ebab3ba4b5d95186cf8b6baacb58bde6858f5e67d8cffb1e27d"
+      },
+      {
+        "index": 9,
+        "mimeType": "image/jpeg",
+        "width": 1024,
+        "height": 1024,
+        "format": "JPEG",
+        "pixelSha256": "eb07db6f654329aee41f03af9b9ecb3e39d6551522b7ff2fce70325acd9a2f7c"
+      },
+      {
+        "index": 10,
+        "mimeType": "image/jpeg",
+        "width": 2048,
+        "height": 2048,
+        "format": "JPEG",
+        "pixelSha256": "169dbcbf4666b385f1c9e2ddd544a62856db2779376b7da79dc42c4380fe89ec"
+      },
+      {
+        "index": 11,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "1dce3cb9b0a7160b8f05ab57701990cf5e9e3c7fb4af3d1e55bef3d508f21320"
+      },
+      {
+        "index": 12,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG",
+        "pixelSha256": "34cf63459ac46badf863319f0c4454d85eb5a88618ccc12a1efc5ddf0ab39034"
+      }
+    ],
+    "armourMaterial": {
+      "name": "Material_0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    },
+    "donorArmourMaterial": {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 1.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    "donorBaseColorPixelsPreserved": true,
+    "metallicRoughnessPixelsPreserved": true,
+    "materialChanges": "Emission disabled; L2/L3 metallic factor forced 0. Authored crown/gloves separate.",
+    "renderCount": 10,
+    "status": "isolated review candidate; production integration pending"
+  },
+  {
+    "rank": 8,
+    "direction": "Blackened steel/ruby \u00b7 closed horned helmet",
+    "model": "models/nightborn-L8.glb",
+    "sha256": "66edaf77cf0478efb76929d2500503b73723d45fef59a80c8fefd43ada231b14",
+    "bytes": 16635388,
+    "trianglesAllStoredMeshes": 188552,
+    "trianglesActiveMeshInstances": 188552,
+    "joints": 65,
+    "animations": 25,
+    "renderCount": 10,
+    "status": "isolated review candidate; integration pending",
+    "textures": [
+      {
+        "index": 0,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG"
+      },
+      {
+        "index": 1,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG"
+      },
+      {
+        "index": 2,
+        "mimeType": "image/jpeg",
+        "width": 256,
+        "height": 1024,
+        "format": "JPEG"
+      },
+      {
+        "index": 3,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      },
+      {
+        "index": 4,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      },
+      {
+        "index": 5,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      },
+      {
+        "index": 6,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      }
+    ],
+    "activeMaterials": [
+      "L8 articulated armour metal",
+      "L8 worn plate edges",
+      "Material_0",
+      "Material_0.001",
+      "WeaponEstoc",
+      "WeaponEstocShaft"
+    ],
+    "helmetDonorSha256": "da9b33120b8cf1a0de787bd92dad78af0512208a5eaf157b09e6210b37a07395"
+  },
+  {
+    "rank": 9,
+    "direction": "Emerald \u00b7 closed finned visor",
+    "model": "models/nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "bytes": 16016912,
+    "trianglesAllStoredMeshes": 179243,
+    "trianglesActiveMeshInstances": 179243,
+    "joints": 65,
+    "animations": 25,
+    "renderCount": 10,
+    "status": "isolated review candidate; integration pending",
+    "textures": [
+      {
+        "index": 0,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG"
+      },
+      {
+        "index": 1,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG"
+      },
+      {
+        "index": 2,
+        "mimeType": "image/jpeg",
+        "width": 256,
+        "height": 1024,
+        "format": "JPEG"
+      },
+      {
+        "index": 3,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      },
+      {
+        "index": 4,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      },
+      {
+        "index": 5,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      },
+      {
+        "index": 6,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      }
+    ],
+    "activeMaterials": [
+      "L9 articulated armour metal",
+      "L9 worn plate edges",
+      "Material_0",
+      "Material_0.001",
+      "WeaponEstoc",
+      "WeaponEstocShaft"
+    ],
+    "helmetDonorSha256": "4fee86e00d36d2f9c7e4051c25d08830675327f2c324ed134e598661d3d40405"
+  },
+  {
+    "rank": 10,
+    "direction": "Full gold \u00b7 enclosed spiked crown",
+    "model": "models/nightborn-L10.glb",
+    "sha256": "4ce0d1b3fca7f44dc6f4d7706b2f448805263279c44941df1d62272b0020f110",
+    "bytes": 16183916,
+    "trianglesAllStoredMeshes": 181966,
+    "trianglesActiveMeshInstances": 181966,
+    "joints": 65,
+    "animations": 25,
+    "renderCount": 10,
+    "status": "isolated review candidate; integration pending",
+    "textures": [
+      {
+        "index": 0,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG"
+      },
+      {
+        "index": 1,
+        "mimeType": "image/jpeg",
+        "width": 512,
+        "height": 512,
+        "format": "JPEG"
+      },
+      {
+        "index": 2,
+        "mimeType": "image/jpeg",
+        "width": 256,
+        "height": 1024,
+        "format": "JPEG"
+      },
+      {
+        "index": 3,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      },
+      {
+        "index": 4,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      },
+      {
+        "index": 5,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      },
+      {
+        "index": 6,
+        "mimeType": "image/webp",
+        "width": 2048,
+        "height": 2048,
+        "format": "WEBP"
+      }
+    ],
+    "activeMaterials": [
+      "L10 articulated armour metal",
+      "L10 worn plate edges",
+      "Material_0",
+      "Material_0.001",
+      "WeaponEstoc",
+      "WeaponEstocShaft"
+    ],
+    "helmetDonorSha256": "83682c6e1da3933627798b8c7c5d91ff8e1aff9d78d79b959967fc5196806795"
+  }
+]

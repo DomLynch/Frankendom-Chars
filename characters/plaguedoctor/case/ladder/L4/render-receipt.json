@@ -1,0 +1,110 @@
+[
+  {
+    "model": "final/plaguedoctor-L4.glb",
+    "sha256": "438fe87506f7ec977638e659a87e8427ca297355c398c7a4f79f43d4d9fae46b",
+    "image": "L4-front.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "final/plaguedoctor-L4.glb",
+    "sha256": "438fe87506f7ec977638e659a87e8427ca297355c398c7a4f79f43d4d9fae46b",
+    "image": "L4-back.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "final/plaguedoctor-L4.glb",
+    "sha256": "438fe87506f7ec977638e659a87e8427ca297355c398c7a4f79f43d4d9fae46b",
+    "image": "L4-attack.png",
+    "clip": "Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "final/plaguedoctor-L4.glb",
+    "sha256": "438fe87506f7ec977638e659a87e8427ca297355c398c7a4f79f43d4d9fae46b",
+    "image": "L4-guard.png",
+    "clip": "Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "final/plaguedoctor-L4.glb",
+    "sha256": "438fe87506f7ec977638e659a87e8427ca297355c398c7a4f79f43d4d9fae46b",
+    "image": "L4-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "final/plaguedoctor-L4.glb",
+    "sha256": "438fe87506f7ec977638e659a87e8427ca297355c398c7a4f79f43d4d9fae46b",
+    "image": "L4-fight.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 11.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  }
+]

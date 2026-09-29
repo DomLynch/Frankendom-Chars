@@ -1,0 +1,16 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280908,
+  "resolution": "1536",
+  "faces": 200000,
+  "texture": 2048,
+  "image": "source/L8-reference.png",
+  "sampling_steps_each_stage": 36,
+  "preprocess_s": 11.4,
+  "image_to_3d_s": 107.8,
+  "extract_glb_s": 34.0,
+  "glb": "src/assets/source/creatures/knight-L8-detail-donor.glb",
+  "bytes": 8608020,
+  "sha256": "f5a524b6993797669afc9046878714d7f375ebd38becf42c241cf1d60cbbf4fa",
+  "attempts": 1
+}

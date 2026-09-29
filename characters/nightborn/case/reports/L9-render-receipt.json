@@ -1,0 +1,358 @@
+[
+  {
+    "rank": 9,
+    "model": "nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "image": "L9-front.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 5.456800917688689,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 9,
+    "model": "nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "image": "L9-back.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      0.0,
+      6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      8.741681511992283e-08,
+      3.1415927410125732
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 5.456800917688689,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 9,
+    "model": "nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "image": "L9-side.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      6.0,
+      0.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.5591301918029785,
+      5.995130436531326e-08,
+      1.5707964897155762
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 5.456800917688689,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 9,
+    "model": "nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "image": "L9-attack.png",
+    "clip": "Heavy",
+    "frame": 11,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 6.251608600141691,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 9,
+    "model": "nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "image": "L9-guard.png",
+    "clip": "Guard",
+    "frame": 10,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 8.878601307974714,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 9,
+    "model": "nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "image": "L9-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 5.837375453279446,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 9,
+    "model": "nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "image": "L9-phone.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 2.5,
+    "viewport": [
+      375,
+      600
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 5.456800917688689,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 9,
+    "model": "nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "image": "L9-fight.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 9.748088836669922,
+    "viewport": [
+      375,
+      600
+    ],
+    "projectedArmourHeightPx": 110.00002026557922,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 5.456800917688689,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 9,
+    "model": "nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "image": "L9-rest.png",
+    "clip": null,
+    "frame": 0,
+    "fps": 24,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "target": [
+      0.0,
+      0.0,
+      1.0299999713897705
+    ],
+    "cameraRotationEuler": [
+      1.559130311012268,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 3.25,
+    "viewport": [
+      600,
+      900
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": null,
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  },
+  {
+    "rank": 9,
+    "model": "nightborn-L9.glb",
+    "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+    "image": "L9-head.png",
+    "clip": "Armed",
+    "frame": 8,
+    "fps": 24,
+    "camera": [
+      -0.06947362422943115,
+      -6.0,
+      1.5434213876724243
+    ],
+    "target": [
+      -0.06947362422943115,
+      -0.08186540007591248,
+      1.5434213876724243
+    ],
+    "cameraRotationEuler": [
+      1.5707963705062866,
+      -0.0,
+      0.0
+    ],
+    "orthoScale": 0.6499999761581421,
+    "viewport": [
+      600,
+      600
+    ],
+    "projectedArmourHeightPx": null,
+    "deformation": {
+      "longStretchedEdges": 0,
+      "maxRatio": 5.456800917688689,
+      "threshold": "posed length > 0.10m AND > 3x rest"
+    },
+    "scope": "CPU studio approximation, not arena or physical phone performance"
+  }
+]

@@ -1,0 +1,981 @@
+{
+  "release": "v0.1.0-candidates",
+  "scope": "Character art and cloud build workflow only; no game implementation",
+  "characters": [
+    {
+      "id": "witch",
+      "name": "Witch",
+      "archive": "witch-ranks-review.zip",
+      "archiveRoot": "",
+      "models": [
+        {
+          "rank": 2,
+          "archive": "witch-ranks-review.zip",
+          "member": "models/witch-L2.glb",
+          "bytes": 32392480,
+          "sha256": "25ff099f94703a170cc406b2724cc2db8ab616ff23dadf72e51d69ccdd990ccb",
+          "joints": 65,
+          "animations": 38,
+          "previewEvidence": [
+            {
+              "path": "characters/witch/previews/L2-front.png",
+              "sha256": "7882413f04d3b797cc6f5c6877800b4d54046964d28609df78ad054ed91d2b9f",
+              "archiveMember": "review/L2/L2-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "archive": "witch-ranks-review.zip",
+          "member": "models/witch-L3.glb",
+          "bytes": 29549996,
+          "sha256": "f35402f1afc9b15f152fa5ccc64b35a66d3065a6729e58dba1ed7edc22bc25d1",
+          "joints": 65,
+          "animations": 38,
+          "previewEvidence": [
+            {
+              "path": "characters/witch/previews/L3-front.png",
+              "sha256": "3cf068f8982bc2557b71236933e9780db667dc34ba4725ade2c6c3a35ef54533",
+              "archiveMember": "review/L3/L3-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "archive": "witch-ranks-review.zip",
+          "member": "models/witch-L4.glb",
+          "bytes": 30155508,
+          "sha256": "9911a9e645c493c12de518e5649819b828e09883f1d9c229999fde769c833661",
+          "joints": 65,
+          "animations": 38,
+          "previewEvidence": [
+            {
+              "path": "characters/witch/previews/L4-front.png",
+              "sha256": "421ea904f242dbf937c78a2bbff5857e36089ed4c7d7e828f060b2c24328b237",
+              "archiveMember": "review/L4/L4-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "archive": "witch-ranks-review.zip",
+          "member": "models/witch-L5.glb",
+          "bytes": 28744712,
+          "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+          "joints": 65,
+          "animations": 38,
+          "previewEvidence": [
+            {
+              "path": "characters/witch/previews/L5-front.png",
+              "sha256": "8cac7feee6546ec7538c7ed545225cf899e6c6bf08c9afd752c44f307daddfed",
+              "archiveMember": "review/L5/L5-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "archive": "witch-ranks-review.zip",
+          "member": "models/witch-L6.glb",
+          "bytes": 28307156,
+          "sha256": "f097e3720a3bd3b671409f839fd4e7b50bf5118012f6c55e68f8a92e2f6b3fa1",
+          "joints": 65,
+          "animations": 38,
+          "previewEvidence": [
+            {
+              "path": "characters/witch/previews/L6-front.png",
+              "sha256": "14d1c9ecc969552945e1ba1fa95e0b5d95cd92982a9daceacbdf777fdd043b62",
+              "archiveMember": "review/L6/L6-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "archive": "witch-ranks-review.zip",
+          "member": "models/witch-L7.glb",
+          "bytes": 28749640,
+          "sha256": "71d6f3aefcc4b62d06caac76728f5540648611a467811424fd887c639eaeca2d",
+          "joints": 65,
+          "animations": 38,
+          "previewEvidence": [
+            {
+              "path": "characters/witch/previews/L7-front.png",
+              "sha256": "4bef976b6c71039b2b86d0db00aa28b049800a208639a2dfa24fc5c83cef7235",
+              "archiveMember": "review/L7/L7-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "archive": "witch-ranks-review.zip",
+          "member": "models/witch-L8.glb",
+          "bytes": 22729920,
+          "sha256": "418457b2eb9af0e97a6504aab0ec7d23552d4046fd9b2db806ed452e2af6d68a",
+          "joints": 65,
+          "animations": 38,
+          "previewEvidence": [
+            {
+              "path": "characters/witch/previews/L8-front.png",
+              "sha256": "cdffa5a693be125f3f0223f72d501a17a099d0b968016a4508d552fae4baa937",
+              "archiveMember": "review/L8/L8-front.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/witch/previews/L8-back.png",
+              "sha256": "209f0b5a2c17c54141c13edc0fead9d09ab4fb4b468a0a561bd58c590553ffc7",
+              "archiveMember": "review/L8/L8-back.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/witch/previews/L8-head.png",
+              "sha256": "f0ff64c3ffa2e3059cca3493b1e04b7128930211f0316734f46e40fa728bb0c9",
+              "archiveMember": "review/L8/L8-head.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "archive": "witch-ranks-review.zip",
+          "member": "models/witch-L9.glb",
+          "bytes": 21995284,
+          "sha256": "f8d3aa175c330146222a1ff61dd7fb3a1f777dc3084fbd623e410d62a487fc9a",
+          "joints": 65,
+          "animations": 38,
+          "previewEvidence": [
+            {
+              "path": "characters/witch/previews/L9-front.png",
+              "sha256": "15fad3d0cec8d79a9569314ae32d5821675ad538482e36e04a680d5b92ec4b59",
+              "archiveMember": "review/L9/L9-front.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/witch/previews/L9-back.png",
+              "sha256": "b57c2d130957ba09df4d2a0e0cb3c36d3285ce0e58ebce367c520f11b141e7d5",
+              "archiveMember": "review/L9/L9-back.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/witch/previews/L9-head.png",
+              "sha256": "c550dd6d4b3ef31cd3dc3162990f85a64e2fa457c8fa848b3f510455acbf9d25",
+              "archiveMember": "review/L9/L9-head.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "archive": "witch-ranks-review.zip",
+          "member": "models/witch-L10.glb",
+          "bytes": 22583328,
+          "sha256": "5e3325decf6c99af88a5a9e9277637b71d8921bf115842049b928c96dbdaaed7",
+          "joints": 65,
+          "animations": 38,
+          "previewEvidence": [
+            {
+              "path": "characters/witch/previews/L10-front.png",
+              "sha256": "c15984373b8b20849a422ca0aa4440ae71f55b4018ad8d67f42d32971c41f889",
+              "archiveMember": "review/L10/L10-front.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/witch/previews/L10-back.png",
+              "sha256": "055a4b4973fc527b58364eb318d6d8353f8b432fc59852a3c9a669aff2b8a127",
+              "archiveMember": "review/L10/L10-back.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/witch/previews/L10-head.png",
+              "sha256": "bcd0f33e9c9a4466e61922a6babfe677e7f0b5ff639e888cf36af3ff67eb3ef1",
+              "archiveMember": "review/L10/L10-head.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knight",
+      "name": "Knight",
+      "archive": "knight-L2-L10-candidates.zip",
+      "archiveRoot": "knight-L2-L10",
+      "models": [
+        {
+          "rank": 2,
+          "archive": "knight-L2-L10-candidates.zip",
+          "member": "knight-L2-L10/models/knight-L2.glb",
+          "bytes": 36584980,
+          "sha256": "53c8ddf92dadd0f518e3552c5376b6974f6e2d1fc1b0dd87eac7a71717512be4",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/knight/previews/L2-front.png",
+              "sha256": "a65d9adc3bca4320e7431ede5fd17e8e1dd16962e54c74436a39c902a5abffa5",
+              "archiveMember": "knight-L2-L10/review/L2/L2-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "archive": "knight-L2-L10-candidates.zip",
+          "member": "knight-L2-L10/models/knight-L3.glb",
+          "bytes": 34046836,
+          "sha256": "14c45faa80fdc924404daa9e103d9a22dad1b28d29f0e8d6ecf5d4dbfca8908c",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/knight/previews/L3-front.png",
+              "sha256": "e1edd4099e84771e546d2aa0b9e40302be69d1fdd2d1a8ebee6c9bebe1672a6c",
+              "archiveMember": "knight-L2-L10/review/L3/L3-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "archive": "knight-L2-L10-candidates.zip",
+          "member": "knight-L2-L10/models/knight-L4.glb",
+          "bytes": 30367796,
+          "sha256": "331ed177f0efeaa8c5fcecc9b497f371c5ba1044b34264b54c0e9c9c5e2e6766",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/knight/previews/L4-front.png",
+              "sha256": "058a3c8a65b9a19bd851666769579bcfc1ed93f274272f06c9b36bc04752e7ae",
+              "archiveMember": "knight-L2-L10/review/L4/L4-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "archive": "knight-L2-L10-candidates.zip",
+          "member": "knight-L2-L10/models/knight-L5.glb",
+          "bytes": 32167336,
+          "sha256": "37751d989e74a2299436a1bd84a0e04823a5a5b01c770aae797657f82f233709",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/knight/previews/L5-front.png",
+              "sha256": "bf18a3a2543784ca7fb64c8bd1cb8cb15d7c74d634a7c5fb81d1f6f36f5dfc59",
+              "archiveMember": "knight-L2-L10/review/L5/L5-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "archive": "knight-L2-L10-candidates.zip",
+          "member": "knight-L2-L10/models/knight-L6.glb",
+          "bytes": 30125360,
+          "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/knight/previews/L6-front.png",
+              "sha256": "babbbf401f531dbbc377f86c8966f926fa0f1e78738c62ae1a27f4eee3138e4b",
+              "archiveMember": "knight-L2-L10/review/L6/L6-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "archive": "knight-L2-L10-candidates.zip",
+          "member": "knight-L2-L10/models/knight-L7.glb",
+          "bytes": 25385540,
+          "sha256": "82db420e9585a1e2d1c361d17f2e7c802de2f97f206d617c5da6da06309402b7",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/knight/previews/L7-front.png",
+              "sha256": "12f5dab0b2be086350985410efbc40e10d52e060e3b6c810e7935f1301baec54",
+              "archiveMember": "knight-L2-L10/review/L7/L7-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "archive": "knight-L2-L10-candidates.zip",
+          "member": "knight-L2-L10/models/knight-L8.glb",
+          "bytes": 27722484,
+          "sha256": "8e729c71ec36abbbe96ee77503bb55e6a0374757c52c9b4291cdea91960af908",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/knight/previews/L8-front.png",
+              "sha256": "3b1b6090115708a61e1fc3d35d422144c2d0e53edbbc712090a4088c5c84f01d",
+              "archiveMember": "knight-L2-L10/review/L8/L8-front.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/knight/previews/L8-back.png",
+              "sha256": "c487d6266f9b4d17aa0343ccd7ed9ea09cf060b6d19fd2821ec78631614f1bba",
+              "archiveMember": "knight-L2-L10/review/L8/L8-back.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "archive": "knight-L2-L10-candidates.zip",
+          "member": "knight-L2-L10/models/knight-L9.glb",
+          "bytes": 32496276,
+          "sha256": "2b8b52706d78182735e8eec883df1b5d0434ecceacad80ec2aafe12e622eed29",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/knight/previews/L9-front.png",
+              "sha256": "b9c7e0eefbf835215f1b35b36388dab1f0dd24bd10bcd6fbfc67b652ab3c0290",
+              "archiveMember": "knight-L2-L10/review/L9/L9-front.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/knight/previews/L9-back.png",
+              "sha256": "4c76c44217e850c95057e7f53adc3eab3795c8be08d6a5721fec1cc6aa886d5d",
+              "archiveMember": "knight-L2-L10/review/L9/L9-back.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "archive": "knight-L2-L10-candidates.zip",
+          "member": "knight-L2-L10/models/knight-L10.glb",
+          "bytes": 32974152,
+          "sha256": "8668acfb7e7c660562b15207df813d1fd62ecc2153321570653d74a6d5b4d940",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/knight/previews/L10-front.png",
+              "sha256": "94749c7d9a6232a9e3607b4d8a7b6a591c72b1211a015afba33b9fdc4fdbf031",
+              "archiveMember": "knight-L2-L10/review/L10/L10-front.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/knight/previews/L10-back.png",
+              "sha256": "8a9b8d37d502cbbcfef7eead806d934eff3699781888f7a9514dade46c6a7685",
+              "archiveMember": "knight-L2-L10/review/L10/L10-back.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dwarf",
+      "name": "Dwarf",
+      "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "archiveRoot": "delivery",
+      "models": [
+        {
+          "rank": 2,
+          "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+          "member": "delivery/models/dwarf-L2.glb",
+          "bytes": 22065492,
+          "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/dwarf/previews/L2-front.png",
+              "sha256": "05d6d7e9b3c7ab0313f3c2531a01341874dd9b7d85c86e8c82813778d76f7913",
+              "archiveMember": "delivery/images/L2-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+          "member": "delivery/models/dwarf-L3.glb",
+          "bytes": 22706296,
+          "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/dwarf/previews/L3-front.png",
+              "sha256": "27a360f24eb00896010652d51005dc2e565e66cf245ba889c9ff6e827a608a86",
+              "archiveMember": "delivery/images/L3-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+          "member": "delivery/models/dwarf-L4.glb",
+          "bytes": 21791012,
+          "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/dwarf/previews/L4-front.png",
+              "sha256": "48292c7b993598e89800ea3b79943349c60fe5043a02d92035416e714ddb8074",
+              "archiveMember": "delivery/images/L4-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+          "member": "delivery/models/dwarf-L5.glb",
+          "bytes": 23125316,
+          "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/dwarf/previews/L5-front.png",
+              "sha256": "fea21beecec458eb5758000f419c71aa85067daf43da2df6d19d429acdeb5350",
+              "archiveMember": "delivery/images/L5-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+          "member": "delivery/models/dwarf-L6.glb",
+          "bytes": 22230864,
+          "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/dwarf/previews/L6-front.png",
+              "sha256": "cbb1814a62a3ba30566c4b07b97d365c1df90e0577a1ff6416cb8c43420349f7",
+              "archiveMember": "delivery/images/L6-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+          "member": "delivery/models/dwarf-L7.glb",
+          "bytes": 21539608,
+          "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/dwarf/previews/L7-front.png",
+              "sha256": "0abba635969078da2ad103a90d21bb71a7e4a1e93e3dad9a86dbf51b2554c517",
+              "archiveMember": "delivery/images/L7-front.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+          "member": "delivery/models/dwarf-L8.glb",
+          "bytes": 79118828,
+          "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/dwarf/previews/L8-front.png",
+              "sha256": "bc325712b53d1ec49f5cf78c96709c72c2c5bbc14b4ddddc73526e206026e544",
+              "archiveMember": "delivery/images/L8-front.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/dwarf/previews/L8-back.png",
+              "sha256": "8080272251bcf3e9fdde50c2f42f8bcda818c5a25b766e447bb28b0f5a0cf96b",
+              "archiveMember": "delivery/images/L8-back.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+          "member": "delivery/models/dwarf-L9.glb",
+          "bytes": 54680844,
+          "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/dwarf/previews/L9-front.png",
+              "sha256": "bb2eb2e0506beab91aa3d8c98a964a34d4aa0647bd5509ed4c3e9f440cd54181",
+              "archiveMember": "delivery/images/L9-front.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/dwarf/previews/L9-back.png",
+              "sha256": "96b1821925372b7c6588694759c31c152e1a23088e4c691d1a34ed12822dbc68",
+              "archiveMember": "delivery/images/L9-back.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "archive": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+          "member": "delivery/models/dwarf-L10.glb",
+          "bytes": 52677712,
+          "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+          "joints": 65,
+          "animations": 37,
+          "previewEvidence": [
+            {
+              "path": "characters/dwarf/previews/L10-front.png",
+              "sha256": "14920c656675f3af97c44b737a2317824b94625c8fa1a4c9c5cd5f0864c2ddc2",
+              "archiveMember": "delivery/images/L10-front.png",
+              "originalReceiptHasImageHash": true
+            },
+            {
+              "path": "characters/dwarf/previews/L10-back.png",
+              "sha256": "ebb31e21a671ae61edcc646e01c18098e96117ef66d155e5bded7ae61e37212e",
+              "archiveMember": "delivery/images/L10-back.png",
+              "originalReceiptHasImageHash": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nightborn",
+      "name": "Nightborn",
+      "archive": "nightborn-L2-L10-covered-review.zip",
+      "archiveRoot": "nightborn-L2-L10",
+      "models": [
+        {
+          "rank": 2,
+          "archive": "nightborn-L2-L10-covered-review.zip",
+          "member": "nightborn-L2-L10/models/nightborn-L2.glb",
+          "bytes": 15921988,
+          "sha256": "cb6c5b13af8b2bef6f14af6580359d5966d4babf0e6aa2418e783f3088920903",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/nightborn/previews/L2-front.png",
+              "sha256": "6a7897dc3187b0344a27e4ace9a2b2cfeb1671b0e9ae56a0243c84fbf5b7696c",
+              "archiveMember": "nightborn-L2-L10/review/renders/L2-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "archive": "nightborn-L2-L10-covered-review.zip",
+          "member": "nightborn-L2-L10/models/nightborn-L3.glb",
+          "bytes": 15117912,
+          "sha256": "156f632d1088abf1406607613a029b1368eaa4ba94bbea751fd6e2141df42708",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/nightborn/previews/L3-front.png",
+              "sha256": "83efab66cfe8cb829ac8516559c09131079c51713a601a82f748e5fe3b772925",
+              "archiveMember": "nightborn-L2-L10/review/renders/L3-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "archive": "nightborn-L2-L10-covered-review.zip",
+          "member": "nightborn-L2-L10/models/nightborn-L4.glb",
+          "bytes": 13857800,
+          "sha256": "4c4aaa94f6db632a681af481b2ec8236239d9d38d2d603f1d38cce8469fb48a6",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/nightborn/previews/L4-front.png",
+              "sha256": "a5639938d3494f99dc90f7b57cf5111847b0aa792d1d85665424b40e803d9614",
+              "archiveMember": "nightborn-L2-L10/review/renders/L4-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "archive": "nightborn-L2-L10-covered-review.zip",
+          "member": "nightborn-L2-L10/models/nightborn-L5.glb",
+          "bytes": 14039192,
+          "sha256": "3140ef59a6dd05fd55f6ba7f9e0f0177805d987df6ee781c213659b6fb9a5818",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/nightborn/previews/L5-front.png",
+              "sha256": "9024d45ed969511c45a952a19b317166c383cba4c14fffd09caf9c87f451df35",
+              "archiveMember": "nightborn-L2-L10/review/renders/L5-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "archive": "nightborn-L2-L10-covered-review.zip",
+          "member": "nightborn-L2-L10/models/nightborn-L6.glb",
+          "bytes": 12505064,
+          "sha256": "7a900f48d3727a383664fd936266f05e0b18822932e5073145477985e3b72a53",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/nightborn/previews/L6-front.png",
+              "sha256": "e3f3b583b2b09987e163d9e0ef1b63121cdb877ef04c1a2c3686d3fc510093dc",
+              "archiveMember": "nightborn-L2-L10/review/renders/L6-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "archive": "nightborn-L2-L10-covered-review.zip",
+          "member": "nightborn-L2-L10/models/nightborn-L7.glb",
+          "bytes": 13766476,
+          "sha256": "d29c6ad96777bb902d463b3442049b9841833fd4cd68c3402b0b53377a335d2e",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/nightborn/previews/L7-front.png",
+              "sha256": "974a6c98bae09f574dcc3e4d7a5d80daeaad28455043a501efd975de3d9a9c0d",
+              "archiveMember": "nightborn-L2-L10/review/renders/L7-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "archive": "nightborn-L2-L10-covered-review.zip",
+          "member": "nightborn-L2-L10/models/nightborn-L8.glb",
+          "bytes": 16635388,
+          "sha256": "66edaf77cf0478efb76929d2500503b73723d45fef59a80c8fefd43ada231b14",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/nightborn/previews/L8-front.png",
+              "sha256": "3012f4427f9bf7c0211f2b6153ccf3df8c79e6c56c720d6ace51401194ad5ca3",
+              "archiveMember": "nightborn-L2-L10/review/renders/L8-front.png",
+              "originalReceiptHasImageHash": false
+            },
+            {
+              "path": "characters/nightborn/previews/L8-back.png",
+              "sha256": "d69a73038e4b8382428da418c0f0f3fe43c582a9266d740f276148772ed24800",
+              "archiveMember": "nightborn-L2-L10/review/renders/L8-back.png",
+              "originalReceiptHasImageHash": false
+            },
+            {
+              "path": "characters/nightborn/previews/L8-head.png",
+              "sha256": "4397ae15b48e1c700e970172497dcca9d06ab324aa5352b0f0ff9e668bd27249",
+              "archiveMember": "nightborn-L2-L10/review/renders/L8-head.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "archive": "nightborn-L2-L10-covered-review.zip",
+          "member": "nightborn-L2-L10/models/nightborn-L9.glb",
+          "bytes": 16016912,
+          "sha256": "936df6880eeee7eedd03b7513eee496faca1bed1599645efb35518b278ad3ea1",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/nightborn/previews/L9-front.png",
+              "sha256": "a54abad0c52ebd21308be50bc2b69132bdeddfe6b2b1d2c3a9b19ffc910e91bc",
+              "archiveMember": "nightborn-L2-L10/review/renders/L9-front.png",
+              "originalReceiptHasImageHash": false
+            },
+            {
+              "path": "characters/nightborn/previews/L9-back.png",
+              "sha256": "5a916a9d2ab6f2069736715f0383f577b6cf1fff50e7dd41b32ac4ebd3c96025",
+              "archiveMember": "nightborn-L2-L10/review/renders/L9-back.png",
+              "originalReceiptHasImageHash": false
+            },
+            {
+              "path": "characters/nightborn/previews/L9-head.png",
+              "sha256": "a7e69ab752984cc82c4473ce58e2222a1fce24d81c1b4cd371f1c47fc040f6c0",
+              "archiveMember": "nightborn-L2-L10/review/renders/L9-head.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "archive": "nightborn-L2-L10-covered-review.zip",
+          "member": "nightborn-L2-L10/models/nightborn-L10.glb",
+          "bytes": 16183916,
+          "sha256": "4ce0d1b3fca7f44dc6f4d7706b2f448805263279c44941df1d62272b0020f110",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/nightborn/previews/L10-front.png",
+              "sha256": "035505c8ab145aeb0aacb862cc993bb2fec967ea2bb93d94b7950133eda89e33",
+              "archiveMember": "nightborn-L2-L10/review/renders/L10-front.png",
+              "originalReceiptHasImageHash": false
+            },
+            {
+              "path": "characters/nightborn/previews/L10-back.png",
+              "sha256": "25f577cb76a0fb8c3d16502ab90058e8bf3e293cdcd3157fb9374f51da58367b",
+              "archiveMember": "nightborn-L2-L10/review/renders/L10-back.png",
+              "originalReceiptHasImageHash": false
+            },
+            {
+              "path": "characters/nightborn/previews/L10-head.png",
+              "sha256": "657af01d2d09d74714490e99be0c1b4dd215a7dea108b5609c8ad54c9277a718",
+              "archiveMember": "nightborn-L2-L10/review/renders/L10-head.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plaguedoctor",
+      "name": "Plague Doctor",
+      "archive": "plaguedoctor-L2-L10-review.zip",
+      "archiveRoot": "",
+      "models": [
+        {
+          "rank": 2,
+          "archive": "plaguedoctor-L2-L10-review.zip",
+          "member": "models/plaguedoctor-L2.glb",
+          "bytes": 13710484,
+          "sha256": "a45a553e7cafbb1e5c53e517941923fd82b5eb366510946f5318fb4cc415755b",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/plaguedoctor/previews/L2-front.png",
+              "sha256": "365f8b0875d02e9f80e2678ab1232126d7cfbf30115e2988c52cbcfd7290f83f",
+              "archiveMember": "ladder/L2/renders/L2-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "archive": "plaguedoctor-L2-L10-review.zip",
+          "member": "models/plaguedoctor-L3.glb",
+          "bytes": 15117980,
+          "sha256": "16f9803e79ce433d6dc20873b8b530b723a7dbf4420da5eb803d86636b5bdd96",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/plaguedoctor/previews/L3-front.png",
+              "sha256": "316afea293518cd868bd831652da167709bb7bba94e9fd56392ee113e264a46a",
+              "archiveMember": "ladder/L3/renders/L3-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "archive": "plaguedoctor-L2-L10-review.zip",
+          "member": "models/plaguedoctor-L4.glb",
+          "bytes": 12460000,
+          "sha256": "438fe87506f7ec977638e659a87e8427ca297355c398c7a4f79f43d4d9fae46b",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/plaguedoctor/previews/L4-front.png",
+              "sha256": "c35d1d14e4ceee05445de8adafa67489bc534d75fce0e7da4783c3e83875910f",
+              "archiveMember": "ladder/L4/renders/L4-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "archive": "plaguedoctor-L2-L10-review.zip",
+          "member": "models/plaguedoctor-L5.glb",
+          "bytes": 12409196,
+          "sha256": "5eff8e71a0ebe46d7f1726d0866ad5f9b8bcbaf14c6fcc23125a4ddf2bd7f8e4",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/plaguedoctor/previews/L5-front.png",
+              "sha256": "3e0fab339624bbe98f0c9b1b4772ac67789880e9e1cce320517098211a06f9a1",
+              "archiveMember": "ladder/L5/renders/L5-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "archive": "plaguedoctor-L2-L10-review.zip",
+          "member": "models/plaguedoctor-L6.glb",
+          "bytes": 12973836,
+          "sha256": "0c6ea065759b90dba837ad9ec6ddb1801f6d300510ece3d0f46b87b7cca45e96",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/plaguedoctor/previews/L6-front.png",
+              "sha256": "82ce9f984c4a413d29aa770f30dbb3ac0719edfad0980b9b628f8bb9a09385e6",
+              "archiveMember": "ladder/L6/renders/L6-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "archive": "plaguedoctor-L2-L10-review.zip",
+          "member": "models/plaguedoctor-L7.glb",
+          "bytes": 12653428,
+          "sha256": "c925171606ecc31b5f11eaf553d7546ab63b85a6a51cb87876dc909a4e35f2c4",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/plaguedoctor/previews/L7-front.png",
+              "sha256": "85fcd9309d06815a7bec03c7adffd7bfef45a93ec533770cf280703336b7be11",
+              "archiveMember": "ladder/L7/renders/L7-front.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "archive": "plaguedoctor-L2-L10-review.zip",
+          "member": "models/plaguedoctor-L8.glb",
+          "bytes": 13233716,
+          "sha256": "8d5ebd8109a2a1154a403161d32e07fd286967a8eecd346c081a0d8c2816701c",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/plaguedoctor/previews/L8-front.png",
+              "sha256": "4b958012fe13a93369a8b04dd36fca2469554e671fd19e80bf68e9b20fab485a",
+              "archiveMember": "ladder/L8/renders/L8-front.png",
+              "originalReceiptHasImageHash": false
+            },
+            {
+              "path": "characters/plaguedoctor/previews/L8-back.png",
+              "sha256": "3726fb55b7ab050781be1e73649265f685a60e2d0ddd4cee81c71062b468d17e",
+              "archiveMember": "ladder/L8/renders/L8-back.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "archive": "plaguedoctor-L2-L10-review.zip",
+          "member": "models/plaguedoctor-L9.glb",
+          "bytes": 13401696,
+          "sha256": "7ae7001079d4c299aea6d42cff80ccf89b379c193c4e45be765be81f24230229",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/plaguedoctor/previews/L9-front.png",
+              "sha256": "65716e342ed86f512443900dc34e4abfe5c36fbf751ba4c229e9c4be71ff2d35",
+              "archiveMember": "ladder/L9/renders/L9-front.png",
+              "originalReceiptHasImageHash": false
+            },
+            {
+              "path": "characters/plaguedoctor/previews/L9-back.png",
+              "sha256": "64a92abca5c7e3be3bf61a9106704903bcbc7923367476fdffd808edb11466bf",
+              "archiveMember": "ladder/L9/renders/L9-back.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "archive": "plaguedoctor-L2-L10-review.zip",
+          "member": "models/plaguedoctor-L10.glb",
+          "bytes": 14798260,
+          "sha256": "7e3563c4ff9b7bf69b563c49613dd3a7b583e1cdb92b298aae478c80c1863ff2",
+          "joints": 65,
+          "animations": 25,
+          "previewEvidence": [
+            {
+              "path": "characters/plaguedoctor/previews/L10-front.png",
+              "sha256": "3f3f9aef4410e6c69fd4b4a5d118a4581da28013013cadb7f4456784e8399727",
+              "archiveMember": "proof-v3/renders/L10-front.png",
+              "originalReceiptHasImageHash": false
+            },
+            {
+              "path": "characters/plaguedoctor/previews/L10-back.png",
+              "sha256": "3764555ef05bb4ac581fb101e49e97ed23f385381e67d35e3aae5c56c1c10c2b",
+              "archiveMember": "proof-v3/renders/L10-back.png",
+              "originalReceiptHasImageHash": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "archives": [
+    {
+      "name": "witch-ranks-review.zip",
+      "bytes": 169648663,
+      "sha256": "bffd792f690fb1e071fe6de5b35df9f2b1ee719052409eb9122f1df9956bf63c",
+      "url": "https://github.com/DomLynch/Frankendom-Chars/releases/download/v0.1.0-candidates/witch-ranks-review.zip",
+      "crcVerified": true
+    },
+    {
+      "name": "knight-L2-L10-candidates.zip",
+      "bytes": 553813228,
+      "sha256": "e85b826c2ccb9f076cacc56dbc620ac89ea2c8780e4e0b7dcc07859c2008959b",
+      "url": "https://github.com/DomLynch/Frankendom-Chars/releases/download/v0.1.0-candidates/knight-L2-L10-candidates.zip",
+      "crcVerified": true
+    },
+    {
+      "name": "dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "bytes": 662342990,
+      "sha256": "1cead21e0d31bab3093f768ab2ccb91eb89cfe3c08aef5289106395f947c061a",
+      "url": "https://github.com/DomLynch/Frankendom-Chars/releases/download/v0.1.0-candidates/dwarf-L2-L10-helmet-coverage-candidates.zip",
+      "crcVerified": true
+    },
+    {
+      "name": "nightborn-L2-L10-covered-review.zip",
+      "bytes": 322533778,
+      "sha256": "a84913c212ec7ecd7d083dd3c5585bc6199bd0f8164fb4b184b1692725fe50cc",
+      "url": "https://github.com/DomLynch/Frankendom-Chars/releases/download/v0.1.0-candidates/nightborn-L2-L10-covered-review.zip",
+      "crcVerified": true
+    },
+    {
+      "name": "plaguedoctor-L2-L10-review.zip",
+      "bytes": 248281820,
+      "sha256": "7ccbabae3b522004d0602fd7fd39669e9e4e2f20842012e893fd3684ae92505d",
+      "url": "https://github.com/DomLynch/Frankendom-Chars/releases/download/v0.1.0-candidates/plaguedoctor-L2-L10-review.zip",
+      "crcVerified": true
+    },
+    {
+      "name": "witch-ranks-sources.zip",
+      "bytes": 156608596,
+      "sha256": "1c1e83fb87097d2b76eb92bdb0adcec465a334602f36d9cce9047b7cffa08bfb",
+      "url": "https://github.com/DomLynch/Frankendom-Chars/releases/download/v0.1.0-candidates/witch-ranks-sources.zip",
+      "crcVerified": true
+    }
+  ]
+}

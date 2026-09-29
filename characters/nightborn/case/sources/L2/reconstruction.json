@@ -1,0 +1,15 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 28092802,
+  "resolution": "1024",
+  "faces": 100000,
+  "texture": 2048,
+  "image": "/Users/domininclynch/Desktop/Business/artifacts/nightborn-ranks-20260928/source/L2-reference.png",
+  "preprocess_s": 16.8,
+  "image_to_3d_s": 25.7,
+  "extract_glb_s": 27.2,
+  "glb": "src/assets/source/creatures/nightborn-L2-donor.glb",
+  "bytes": 6027312,
+  "sha256": "63fb09c55382d3f39324ffe56d608f0345224962510beedd3c5f00313411912c",
+  "attempts": 1
+}

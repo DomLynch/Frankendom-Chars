@@ -1,0 +1,938 @@
+[
+  {
+    "rank": 2,
+    "file": "models/knight-L2.glb",
+    "sha256": "53c8ddf92dadd0f518e3552c5376b6974f6e2d1fc1b0dd87eac7a71717512be4",
+    "bytes": 36584980,
+    "uniqueMeshTriangles": 235145,
+    "newArmourTrianglesIncludingSourceGloves": 189232,
+    "meshCount": 14,
+    "materialCount": 9,
+    "textures": [
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          512,
+          512
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "PNG"
+      }
+    ],
+    "clips": 37,
+    "joints": 65,
+    "originalBinaryNodesSkinAccessorsAnimationsExact": true,
+    "normalizedWeightsFiniteGeometry": true,
+    "hashMatchedCaptures": 7,
+    "fightArmourHeightPx": 109.99998450279236,
+    "materialScalarComparison": "PASS; L2/L3 forced nonmetal; source gloves rank tinted",
+    "countsScope": "Unique mesh totals include retained alpha-zero original body. GPU draw costs unmeasured."
+  },
+  {
+    "rank": 3,
+    "file": "models/knight-L3.glb",
+    "sha256": "14c45faa80fdc924404daa9e103d9a22dad1b28d29f0e8d6ecf5d4dbfca8908c",
+    "bytes": 34046836,
+    "uniqueMeshTriangles": 232323,
+    "newArmourTrianglesIncludingSourceGloves": 186410,
+    "meshCount": 14,
+    "materialCount": 9,
+    "textures": [
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          512,
+          512
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "PNG"
+      }
+    ],
+    "clips": 37,
+    "joints": 65,
+    "originalBinaryNodesSkinAccessorsAnimationsExact": true,
+    "normalizedWeightsFiniteGeometry": true,
+    "hashMatchedCaptures": 7,
+    "fightArmourHeightPx": 110.00000238418579,
+    "materialScalarComparison": "PASS; L2/L3 forced nonmetal; source gloves rank tinted",
+    "countsScope": "Unique mesh totals include retained alpha-zero original body. GPU draw costs unmeasured."
+  },
+  {
+    "rank": 4,
+    "file": "models/knight-L4.glb",
+    "sha256": "331ed177f0efeaa8c5fcecc9b497f371c5ba1044b34264b54c0e9c9c5e2e6766",
+    "bytes": 30367796,
+    "uniqueMeshTriangles": 231769,
+    "newArmourTrianglesIncludingSourceGloves": 185856,
+    "meshCount": 14,
+    "materialCount": 9,
+    "textures": [
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          512,
+          512
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      }
+    ],
+    "clips": 37,
+    "joints": 65,
+    "originalBinaryNodesSkinAccessorsAnimationsExact": true,
+    "normalizedWeightsFiniteGeometry": true,
+    "hashMatchedCaptures": 7,
+    "fightArmourHeightPx": 109.99996662139893,
+    "materialScalarComparison": "PASS; L2/L3 forced nonmetal; source gloves rank tinted",
+    "countsScope": "Unique mesh totals include retained alpha-zero original body. GPU draw costs unmeasured."
+  },
+  {
+    "rank": 5,
+    "file": "models/knight-L5.glb",
+    "sha256": "37751d989e74a2299436a1bd84a0e04823a5a5b01c770aae797657f82f233709",
+    "bytes": 32167336,
+    "uniqueMeshTriangles": 232986,
+    "newArmourTrianglesIncludingSourceGloves": 187073,
+    "meshCount": 14,
+    "materialCount": 9,
+    "textures": [
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          512,
+          512
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      }
+    ],
+    "clips": 37,
+    "joints": 65,
+    "originalBinaryNodesSkinAccessorsAnimationsExact": true,
+    "normalizedWeightsFiniteGeometry": true,
+    "hashMatchedCaptures": 7,
+    "fightArmourHeightPx": 109.99998450279236,
+    "materialScalarComparison": "PASS; L2/L3 forced nonmetal; source gloves rank tinted",
+    "countsScope": "Unique mesh totals include retained alpha-zero original body. GPU draw costs unmeasured."
+  },
+  {
+    "rank": 6,
+    "file": "models/knight-L6.glb",
+    "sha256": "d56485a5e844077880d8f31c90d2ce5f0b69c38c024079fbb57d3d6e70c014db",
+    "bytes": 30125360,
+    "uniqueMeshTriangles": 231672,
+    "newArmourTrianglesIncludingSourceGloves": 185759,
+    "meshCount": 14,
+    "materialCount": 9,
+    "textures": [
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          512,
+          512
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      }
+    ],
+    "clips": 37,
+    "joints": 65,
+    "originalBinaryNodesSkinAccessorsAnimationsExact": true,
+    "normalizedWeightsFiniteGeometry": true,
+    "hashMatchedCaptures": 7,
+    "fightArmourHeightPx": 109.99998450279236,
+    "materialScalarComparison": "PASS; L2/L3 forced nonmetal; source gloves rank tinted",
+    "countsScope": "Unique mesh totals include retained alpha-zero original body. GPU draw costs unmeasured."
+  },
+  {
+    "rank": 7,
+    "file": "models/knight-L7.glb",
+    "sha256": "82db420e9585a1e2d1c361d17f2e7c802de2f97f206d617c5da6da06309402b7",
+    "bytes": 25385540,
+    "uniqueMeshTriangles": 230158,
+    "newArmourTrianglesIncludingSourceGloves": 184245,
+    "meshCount": 14,
+    "materialCount": 9,
+    "textures": [
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          512,
+          512
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      }
+    ],
+    "clips": 37,
+    "joints": 65,
+    "originalBinaryNodesSkinAccessorsAnimationsExact": true,
+    "normalizedWeightsFiniteGeometry": true,
+    "hashMatchedCaptures": 7,
+    "fightArmourHeightPx": 109.99998450279236,
+    "materialScalarComparison": "PASS; L2/L3 forced nonmetal; source gloves rank tinted",
+    "countsScope": "Unique mesh totals include retained alpha-zero original body. GPU draw costs unmeasured."
+  },
+  {
+    "rank": 8,
+    "file": "models/knight-L8.glb",
+    "sha256": "8e729c71ec36abbbe96ee77503bb55e6a0374757c52c9b4291cdea91960af908",
+    "bytes": 27722484,
+    "uniqueMeshTriangles": 236408,
+    "newArmourTrianglesIncludingSourceGloves": 190495,
+    "meshCount": 14,
+    "materialCount": 9,
+    "textures": [
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          512,
+          512
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      }
+    ],
+    "clips": 37,
+    "joints": 65,
+    "originalBinaryNodesSkinAccessorsAnimationsExact": true,
+    "normalizedWeightsFiniteGeometry": true,
+    "hashMatchedCaptures": 7,
+    "fightArmourHeightPx": 109.99998450279236,
+    "materialScalarComparison": "PASS; L2/L3 forced nonmetal; source gloves rank tinted",
+    "countsScope": "Unique mesh totals include retained alpha-zero original body. GPU draw costs unmeasured."
+  },
+  {
+    "rank": 9,
+    "file": "models/knight-L9.glb",
+    "sha256": "2b8b52706d78182735e8eec883df1b5d0434ecceacad80ec2aafe12e622eed29",
+    "bytes": 32496276,
+    "uniqueMeshTriangles": 232164,
+    "newArmourTrianglesIncludingSourceGloves": 186251,
+    "meshCount": 14,
+    "materialCount": 9,
+    "textures": [
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          512,
+          512
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      }
+    ],
+    "clips": 37,
+    "joints": 65,
+    "originalBinaryNodesSkinAccessorsAnimationsExact": true,
+    "normalizedWeightsFiniteGeometry": true,
+    "hashMatchedCaptures": 7,
+    "fightArmourHeightPx": 109.99998450279236,
+    "materialScalarComparison": "PASS; L2/L3 forced nonmetal; source gloves rank tinted",
+    "countsScope": "Unique mesh totals include retained alpha-zero original body. GPU draw costs unmeasured."
+  },
+  {
+    "rank": 10,
+    "file": "models/knight-L10.glb",
+    "sha256": "8668acfb7e7c660562b15207df813d1fd62ecc2153321570653d74a6d5b4d940",
+    "bytes": 32974152,
+    "uniqueMeshTriangles": 242221,
+    "newArmourTrianglesIncludingSourceGloves": 196308,
+    "meshCount": 14,
+    "materialCount": 9,
+    "textures": [
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          512,
+          512
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "JPEG"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      },
+      {
+        "size": [
+          2048,
+          2048
+        ],
+        "format": "WEBP"
+      }
+    ],
+    "clips": 37,
+    "joints": 65,
+    "originalBinaryNodesSkinAccessorsAnimationsExact": true,
+    "normalizedWeightsFiniteGeometry": true,
+    "hashMatchedCaptures": 7,
+    "fightArmourHeightPx": 110.00000238418579,
+    "materialScalarComparison": "PASS; L2/L3 forced nonmetal; source gloves rank tinted",
+    "countsScope": "Unique mesh totals include retained alpha-zero original body. GPU draw costs unmeasured."
+  }
+]

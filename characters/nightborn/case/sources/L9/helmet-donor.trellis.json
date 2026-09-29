@@ -1,0 +1,15 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280928109,
+  "resolution": "1024",
+  "faces": 100000,
+  "texture": 2048,
+  "image": "source/L9-helmet-reference.png",
+  "preprocess_s": 14.8,
+  "image_to_3d_s": 54.5,
+  "extract_glb_s": 39.9,
+  "glb": "src/assets/source/creatures/nightborn-L9-helmet.glb",
+  "bytes": 5265388,
+  "sha256": "4fee86e00d36d2f9c7e4051c25d08830675327f2c324ed134e598661d3d40405",
+  "attempts": 1
+}

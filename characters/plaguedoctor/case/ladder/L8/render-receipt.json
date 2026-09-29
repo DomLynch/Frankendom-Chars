@@ -1,0 +1,110 @@
+[
+  {
+    "model": "final/plaguedoctor-L8.glb",
+    "sha256": "8d5ebd8109a2a1154a403161d32e07fd286967a8eecd346c081a0d8c2816701c",
+    "image": "L8-front.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "final/plaguedoctor-L8.glb",
+    "sha256": "8d5ebd8109a2a1154a403161d32e07fd286967a8eecd346c081a0d8c2816701c",
+    "image": "L8-back.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "final/plaguedoctor-L8.glb",
+    "sha256": "8d5ebd8109a2a1154a403161d32e07fd286967a8eecd346c081a0d8c2816701c",
+    "image": "L8-attack.png",
+    "clip": "Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "final/plaguedoctor-L8.glb",
+    "sha256": "8d5ebd8109a2a1154a403161d32e07fd286967a8eecd346c081a0d8c2816701c",
+    "image": "L8-guard.png",
+    "clip": "Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "final/plaguedoctor-L8.glb",
+    "sha256": "8d5ebd8109a2a1154a403161d32e07fd286967a8eecd346c081a0d8c2816701c",
+    "image": "L8-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "final/plaguedoctor-L8.glb",
+    "sha256": "8d5ebd8109a2a1154a403161d32e07fd286967a8eecd346c081a0d8c2816701c",
+    "image": "L8-fight.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 11.199999809265137,
+    "viewport": [
+      375,
+      600
+    ],
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  }
+]

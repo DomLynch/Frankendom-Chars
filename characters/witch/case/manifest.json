@@ -1,0 +1,688 @@
+{
+  "character": "Witch",
+  "scope": "L2\u2013L10 separate review candidates",
+  "originalSha256": "c99798db5972d37c0540b0b6683aedaf9afaf381cb39d7298818434adf55d45d",
+  "ranks": [
+    {
+      "rank": "L2",
+      "palette": "Brown leather",
+      "model": "models/witch-L2.glb",
+      "sha256": "25ff099f94703a170cc406b2724cc2db8ab616ff23dadf72e51d69ccdd990ccb",
+      "bytes": 32392480,
+      "storedTriangles": 142470,
+      "storedMeshCount": 4,
+      "storedMaterialCount": 7,
+      "sceneMeshInstances": 4,
+      "sceneTriangleInstances": 142470,
+      "materialVisibleTriangleInstances": 97494,
+      "hiddenOriginalBodyTriangles": 44976,
+      "drawCallsAndDevicePerformance": "not measured; material visibility is not a draw-cost measurement",
+      "textures": [
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            256,
+            1024
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/png",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "joints": 65,
+      "clips": 38,
+      "poseSamples": 162,
+      "severeStretchOccurrences": 0,
+      "verifiedImages": 9,
+      "formatErrorsInherited": 231,
+      "newFormatErrors": 0,
+      "formatWarnings": 2,
+      "acceptance": "isolated review candidate; game integration pending"
+    },
+    {
+      "rank": "L3",
+      "palette": "Bone & hide",
+      "model": "models/witch-L3.glb",
+      "sha256": "f35402f1afc9b15f152fa5ccc64b35a66d3065a6729e58dba1ed7edc22bc25d1",
+      "bytes": 29549996,
+      "storedTriangles": 141851,
+      "storedMeshCount": 4,
+      "storedMaterialCount": 7,
+      "sceneMeshInstances": 4,
+      "sceneTriangleInstances": 141851,
+      "materialVisibleTriangleInstances": 96875,
+      "hiddenOriginalBodyTriangles": 44976,
+      "drawCallsAndDevicePerformance": "not measured; material visibility is not a draw-cost measurement",
+      "textures": [
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            256,
+            1024
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/png",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "joints": 65,
+      "clips": 38,
+      "poseSamples": 162,
+      "severeStretchOccurrences": 0,
+      "verifiedImages": 9,
+      "formatErrorsInherited": 231,
+      "newFormatErrors": 0,
+      "formatWarnings": 2,
+      "acceptance": "isolated review candidate; game integration pending"
+    },
+    {
+      "rank": "L4",
+      "palette": "Copper",
+      "model": "models/witch-L4.glb",
+      "sha256": "9911a9e645c493c12de518e5649819b828e09883f1d9c229999fde769c833661",
+      "bytes": 30155508,
+      "storedTriangles": 143800,
+      "storedMeshCount": 4,
+      "storedMaterialCount": 7,
+      "sceneMeshInstances": 4,
+      "sceneTriangleInstances": 143800,
+      "materialVisibleTriangleInstances": 98824,
+      "hiddenOriginalBodyTriangles": 44976,
+      "drawCallsAndDevicePerformance": "not measured; material visibility is not a draw-cost measurement",
+      "textures": [
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            256,
+            1024
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "joints": 65,
+      "clips": 38,
+      "poseSamples": 162,
+      "severeStretchOccurrences": 0,
+      "verifiedImages": 9,
+      "formatErrorsInherited": 231,
+      "newFormatErrors": 0,
+      "formatWarnings": 2,
+      "acceptance": "isolated review candidate; game integration pending"
+    },
+    {
+      "rank": "L5",
+      "palette": "Bronze",
+      "model": "models/witch-L5.glb",
+      "sha256": "6464bf87f55f48aff185ea5c7d06c32b827ccbce21aee7b75918de3e4472d11d",
+      "bytes": 28744712,
+      "storedTriangles": 144988,
+      "storedMeshCount": 4,
+      "storedMaterialCount": 7,
+      "sceneMeshInstances": 4,
+      "sceneTriangleInstances": 144988,
+      "materialVisibleTriangleInstances": 100012,
+      "hiddenOriginalBodyTriangles": 44976,
+      "drawCallsAndDevicePerformance": "not measured; material visibility is not a draw-cost measurement",
+      "textures": [
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            256,
+            1024
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "joints": 65,
+      "clips": 38,
+      "poseSamples": 162,
+      "severeStretchOccurrences": 0,
+      "verifiedImages": 9,
+      "formatErrorsInherited": 231,
+      "newFormatErrors": 0,
+      "formatWarnings": 2,
+      "acceptance": "isolated review candidate; game integration pending"
+    },
+    {
+      "rank": "L6",
+      "palette": "Iron",
+      "model": "models/witch-L6.glb",
+      "sha256": "f097e3720a3bd3b671409f839fd4e7b50bf5118012f6c55e68f8a92e2f6b3fa1",
+      "bytes": 28307156,
+      "storedTriangles": 142603,
+      "storedMeshCount": 4,
+      "storedMaterialCount": 7,
+      "sceneMeshInstances": 4,
+      "sceneTriangleInstances": 142603,
+      "materialVisibleTriangleInstances": 97627,
+      "hiddenOriginalBodyTriangles": 44976,
+      "drawCallsAndDevicePerformance": "not measured; material visibility is not a draw-cost measurement",
+      "textures": [
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            256,
+            1024
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "joints": 65,
+      "clips": 38,
+      "poseSamples": 162,
+      "severeStretchOccurrences": 0,
+      "verifiedImages": 9,
+      "formatErrorsInherited": 231,
+      "newFormatErrors": 0,
+      "formatWarnings": 2,
+      "acceptance": "isolated review candidate; game integration pending"
+    },
+    {
+      "rank": "L7",
+      "palette": "Steel",
+      "model": "models/witch-L7.glb",
+      "sha256": "71d6f3aefcc4b62d06caac76728f5540648611a467811424fd887c639eaeca2d",
+      "bytes": 28749640,
+      "storedTriangles": 142682,
+      "storedMeshCount": 4,
+      "storedMaterialCount": 7,
+      "sceneMeshInstances": 4,
+      "sceneTriangleInstances": 142682,
+      "materialVisibleTriangleInstances": 97706,
+      "hiddenOriginalBodyTriangles": 44976,
+      "drawCallsAndDevicePerformance": "not measured; material visibility is not a draw-cost measurement",
+      "textures": [
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            256,
+            1024
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "joints": 65,
+      "clips": 38,
+      "poseSamples": 162,
+      "severeStretchOccurrences": 0,
+      "verifiedImages": 9,
+      "formatErrorsInherited": 231,
+      "newFormatErrors": 0,
+      "formatWarnings": 2,
+      "acceptance": "isolated review candidate; game integration pending"
+    },
+    {
+      "rank": "L8",
+      "palette": "Blackened steel & ruby",
+      "model": "models/witch-L8.glb",
+      "sha256": "418457b2eb9af0e97a6504aab0ec7d23552d4046fd9b2db806ed452e2af6d68a",
+      "bytes": 22729920,
+      "storedTriangles": 145105,
+      "storedMeshCount": 4,
+      "storedMaterialCount": 5,
+      "sceneMeshInstances": 4,
+      "sceneTriangleInstances": 145105,
+      "materialVisibleTriangleInstances": 100129,
+      "hiddenOriginalBodyTriangles": 44976,
+      "drawCallsAndDevicePerformance": "not measured; material visibility is not a draw-cost measurement",
+      "textures": [
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            256,
+            1024
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "joints": 65,
+      "clips": 38,
+      "poseSamples": 54,
+      "severeStretchOccurrences": 0,
+      "verifiedImages": 9,
+      "formatErrorsInherited": 231,
+      "newFormatErrors": 0,
+      "formatWarnings": 2,
+      "acceptance": "isolated review candidate; game integration pending"
+    },
+    {
+      "rank": "L9",
+      "palette": "Emerald",
+      "model": "models/witch-L9.glb",
+      "sha256": "f8d3aa175c330146222a1ff61dd7fb3a1f777dc3084fbd623e410d62a487fc9a",
+      "bytes": 21995284,
+      "storedTriangles": 142552,
+      "storedMeshCount": 4,
+      "storedMaterialCount": 5,
+      "sceneMeshInstances": 4,
+      "sceneTriangleInstances": 142552,
+      "materialVisibleTriangleInstances": 97576,
+      "hiddenOriginalBodyTriangles": 44976,
+      "drawCallsAndDevicePerformance": "not measured; material visibility is not a draw-cost measurement",
+      "textures": [
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            256,
+            1024
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "joints": 65,
+      "clips": 38,
+      "poseSamples": 54,
+      "severeStretchOccurrences": 0,
+      "verifiedImages": 9,
+      "formatErrorsInherited": 231,
+      "newFormatErrors": 0,
+      "formatWarnings": 2,
+      "acceptance": "isolated review candidate; game integration pending"
+    },
+    {
+      "rank": "L10",
+      "palette": "Full gold",
+      "model": "models/witch-L10.glb",
+      "sha256": "5e3325decf6c99af88a5a9e9277637b71d8921bf115842049b928c96dbdaaed7",
+      "bytes": 22583328,
+      "storedTriangles": 143140,
+      "storedMeshCount": 4,
+      "storedMaterialCount": 5,
+      "sceneMeshInstances": 4,
+      "sceneTriangleInstances": 143140,
+      "materialVisibleTriangleInstances": 98164,
+      "hiddenOriginalBodyTriangles": 44976,
+      "drawCallsAndDevicePerformance": "not measured; material visibility is not a draw-cost measurement",
+      "textures": [
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "mimeType": "image/jpeg",
+          "dimensions": [
+            256,
+            1024
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "mimeType": "image/webp",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "joints": 65,
+      "clips": 38,
+      "poseSamples": 54,
+      "severeStretchOccurrences": 0,
+      "verifiedImages": 9,
+      "formatErrorsInherited": 231,
+      "newFormatErrors": 0,
+      "formatWarnings": 2,
+      "acceptance": "isolated review candidate; game integration pending"
+    }
+  ],
+  "limitations": [
+    "Original asset has 231 inherited glTF errors; full reports included.",
+    "Continuous animation clearance, finisher/carrier integration, six-slot separation and physical-phone performance remain unverified.",
+    "New reconstructed surfaces replace visible original clothing; original source geometry/binary remains stored.",
+    "Studio images show actual selected GLBs; reference art is separate."
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "rank": 2,
+    "maxJointPositionDelta": 5.135412960029283e-08,
+    "worstClip": "Roll",
+    "samples": 125,
+    "status": "passed"
+  },
+  {
+    "rank": 3,
+    "maxJointPositionDelta": 5.135412960029283e-08,
+    "worstClip": "Roll",
+    "samples": 125,
+    "status": "passed"
+  },
+  {
+    "rank": 4,
+    "maxJointPositionDelta": 5.135412960029283e-08,
+    "worstClip": "Roll",
+    "samples": 125,
+    "status": "passed"
+  },
+  {
+    "rank": 5,
+    "maxJointPositionDelta": 5.135412960029283e-08,
+    "worstClip": "Roll",
+    "samples": 125,
+    "status": "passed"
+  },
+  {
+    "rank": 6,
+    "maxJointPositionDelta": 5.135412960029283e-08,
+    "worstClip": "Roll",
+    "samples": 125,
+    "status": "passed"
+  },
+  {
+    "rank": 7,
+    "maxJointPositionDelta": 5.135412960029283e-08,
+    "worstClip": "Roll",
+    "samples": 125,
+    "status": "passed"
+  },
+  {
+    "rank": 8,
+    "maxJointPositionDelta": 5.135412960029283e-08,
+    "worstClip": "Roll",
+    "samples": 125,
+    "status": "passed"
+  },
+  {
+    "rank": 9,
+    "maxJointPositionDelta": 5.135412960029283e-08,
+    "worstClip": "Roll",
+    "samples": 125,
+    "status": "passed"
+  },
+  {
+    "rank": 10,
+    "maxJointPositionDelta": 5.135412960029283e-08,
+    "worstClip": "Roll",
+    "samples": 125,
+    "status": "passed"
+  }
+]

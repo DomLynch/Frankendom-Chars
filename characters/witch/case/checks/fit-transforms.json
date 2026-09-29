@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 2,
+    "donorSha256": "6b31ad30dd624848487cf6482bd86a2e56aa38f8479eac4bc97253c83f3c8c13",
+    "uniformScale": 1.8080350790264672,
+    "sourceYmin": -0.5008299946784973,
+    "height": 1.81,
+    "floor": 0.025
+  },
+  {
+    "rank": 3,
+    "donorSha256": "f780565bde4dbb2c737955c36867222f9bea262a287cfd10ffd4066093a65eb7",
+    "uniformScale": 1.8094679626548424,
+    "sourceYmin": -0.49986010789871216,
+    "height": 1.81,
+    "floor": 0.025
+  },
+  {
+    "rank": 4,
+    "donorSha256": "2a7692851a094d4e1610c26c2d4802656be3f8b4e1deca41dcaf5d9a84e3716b",
+    "uniformScale": 1.807447391837704,
+    "sourceYmin": -0.5009078979492188,
+    "height": 1.81,
+    "floor": 0.025
+  },
+  {
+    "rank": 5,
+    "donorSha256": "75d4d556769ea57f9f19281c0379ef912b4ebf713d5772e49352f4c439ce5ada",
+    "uniformScale": 1.807676351773599,
+    "sourceYmin": -0.5009702444076538,
+    "height": 1.81,
+    "floor": 0.025
+  },
+  {
+    "rank": 6,
+    "donorSha256": "d6174c53ff17735cca6fa5022b4b7505d7deaaa6d1876e0ec2cc63dcb6ca27c7",
+    "uniformScale": 1.8080993485384689,
+    "sourceYmin": -0.5009567737579346,
+    "height": 1.81,
+    "floor": 0.025
+  },
+  {
+    "rank": 7,
+    "donorSha256": "656940b6da995f1512774eba9d35f81914c15b367cd8e7c4f042324188eca214",
+    "uniformScale": 1.8079848077354044,
+    "sourceYmin": -0.500967800617218,
+    "height": 1.81,
+    "floor": 0.025
+  },
+  {
+    "rank": 8,
+    "donorSha256": "0cf401619be6355b2b1df95927dba4f323b3253f586663dd11bdc012017ddf00",
+    "uniformScale": 1.8086718394123578,
+    "sourceYmin": -0.5004620552062988,
+    "height": 1.81,
+    "floor": 0.025
+  },
+  {
+    "rank": 9,
+    "donorSha256": "e79017f191b9a0964d085bd58a0e7df769c1e87e4c827df26116a3ca8805ef7a",
+    "uniformScale": 1.8074689081592386,
+    "sourceYmin": -0.5009240508079529,
+    "height": 1.81,
+    "floor": 0.025
+  },
+  {
+    "rank": 10,
+    "donorSha256": "881cdd103f9e12db7d4883dbc6b7a9d9fcba464f5911c69e885488f542570773",
+    "uniformScale": 1.8076836691189575,
+    "sourceYmin": -0.5008407831192017,
+    "height": 1.81,
+    "floor": 0.025
+  }
+]

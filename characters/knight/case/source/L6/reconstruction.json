@@ -1,0 +1,16 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280906,
+  "resolution": "1536",
+  "faces": 200000,
+  "texture": 2048,
+  "image": "source/L6-reference.png",
+  "sampling_steps_each_stage": 36,
+  "preprocess_s": 16.4,
+  "image_to_3d_s": 104.7,
+  "extract_glb_s": 53.1,
+  "glb": "src/assets/source/creatures/knight-L6-detail-donor.glb",
+  "bytes": 9312112,
+  "sha256": "1b39081d6c813a1720e4d551d2bc8de49753c19310ba04a5052359691d200b62",
+  "attempts": 1
+}

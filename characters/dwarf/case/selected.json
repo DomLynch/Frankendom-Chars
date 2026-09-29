@@ -1,0 +1,113 @@
+{
+  "L2": {
+    "model": "models/dwarf-L2.glb",
+    "sha256": "cafc5257ed12b9545875aa6a52e19ef22ebac659b48da3fb99dbc7218070f9ff",
+    "sourceAddonSha256": "da9bae2922817c1c824846d73ed3b4ba9083f49b8f908de496a5b8da3beb24a4",
+    "sourceBlendIsPreRepairs": true,
+    "rebuildOrder": [
+      "merge_armour",
+      "repair_weights",
+      "finish_materials",
+      "final_polish",
+      "clean_visible_skin"
+    ],
+    "sourceSelection": "source/build-L2-v2-remote.py"
+  },
+  "L3": {
+    "model": "models/dwarf-L3.glb",
+    "sha256": "16785b04b038ab5fa6d6ff64c72dcf5ed6e688a9c43c7c6a78b2ef6709d3912f",
+    "sourceAddonSha256": "ac9dd51060e888e563bdbd31cde861e3c0b3810737a7a8e2f063bdcdf3b11ab3",
+    "sourceBlendIsPreRepairs": true,
+    "rebuildOrder": [
+      "merge_armour",
+      "repair_weights",
+      "finish_materials",
+      "final_polish",
+      "clean_visible_skin"
+    ],
+    "sourceSelection": "source/build-L3-v2-remote.py"
+  },
+  "L4": {
+    "model": "models/dwarf-L4.glb",
+    "sha256": "6ac8fd8ca6b6b10d1169b023a8436c796ff6aa06908ac375c4e5a3156c2d2c43",
+    "sourceAddonSha256": "c4681230e7a2d2f7b2bc42788920fb9e108fc696186902901bdbd41e87093f9a",
+    "sourceBlendIsPreRepairs": true,
+    "rebuildOrder": [
+      "merge_armour",
+      "repair_weights",
+      "finish_materials",
+      "final_polish",
+      "clean_visible_skin"
+    ],
+    "sourceSelection": "source/build-L4-v2-remote.py"
+  },
+  "L5": {
+    "model": "models/dwarf-L5.glb",
+    "sha256": "ee016eae352b08e9bb72d9d3028c39333d9d1718cac49aed782daa08aacd2d2c",
+    "sourceAddonSha256": "66e877ddb70270315b092dd71b4b201419aa58cd6a05fabc8f469b6686436e40",
+    "sourceBlendIsPreRepairs": true,
+    "rebuildOrder": [
+      "merge_armour",
+      "repair_weights",
+      "finish_materials",
+      "final_polish",
+      "clean_visible_skin"
+    ],
+    "sourceSelection": "source/build-L5-v2-remote.py"
+  },
+  "L6": {
+    "model": "models/dwarf-L6.glb",
+    "sha256": "d28ffc0ad10224cd29079f3ff031e6fe80887c1c8ac15941845f305b190ddc3b",
+    "sourceAddonSha256": "c5c4750e16c61e6359c742540dda1e2b777514a9cd28b6888b81f2698db86964",
+    "sourceBlendIsPreRepairs": true,
+    "rebuildOrder": [
+      "merge_armour",
+      "repair_weights",
+      "finish_materials",
+      "final_polish",
+      "clean_visible_skin"
+    ],
+    "sourceSelection": "source/build-L6-remote.py"
+  },
+  "L7": {
+    "model": "models/dwarf-L7.glb",
+    "sha256": "afd2962ebab4a12f4d6a3dfdb77df61fc383a36152b627b138b66fa1b51e711b",
+    "sourceAddonSha256": "a92f37b2cf61bacca798f1b46fc1589901c85d6b6ce89ea89cd2ba6c61134359",
+    "sourceBlendIsPreRepairs": true,
+    "rebuildOrder": [
+      "merge_armour",
+      "repair_weights",
+      "finish_materials",
+      "final_polish",
+      "clean_visible_skin"
+    ],
+    "sourceSelection": "source/build-L7-remote.py"
+  },
+  "L8": {
+    "model": "models/dwarf-L8.glb",
+    "sha256": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "rebuildOrder": [
+      "patch_existing"
+    ],
+    "sourceSelection": "sources/targeted-input",
+    "originalSuitPreserved": true
+  },
+  "L9": {
+    "model": "models/dwarf-L9.glb",
+    "sha256": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "rebuildOrder": [
+      "patch_existing"
+    ],
+    "sourceSelection": "sources/targeted-input",
+    "originalSuitPreserved": true
+  },
+  "L10": {
+    "model": "models/dwarf-L10.glb",
+    "sha256": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965",
+    "rebuildOrder": [
+      "patch_existing"
+    ],
+    "sourceSelection": "sources/targeted-input",
+    "originalSuitPreserved": true
+  }
+}

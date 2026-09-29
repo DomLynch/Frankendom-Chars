@@ -1,0 +1,16 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280905,
+  "resolution": "1536",
+  "faces": 200000,
+  "texture": 2048,
+  "image": "source/L5-reference.png",
+  "sampling_steps_each_stage": 36,
+  "preprocess_s": 13.4,
+  "image_to_3d_s": 105.8,
+  "extract_glb_s": 50.2,
+  "glb": "src/assets/source/creatures/knight-L5-detail-donor.glb",
+  "bytes": 9972104,
+  "sha256": "588253630eba8f709b5f5668e97ca2c10e01bccd0ae3193c56bcb946791865c2",
+  "attempts": 1
+}

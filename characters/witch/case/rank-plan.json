@@ -1,0 +1,36 @@
+{
+  "ranks": {
+    "2": "Warm brown leather ritual hood, fitted stitched leather torso and bracers, layered hide thigh guards and boots; face retained.",
+    "3": "Bone and hide, small carved bone shoulder scales and brow talisman, bone splints, hood; face retained.",
+    "4": "Copper embossed crescent brow and corslet, articulated copper bracers and thigh lamellae, brown robe; face retained.",
+    "5": "Bronze crescent half-cowl and engraved bronze layered chest, shoulders and limb plates; face retained.",
+    "6": "Iron pointed hood frame, riveted iron armour with narrow layered skirt panels; face retained.",
+    "7": "Steel hooded sallet, sculpted crescent shoulders, clearly constructed bright worn steel articulated limbs; face retained.",
+    "8": "Blackened steel/ruby, closed horned ritual visor beneath peaked hood, segmented full limbs and separate thigh plates.",
+    "9": "Emerald, closed elongated crescent mask with lateral lunar fins, overlapping leaf-like shoulder and thigh lamellae, full coverage.",
+    "10": "Full gold ultimate witch queen: closed sculpted demon faceplate beneath tall five-point ritual crown, swept upper horns, gilded layered full-body armour."
+  },
+  "eliteCoverage": [
+    "head/face",
+    "neck",
+    "torso",
+    "upper arms",
+    "elbows",
+    "forearms",
+    "hands",
+    "thighs",
+    "knees",
+    "shins",
+    "feet"
+  ],
+  "slots": {
+    "Helmet": "hood/visor/crown",
+    "Body": "corslet and split tabard",
+    "Arms": "shoulders and arm plates",
+    "Gloves": "articulated hand shells",
+    "Greaves": "thigh/knee/shin plates",
+    "Boots": "closed armoured footwear"
+  },
+  "delivery": "combined review candidates; six-slot runtime assembly remains integration",
+  "pilot": 8
+}

@@ -1,0 +1,24 @@
+{
+  "sourceRevision": "5fe947ffd518e3630254f5dfdb734e05f41bbf1a",
+  "models": 9,
+  "verifiedRankImages": 81,
+  "verifiedOriginalImages": 9,
+  "allSelectedModelAndImageHashesMatch": true,
+  "allNewVisibleSurfacesPassSampledMotion": true,
+  "noNewFormatErrors": true,
+  "galleryViewsTested": 9,
+  "gallery375pxOverflow": false,
+  "sheets": {
+    "front.png": "b2d503abbac93a601211cb17a2f25003e29ae0b9b66d941e628a5fc02cd27edc",
+    "back.png": "ed8a9fe5c5565a5b16f57951929e043200df81af9eceb1fdd920e9ac55337af9",
+    "side.png": "3adf799dc6bba9653fa627d9549d354bd0908a5802c1b1958f8a25dbfea1d918",
+    "attack.png": "397be994776d5e02c35d368c4964f5cd1ae05ba78348c038d7d9776ee56e4ab3",
+    "guard.png": "b2ce9cf89b9b6584c49a376a7b69c72a0997d1599e4e84e5281e1803d1b831e1",
+    "kick.png": "6345d7aef83ef1e4bfb955b3834af1a7fa7a532ce5101ff1bcf418f86fcef218",
+    "head.png": "279fdaf62b55be83730ceb5121e1a8825616845ecc4c8608e2d5f0e6100eca4b",
+    "high-rear.png": "8819ca085a8c198fb1e7a79dc0d3e2e8b8fd30bca3518002912e9d054cbd6f14",
+    "fight.png": "ad61cd720a5150f7ff8486f70d8440ea8bd8aa88233883d186b9807da3814c0b",
+    "gallery-mobile.png": "ce9ae10adbf175fdb9a515b021b4fec4f1e60710db2df4b9c06e5c51d8af5c84"
+  },
+  "scope": "isolated review candidates; not production/phone acceptance"
+}

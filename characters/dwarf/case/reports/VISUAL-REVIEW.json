@@ -1,0 +1,17 @@
+{
+  "deliveryLevel": "review_candidate",
+  "helmetAndCoverageAccepted": false,
+  "closedHelmetsObserved": true,
+  "reviewedEliteViews": 33,
+  "scope": "Deadline delivery of actual candidates with open visual defects; not full art acceptance",
+  "remainingDefects": [
+    "L9 pale underarm patch remains visible in the side view; complete coverage acceptance remains open.",
+    "Existing finger deformation and rough shoulder/plate seams remain.",
+    "New visors are simpler than the engraved suit; continuous collision and game/phone proof are unperformed."
+  ],
+  "models": {
+    "L8": "8a2244b715baf50b016b75e54cc033fa50e11460ff145af1bfcdeaf4bf05f313",
+    "L9": "bf6385f3a5d4d2d42b222cc5fc997be39b45a54b1c87386fac78a7bf614b1fe5",
+    "L10": "cbdd1e5d5755061dbbab0535f55514266d9f9fd63601a02b10c5ecf886858965"
+  }
+}

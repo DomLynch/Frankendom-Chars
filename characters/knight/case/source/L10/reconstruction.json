@@ -1,0 +1,16 @@
+{
+  "space": "microsoft/TRELLIS.2",
+  "seed": 280910,
+  "resolution": "1536",
+  "faces": 200000,
+  "texture": 2048,
+  "image": "source/L10-reference.png",
+  "sampling_steps_each_stage": 36,
+  "preprocess_s": 13.3,
+  "image_to_3d_s": 100.1,
+  "extract_glb_s": 49.6,
+  "glb": "src/assets/source/creatures/knight-L10-detail-donor.glb",
+  "bytes": 10420372,
+  "sha256": "9e0f7ca8d29079d7f0221fa354a0bb73662ede0c6dc207cecf31fd59d1bf47d9",
+  "attempts": 1
+}

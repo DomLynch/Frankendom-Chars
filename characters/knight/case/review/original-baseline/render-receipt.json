@@ -1,0 +1,156 @@
+[
+  {
+    "model": "original.glb",
+    "sha256": "6a1013912601f726e14d6c4b9bf7d22a525a9c227de64709fff951ad704ee8c5",
+    "image": "original-front.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "d7ab85b856dea798bb4ea692de74c3a4a88154c70c680873fbc5ccb3fcb6cae8",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "original.glb",
+    "sha256": "6a1013912601f726e14d6c4b9bf7d22a525a9c227de64709fff951ad704ee8c5",
+    "image": "original-back.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "27bab3752294723895fb2bf16f809ac968c958974c92729425d45277d784734f",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "original.glb",
+    "sha256": "6a1013912601f726e14d6c4b9bf7d22a525a9c227de64709fff951ad704ee8c5",
+    "image": "original-side.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      6.0,
+      0.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "cafd367212514d81fc612dbf5747b6f1ee3c79bd6241b3ca153f32a0eacb6bc6",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "original.glb",
+    "sha256": "6a1013912601f726e14d6c4b9bf7d22a525a9c227de64709fff951ad704ee8c5",
+    "image": "original-attack.png",
+    "clip": "Maul_Heavy",
+    "frame": 11,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "2269ef56949a11b25879659c0146f99809416c7a7605d5d500bef5ce05a15d87",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "original.glb",
+    "sha256": "6a1013912601f726e14d6c4b9bf7d22a525a9c227de64709fff951ad704ee8c5",
+    "image": "original-guard.png",
+    "clip": "Maul_Guard",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "e1200fcc4000c71e6b6ecf0da53adee64cb09a8f32d4113fd43bf81e3ae90283",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "original.glb",
+    "sha256": "6a1013912601f726e14d6c4b9bf7d22a525a9c227de64709fff951ad704ee8c5",
+    "image": "original-kick.png",
+    "clip": "Kick",
+    "frame": 10,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 2.549999952316284,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": null,
+    "imageSha256": "f8bc89116c54bffe72391a51ca1233fd80e2407cdbec47e42b510f1c825d541b",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  },
+  {
+    "model": "original.glb",
+    "sha256": "6a1013912601f726e14d6c4b9bf7d22a525a9c227de64709fff951ad704ee8c5",
+    "image": "original-fight.png",
+    "clip": "Armed",
+    "frame": 8,
+    "camera": [
+      0.0,
+      -6.0,
+      1.100000023841858
+    ],
+    "orthoScale": 10.58396053314209,
+    "viewport": [
+      375,
+      600
+    ],
+    "renderer": "5.2.1 LTS",
+    "engine": "Cycles CPU",
+    "projectedArmourHeightPx": 110.00000238418579,
+    "imageSha256": "23510304222985507e6f1b75f4b50928e932280fdd51abf317e4074e48ff272b",
+    "scope": "CPU studio render; not gameplay or physical phone performance"
+  }
+]
