@@ -1,0 +1,50 @@
+name: Pitborn L8 donor previews
+
+on:
+  push:
+    branches: [pitborn-l2-l10]
+    paths:
+      - "characters/pitborn/generated/donor/L8-trellis-raw.glb"
+      - "scripts/pitborn/render_trellis_donor.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: pitborn-l2-l10
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Install Blender Python and headless libs
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y libegl1 libgl1 libx11-6 libxi6 libxrender1 libxfixes3 libxkbcommon0 xvfb
+          python -m pip install --upgrade pip
+          python -m pip install "bpy==5.2.2"
+      - name: Render exact donor
+        run: |
+          mkdir -p characters/pitborn/generated/trellis-preview
+          xvfb-run -a python scripts/pitborn/render_trellis_donor.py             --model characters/pitborn/generated/donor/L8-trellis-raw.glb             --out characters/pitborn/generated/trellis-preview
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pitborn-L8-donor-previews
+          path: characters/pitborn/generated/trellis-preview/
+          if-no-files-found: error
+          retention-days: 30
+      - name: Commit donor previews
+        run: |
+          git config user.name "Frankendom Character Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase origin pitborn-l2-l10
+          git add characters/pitborn/generated/trellis-preview
+          if ! git diff --cached --quiet; then
+            git commit -m "Render Pitborn L8 TRELLIS donor previews [skip ci]"
+            git push origin HEAD:pitborn-l2-l10
+          fi
