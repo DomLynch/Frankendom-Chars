@@ -1,0 +1,77 @@
+name: Save Pitborn L8 fast TRELLIS review
+
+on:
+  push:
+    branches: [pitborn-l2-l10]
+    paths:
+      - ".github/workflows/pitborn-l8-fast-save.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  save:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: pitborn-l2-l10
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install renderer
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y libegl1 libgl1 libx11-6 libxi6 libxrender1 libxfixes3 libxkbcommon0 libxxf86vm1 libsm6 libice6 xvfb xauth
+          python -m pip install --upgrade pip
+          python -m pip install "bpy==5.2.2"
+
+      - name: Download exact TRELLIS review GLB
+        run: |
+          mkdir -p characters/pitborn/fast-L8
+          curl -L --fail --retry 5 --retry-delay 2             "https://microsoft-trellis-2.hf.space/gradio_api/file=/tmp/gradio/6442c9e2c3eb66c18935631e5fe393c056483e6045002966c0463fe191f7a575/sample_2026-09-29T093420.677.glb"             -o characters/pitborn/fast-L8/pitborn-L8-trellis-review.glb
+          test -s characters/pitborn/fast-L8/pitborn-L8-trellis-review.glb
+          sha256sum characters/pitborn/fast-L8/pitborn-L8-trellis-review.glb > characters/pitborn/fast-L8/SHA256SUMS
+
+      - name: Render exact model
+        run: |
+          mkdir -p characters/pitborn/fast-L8/previews
+          xvfb-run -a python scripts/pitborn/render_trellis_donor.py             --model characters/pitborn/fast-L8/pitborn-L8-trellis-review.glb             --out characters/pitborn/fast-L8/previews
+
+      - name: Write receipt
+        run: |
+          cat > characters/pitborn/fast-L8/receipt.json <<'EOF'
+          {
+            "rank": 8,
+            "purpose": "fast visual review donor",
+            "trellis_resolution": 1024,
+            "sampling_steps": 12,
+            "decimation_target": 100000,
+            "texture_size": 2048,
+            "seed": 290929,
+            "generation_seconds": 47.8,
+            "extraction_seconds": 36.1,
+            "source_reference": "characters/pitborn/generated/donor/L8-reference-v2.png",
+            "note": "This is the reconstructed visual donor, not yet the final rigged Pitborn export."
+          }
+          EOF
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pitborn-L8-fast-review
+          path: characters/pitborn/fast-L8/
+          retention-days: 30
+
+      - name: Commit model and previews
+        run: |
+          git config user.name "Frankendom Character Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase origin pitborn-l2-l10
+          git add -f characters/pitborn/fast-L8/pitborn-L8-trellis-review.glb
+          git add characters/pitborn/fast-L8/previews characters/pitborn/fast-L8/SHA256SUMS characters/pitborn/fast-L8/receipt.json
+          git commit -m "Save Pitborn L8 fast TRELLIS review [skip ci]"
+          git push origin HEAD:pitborn-l2-l10
