@@ -1,0 +1,56 @@
+name: Pitborn L8 elite donor pilot
+
+on:
+  push:
+    branches: [pitborn-l2-l10]
+    paths:
+      - ".github/workflows/pitborn-l8-donorbuild.yml"
+      - "scripts/pitborn/build_l8_from_nightborn.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: pitborn-l2-l10
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Install Blender Python
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y libegl1 libgl1 libx11-6 libxi6 libxrender1 libxfixes3 libxkbcommon0 libxxf86vm1 libsm6 libice6 xvfb xauth
+          python -m pip install --upgrade pip
+          python -m pip install "bpy==5.2.2" requests numpy
+      - name: Build Pitborn L8
+        run: xvfb-run -a python scripts/pitborn/build_l8_from_nightborn.py
+      - name: Save exact pilot outputs
+        run: |
+          mkdir -p characters/pitborn/pilot-L8
+          cp /tmp/pitborn-L8-donor.glb characters/pitborn/pilot-L8/pitborn-L8.glb
+          cp /tmp/pitborn-L8-donor.json characters/pitborn/pilot-L8/build.json
+          cp /tmp/pitborn-L8-donor-front.png characters/pitborn/pilot-L8/front.png
+          cp /tmp/pitborn-L8-donor-right.png characters/pitborn/pilot-L8/right.png
+          cp /tmp/pitborn-L8-donor-back.png characters/pitborn/pilot-L8/back.png
+          cp /tmp/pitborn-L8-donor-left.png characters/pitborn/pilot-L8/left.png
+          sha256sum characters/pitborn/pilot-L8/pitborn-L8.glb > characters/pitborn/pilot-L8/SHA256SUMS
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pitborn-L8-elite-donor-pilot
+          path: characters/pitborn/pilot-L8/
+          retention-days: 30
+      - name: Commit pilot to character branch
+        run: |
+          git config user.name "Frankendom Character Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase origin pitborn-l2-l10
+          git add -f characters/pitborn/pilot-L8/pitborn-L8.glb
+          git add characters/pitborn/pilot-L8/build.json characters/pitborn/pilot-L8/front.png characters/pitborn/pilot-L8/right.png characters/pitborn/pilot-L8/back.png characters/pitborn/pilot-L8/left.png characters/pitborn/pilot-L8/SHA256SUMS
+          git commit -m "Build Pitborn L8 elite donor pilot [skip ci]"
+          git push origin HEAD:pitborn-l2-l10
