@@ -1,0 +1,49 @@
+name: Pitborn L8 TRELLIS donor
+
+on:
+  push:
+    branches: [pitborn-l2-l10]
+    paths:
+      - ".github/workflows/pitborn-l8-trellis.yml"
+      - "scripts/pitborn/trellis_l8.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  reconstruct:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: pitborn-l2-l10
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install "gradio_client>=2.0.0"
+      - name: Reconstruct L8 at high settings
+        run: |
+          python scripts/pitborn/trellis_l8.py \
+            --image characters/pitborn/generated/donor/L8-reference-v2.png \
+            --out characters/pitborn/generated/donor/L8-trellis-raw.glb \
+            --receipt characters/pitborn/generated/donor/L8-trellis-raw.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pitborn-L8-trellis-raw
+          path: |
+            characters/pitborn/generated/donor/L8-trellis-raw.glb
+            characters/pitborn/generated/donor/L8-trellis-raw.json
+          retention-days: 30
+      - name: Commit donor and receipt
+        run: |
+          git config user.name "Frankendom Character Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase origin pitborn-l2-l10
+          git add characters/pitborn/generated/donor/L8-trellis-raw.glb
+          git add characters/pitborn/generated/donor/L8-trellis-raw.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Generate Pitborn L8 TRELLIS donor [skip ci]"
+            git push origin HEAD:pitborn-l2-l10
+          fi
