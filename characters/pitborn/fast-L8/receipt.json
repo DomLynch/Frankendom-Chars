@@ -9,5 +9,9 @@
   "generation_seconds": 47.8,
   "extraction_seconds": 36.1,
   "source_reference": "characters/pitborn/generated/donor/L8-reference-v2.png",
-  "note": "This is the reconstructed visual donor, not yet the final rigged Pitborn export."
+  "note": "This is the reconstructed visual donor, not yet the final rigged Pitborn export.",
+  "hf_job_id": "6abb697f42d78e1d92a6c68a",
+  "glb_bytes": 5597688,
+  "glb_sha256": "1f0b7b38119fe3ac13445df489eebe8637caa12db4efff6bd3d33f8927371bd6",
+  "repo_commit": "71449a7397fbadce00868087ba00f0d72594ac7a"
 }
