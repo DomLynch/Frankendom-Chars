@@ -1,0 +1,13 @@
+{
+  "rank": 8,
+  "purpose": "fast visual review donor",
+  "trellis_resolution": 1024,
+  "sampling_steps": 12,
+  "decimation_target": 100000,
+  "texture_size": 2048,
+  "seed": 290929,
+  "generation_seconds": 47.8,
+  "extraction_seconds": 36.1,
+  "source_reference": "characters/pitborn/generated/donor/L8-reference-v2.png",
+  "note": "This is the reconstructed visual donor, not yet the final rigged Pitborn export."
+}
