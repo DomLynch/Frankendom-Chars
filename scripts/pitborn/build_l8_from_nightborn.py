@@ -34,8 +34,11 @@ def upload(path):
     if not j.get("success"): raise RuntimeError(j)
     return j["files"][0]["url"].rstrip("/")+"/download"
 
-pit=Path("/tmp/pitborn.glb"); donor=Path("/tmp/nightborn-L8.glb")
-download(PIT_URL,pit); download(DONOR_URL,donor)
+pit=Path("/tmp/pitborn.glb")
+donor=Path(os.environ.get("PITBORN_L8_DONOR","/tmp/nightborn-L8.glb"))
+download(PIT_URL,pit)
+if not donor.exists():
+    download(DONOR_URL,donor)
 
 bpy.ops.wm.read_factory_settings(use_empty=True)
 bpy.ops.import_scene.gltf(filepath=str(pit))
