@@ -57,7 +57,7 @@ jobs:
           git config user.name "Frankendom Character Builder"
           git config user.email "actions@users.noreply.github.com"
           git pull --rebase origin pitborn-l2-l10
-          git add characters/pitborn/generated/donor/L8-trellis-raw.glb
+          git add -f characters/pitborn/generated/donor/L8-trellis-raw.glb
           git add characters/pitborn/generated/donor/L8-trellis-raw.sha256
           git add characters/pitborn/generated/trellis-preview
           git commit -m "Ingest and render Pitborn L8 TRELLIS donor [skip ci]"
