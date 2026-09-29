@@ -1,0 +1,64 @@
+name: Ingest Pitborn L8 TRELLIS donor
+
+on:
+  push:
+    branches: [pitborn-l2-l10]
+    paths:
+      - "characters/pitborn/staging/L8-trellis-url.txt"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: pitborn-l2-l10
+
+      - name: Download donor
+        run: |
+          URL="$(cat characters/pitborn/staging/L8-trellis-url.txt)"
+          mkdir -p characters/pitborn/generated/donor
+          curl -fL --retry 4 --retry-delay 3 "$URL" -o characters/pitborn/generated/donor/L8-trellis-raw.glb
+          sha256sum characters/pitborn/generated/donor/L8-trellis-raw.glb | tee characters/pitborn/generated/donor/L8-trellis-raw.sha256
+          ls -lh characters/pitborn/generated/donor/L8-trellis-raw.glb
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install Blender Python and headless libraries
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y libegl1 libgl1 libx11-6 libxi6 libxrender1 libxfixes3 libxkbcommon0 xvfb
+          python -m pip install --upgrade pip
+          python -m pip install "bpy==5.2.2"
+
+      - name: Render actual donor
+        run: |
+          mkdir -p characters/pitborn/generated/trellis-preview
+          xvfb-run -a python scripts/pitborn/render_trellis_donor.py             --model characters/pitborn/generated/donor/L8-trellis-raw.glb             --out characters/pitborn/generated/trellis-preview
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pitborn-L8-trellis-ingested
+          path: |
+            characters/pitborn/generated/donor/L8-trellis-raw.glb
+            characters/pitborn/generated/donor/L8-trellis-raw.sha256
+            characters/pitborn/generated/trellis-preview/
+          retention-days: 30
+
+      - name: Commit model and previews
+        run: |
+          git config user.name "Frankendom Character Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase origin pitborn-l2-l10
+          git add characters/pitborn/generated/donor/L8-trellis-raw.glb
+          git add characters/pitborn/generated/donor/L8-trellis-raw.sha256
+          git add characters/pitborn/generated/trellis-preview
+          git commit -m "Ingest and render Pitborn L8 TRELLIS donor [skip ci]"
+          git push origin HEAD:pitborn-l2-l10
