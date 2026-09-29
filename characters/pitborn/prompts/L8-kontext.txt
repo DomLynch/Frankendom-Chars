@@ -1,0 +1,9 @@
+Preserve the exact same Pitborn character identity and body proportions from the input: the tall, heavy, forward-hunched orc-blooded arena brute, same skin tone, tusks, head proportions, muscular mass and long limbs. Do not make him a different species, bodybuilder, knight, demon, or oversized fantasy monster.
+
+Turn him into a clean full-body character reconstruction reference for rank L8. Repose him into a relaxed neutral A-pose, arms separated from the torso about 45 degrees, open hands with separated fingers, legs shoulder-width apart, both feet fully visible. Rotate to a clear front three-quarter view. Entire body centered and uncropped.
+
+L8 armour direction: grounded brutal medieval arena armour, blackened forged steel with believable wear, hammer marks, scratches and edge polishing. Full armour coverage on shoulders, upper arms, forearms, torso, hips, thighs, knees and shins while preserving clear articulation gaps at shoulders, elbows, groin and knees. Closed gladiator-style helmet: compact fitted dome, narrow visor slit/cage, cheek protection and a short restrained arena crest. NO horns (reserved for L9). NO crown (reserved for L10). Strong brutal silhouette but not bulky plate-knight proportions.
+
+Use dark worn leather only at articulation and straps. Add a few small deep-ruby inset stones as elite accents, physically set into metal, non-emissive. Retain one or two small old-bone trophy details to keep Pitborn identity. No glowing magic, no oversized spikes, no cape, no cloth skirt hiding the thighs.
+
+Remove the weapon for reconstruction. Plain neutral light grey studio background, even soft lighting, no arena, no spectators, no smoke, no text, no props, no dramatic perspective. High-detail realistic PBR concept, believable forged metal and skin, production character reference quality.
