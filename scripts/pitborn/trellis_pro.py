@@ -60,9 +60,20 @@ while time.time() < deadline:
         c.httpx_kwargs.pop("follow_redirects", None)
         c.predict(api_name="/start_session")
         print("AUTH_SESSION_OK", attempt, flush=True)
+        import base64
+        data_url = "data:image/png;base64," + base64.b64encode(rgba.read_bytes()).decode("ascii")
+        filedata = {
+            "path": None,
+            "url": data_url,
+            "size": rgba.stat().st_size,
+            "orig_name": rgba.name,
+            "mime_type": "image/png",
+            "is_stream": False,
+            "meta": {"_type": "gradio.FileData"},
+        }
         t = time.time()
         c.predict(
-            image=handle_file(str(rgba)),
+            image=filedata,
             seed=290929,
             resolution="1536",
             ss_guidance_strength=7.5,
