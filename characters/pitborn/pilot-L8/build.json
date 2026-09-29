@@ -1,0 +1,27 @@
+{
+  "source_pitborn_sha256": "f202ebf6d119c08f37259965d1e34f4d5debc253631a765834693286461de86a",
+  "source_donor_sha256": "ac3fe3d9618916a55d551580777fdb6c455e98596d39006d8dc4e4b8451065e8",
+  "output_sha256": "ae4e3359849e6e3fcd17b8a69da39505cf39a111c7c7c722f148fe2ef1ece3cf",
+  "output_bytes": 11767080,
+  "pitborn_bones": 65,
+  "donor_draws": [
+    "L8_ArmLame",
+    "L8_ArmLame.001",
+    "L8_ArmLame.002",
+    "L8_ArmLame.003",
+    "L8_ArmLame.004",
+    "L8_ArmLame.005",
+    "L8_ArmLame.006",
+    "L8_ArmLame.007",
+    "L8_ArmLame.008",
+    "L8_ArmLame.009",
+    "L8_ArmLame.010",
+    "L8_ArmLame.011",
+    "L8_Armour",
+    "L8_ArmouredArmsAndGauntlets",
+    "L8_ClosedHelmet",
+    "L8_CompleteJointCover"
+  ],
+  "fit_scale": 1.0970876619056895,
+  "action_count": 25
+}
