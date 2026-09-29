@@ -1,0 +1,15 @@
+EDIT THE ARMOUR ONLY. KEEP THE EXACT SAME CHARACTER BODY, POSE, SCALE, CAMERA AND PROPORTIONS FROM THE INPUT IMAGE.
+
+This is Pitborn L8. Do NOT make him more human, more heroic, taller, shorter, wider, slimmer, cleaner or more upright. Do not change skin colour or face proportions except where the helmet covers them.
+
+MANDATORY CORRECTIONS:
+1. CLOSED HELMET: completely enclose the face with a brutal forged gladiator/execution cage. Narrow dark eye slit plus 3–5 heavy vertical visor bars, cheek/jaw plates and neck guard. NO open human face. NO horns. NO crown.
+2. FULL UPPER-ARM COVERAGE: cover both exposed biceps/triceps with articulated blackened steel rerebraces / overlapping plates. No bare upper-arm skin.
+3. FULL THIGH COVERAGE: remove the hanging cloth/skirt panels. Replace them with articulated blackened-steel thigh shells/tassets that leave only narrow joint gaps at groin and knees. No bare thigh skin.
+4. PITBORN, NOT KNIGHT: make the armour asymmetrical, crude and pit-forged. Left pauldron larger and layered; right smaller and battered. Torso built from overlapping hammered plates rather than one smooth heroic breastplate.
+5. MATERIAL: rough blackened forged steel with dents, hammer texture, scratches, heat-darkened seams, worn bright edges. Less clean, less polished, more brutal.
+6. IDENTITY ACCENTS: add 2–3 small old bone/tusk trophies lashed into the chest/shoulder metal and several crude iron rings. Add only 3–5 SMALL deep-ruby stones physically inset into metal. Dark mineral red, non-emissive.
+7. Keep forearm armour, greaves, knees and boots. Preserve clear articulation gaps and believable mobility.
+8. NO cape, NO long cloth skirt, NO Roman legionary styling, NO smooth superhero anatomy armour, NO ornate paladin decoration, NO giant fantasy spikes.
+
+The finished image should read as a savage arena champion upgraded into elite L8 blackened steel, not a knight. Realistic PBR dark-fantasy production concept, gritty medieval construction, neutral grey studio background, full body uncropped.
