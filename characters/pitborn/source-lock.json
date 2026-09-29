@@ -1,0 +1,58 @@
+{
+  "source_repository": "DomLynch/RPG-game",
+  "source_ref": "codex/01a09a76/task-1",
+  "destination_repository": "DomLynch/Frankendom-Chars",
+  "destination_branch": "pitborn-l2-l10",
+  "locked_at": "2026-09-29",
+  "files": [
+    {
+      "path": "src/assets/pitborn.glb",
+      "git_blob_sha": "9d8108a8192ea3f8cbab1393ad4ea40641e21e1e",
+      "bytes": 6046748,
+      "sha256": "f202ebf6d119c08f37259965d1e34f4d5debc253631a765834693286461de86a"
+    },
+    {
+      "path": "src/assets/source/parts/body_pitborn.glb",
+      "git_blob_sha": "6b1d26d718010be496edbceed642f2a43447af6a"
+    },
+    {
+      "path": "src/assets/source/parts/level1_pitborn.glb",
+      "git_blob_sha": "c8833e4972c81252f89f154a55a4d980a41fa700"
+    },
+    {
+      "path": "src/assets/weapons/cleaver/cleaver.glb",
+      "git_blob_sha": "c7f505c3dc955f7acc3269b59dd941065d6e37f0"
+    },
+    {
+      "path": "public/game/img/pitborn.webp",
+      "git_blob_sha": "02ff090d137230a59afc59de76ea7a1da4cdf5b1"
+    },
+    {
+      "path": "public/legends/pitborn-8.webp",
+      "git_blob_sha": "4d279fc76cfecc47a4c6e357dd7b4160f6830621"
+    }
+  ],
+  "protected_build_contract": {
+    "scale": 1.13,
+    "hunch": [
+      [
+        "spine_02",
+        7
+      ],
+      [
+        "spine_03",
+        7
+      ],
+      [
+        "neck_01",
+        -7
+      ],
+      [
+        "Head",
+        -6
+      ]
+    ],
+    "weapon": "cleaver",
+    "preserve_l1": true
+  }
+}
