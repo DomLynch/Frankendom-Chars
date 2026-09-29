@@ -1,3 +1,6 @@
+# /// script
+# dependencies = ["gradio_client==2.7.1","huggingface_hub>=1.33.0","Pillow>=12.0","requests>=2.32.0"]
+# ///
 #!/usr/bin/env python3
 import json, os, re, time
 from pathlib import Path
