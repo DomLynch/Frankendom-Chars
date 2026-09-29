@@ -1,0 +1,203 @@
+{
+  "source": {
+    "sha256": "f202ebf6d119c08f37259965d1e34f4d5debc253631a765834693286461de86a",
+    "bytes": 6046748,
+    "skins": 16,
+    "animations": 25
+  },
+  "candidate": {
+    "sha256": "651eab7c57cbe68ab8f8889b6028ea588f597be46021e5c1522a1998213cd32a",
+    "bytes": 6614312,
+    "skins": 1,
+    "animations": 25,
+    "materials": [
+      "Antique brass",
+      "Pitborn L8 \u00b7 Blackened Steel",
+      "Pitborn L8 \u00b7 Dark Pit Leather",
+      "Pitborn L8 \u00b7 Hammered Edge",
+      "Pitborn L8 \u00b7 Deep Ruby",
+      "WeaponCleaver",
+      "WeaponCleaverShaft",
+      "Pitborn L8 \u00b7 Old Bone",
+      "Bone",
+      "BoneWorn",
+      "Face",
+      "Gambeson",
+      "Heraldry",
+      "Leather",
+      "Photo",
+      "PhotoEyes",
+      "PhotoTeeth",
+      "Skin",
+      "Steel",
+      "Wrap"
+    ]
+  },
+  "rig": {
+    "source_joint_names": 65,
+    "candidate_joint_names": 65,
+    "missing_joints": [],
+    "extra_joints": [],
+    "preserved": true
+  },
+  "animations": {
+    "missing": [],
+    "extra": [],
+    "per_animation": {
+      "Armed": {
+        "channel_count_source": 65,
+        "channel_count_output": 65,
+        "exact": true,
+        "max_abs": 7.823107353033265e-07
+      },
+      "ArmedWalk": {
+        "channel_count_source": 65,
+        "channel_count_output": 65,
+        "exact": false,
+        "max_abs": 1.9990992546081543
+      },
+      "Attack": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.9777565598487854
+      },
+      "BlockImpact": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.3932805061340332
+      },
+      "Death": {
+        "channel_count_source": 65,
+        "channel_count_output": 65,
+        "exact": true,
+        "max_abs": 7.972121238708496e-07
+      },
+      "Death_QuietOne": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.9503557682037354
+      },
+      "Death_RunThrough": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.9693806171417236
+      },
+      "Death_SplitCrown": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.8373790979385376
+      },
+      "Deflected": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.7809468507766724
+      },
+      "Draw": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.399694561958313
+      },
+      "Fin_RunThrough": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.9091433882713318
+      },
+      "Guard": {
+        "channel_count_source": 65,
+        "channel_count_output": 65,
+        "exact": true,
+        "max_abs": 7.767957868054509e-07
+      },
+      "Heavy": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.9778053164482117
+      },
+      "Hit": {
+        "channel_count_source": 65,
+        "channel_count_output": 65,
+        "exact": false,
+        "max_abs": 1.983295202255249
+      },
+      "Idle": {
+        "channel_count_source": 65,
+        "channel_count_output": 65,
+        "exact": true,
+        "max_abs": 7.445923984050751e-07
+      },
+      "Jog": {
+        "channel_count_source": 65,
+        "channel_count_output": 65,
+        "exact": true,
+        "max_abs": 7.441267371177673e-07
+      },
+      "Kick": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.7289742827415466
+      },
+      "Parry": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.2741026878356934
+      },
+      "Return": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.8357080221176147
+      },
+      "Riposte": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": false,
+        "max_abs": 1.9510935544967651
+      },
+      "Roll": {
+        "channel_count_source": 65,
+        "channel_count_output": 65,
+        "exact": false,
+        "max_abs": 1.999493956565857
+      },
+      "Run": {
+        "channel_count_source": 65,
+        "channel_count_output": 65,
+        "exact": true,
+        "max_abs": 7.436610758304596e-07
+      },
+      "StrafeLeft": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": true,
+        "max_abs": 7.823107353033265e-07
+      },
+      "StrafeRight": {
+        "channel_count_source": 66,
+        "channel_count_output": 66,
+        "exact": true,
+        "max_abs": 7.823107353033265e-07
+      },
+      "Walk": {
+        "channel_count_source": 65,
+        "channel_count_output": 65,
+        "exact": false,
+        "max_abs": 1.9990992546081543
+      }
+    },
+    "exact": false
+  },
+  "l8_materials_present": true,
+  "pilot_structural_pass": true,
+  "pilot_acceptance_pass": false
+}
