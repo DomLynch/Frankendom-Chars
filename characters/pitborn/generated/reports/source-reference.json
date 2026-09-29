@@ -1,0 +1,22 @@
+{
+  "source": "work/pitborn/pitborn.glb",
+  "source_sha256": "f202ebf6d119c08f37259965d1e34f4d5debc253631a765834693286461de86a",
+  "output": "characters/pitborn/generated/donor/Pitborn-source-exact.png",
+  "output_sha256": "aac29389932e03b1ab9e10bf64f50cc419f3da27aba989319707c1dc52429590",
+  "bytes": 676282,
+  "armature": "Armature",
+  "bones": 65,
+  "action": "Armed",
+  "bounds": [
+    [
+      -0.9510578513145447,
+      -0.9999999403953552,
+      -1.0
+    ],
+    [
+      0.9510578513145447,
+      0.9999999403953552,
+      1.722602367401123
+    ]
+  ]
+}
