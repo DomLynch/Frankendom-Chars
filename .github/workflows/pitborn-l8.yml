@@ -5,7 +5,8 @@ on:
     branches: [pitborn-l2-l10]
     paths:
       - ".github/workflows/pitborn-l8.yml"
-      - "scripts/pitborn/**"
+      - "scripts/pitborn/build_l8.py"
+      - "scripts/pitborn/validate_l8.py"
       - "characters/pitborn/source-lock.json"
   workflow_dispatch:
 
