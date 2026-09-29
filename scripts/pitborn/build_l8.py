@@ -334,7 +334,7 @@ def render_views(arm, out_dir: Path):
     cam_data.lens=62
 
     scene=bpy.context.scene
-    scene.render.engine="BLENDER_EEVEE_NEXT"
+    scene.render.engine="BLENDER_EEVEE"
     scene.render.resolution_x=768; scene.render.resolution_y=768; scene.render.resolution_percentage=100
     scene.render.image_settings.file_format="PNG"
     scene.render.film_transparent=False
