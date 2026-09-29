@@ -6,7 +6,7 @@ import json, os, re, time
 from pathlib import Path
 
 import requests
-from gradio_client import Client, handle_file
+from gradio_client import Client
 from PIL import Image
 
 TOKEN = os.environ["HF_TOKEN"]
