@@ -16,7 +16,7 @@ permissions:
 jobs:
   reference:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
         with:
@@ -49,6 +49,17 @@ jobs:
             --out characters/pitborn/generated/donor/Pitborn-source-exact.png \
             --report characters/pitborn/generated/reports/source-reference.json
 
+      - name: Commit exact source render first
+        run: |
+          git config user.name "Frankendom Character Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git add characters/pitborn/generated/donor/Pitborn-source-exact.png
+          git add characters/pitborn/generated/reports/source-reference.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Render exact shipped Pitborn reference [skip ci]"
+            git push origin HEAD:pitborn-l2-l10
+          fi
+
       - name: Generate L8 v2 reconstruction reference
         run: |
           python scripts/pitborn/kontext_l8.py \
@@ -57,9 +68,11 @@ jobs:
             --out characters/pitborn/generated/donor/L8-reference-v2.png \
             --seed 290927 \
             --guidance 3.2 \
-            --steps 30
+            --steps 30 \
+            --timeout-minutes 12
 
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: pitborn-L8-kontext-v2
           path: |
@@ -67,16 +80,15 @@ jobs:
             characters/pitborn/generated/donor/L8-reference-v2.png
             characters/pitborn/generated/donor/L8-reference-v2.kontext.json
             characters/pitborn/generated/reports/source-reference.json
+          if-no-files-found: warn
           retention-days: 30
 
-      - name: Commit source/reference evidence
+      - name: Commit v2 reference and receipt
+        if: success()
         run: |
-          git config user.name "Frankendom Character Builder"
-          git config user.email "actions@users.noreply.github.com"
-          git add characters/pitborn/generated/donor/Pitborn-source-exact.png
+          git pull --rebase origin pitborn-l2-l10
           git add characters/pitborn/generated/donor/L8-reference-v2.png
           git add characters/pitborn/generated/donor/L8-reference-v2.kontext.json
-          git add characters/pitborn/generated/reports/source-reference.json
           if ! git diff --cached --quiet; then
             git commit -m "Generate Pitborn L8 Kontext v2 reference [skip ci]"
             git push origin HEAD:pitborn-l2-l10
