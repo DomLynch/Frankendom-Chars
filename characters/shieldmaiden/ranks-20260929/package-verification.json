@@ -1,0 +1,15 @@
+{
+  "archive": "shieldmaiden-L2-L10-candidates.zip",
+  "sha256": "873fd00ef840bc6144fa6901f612764c4952cfb08cbea4c4c8a0ea28fb52a3ac",
+  "bytes": 322725333,
+  "zip_crc": "pass",
+  "nine_model_hashes": "pass",
+  "original_unchanged": true,
+  "scene_embedded_model_hashes": "9/9 verified",
+  "counts": {
+    "built": 9,
+    "technically_validated": 9,
+    "visually_accepted_as_candidates": 3,
+    "packaged": 9
+  }
+}

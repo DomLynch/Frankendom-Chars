@@ -1,0 +1,65 @@
+[
+  {
+    "rank": "L2",
+    "errors_exactly_match_original": true,
+    "errors": 95,
+    "warnings": 18,
+    "new_warning": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS"
+  },
+  {
+    "rank": "L3",
+    "errors_exactly_match_original": true,
+    "errors": 95,
+    "warnings": 18,
+    "new_warning": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS"
+  },
+  {
+    "rank": "L4",
+    "errors_exactly_match_original": true,
+    "errors": 95,
+    "warnings": 18,
+    "new_warning": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS"
+  },
+  {
+    "rank": "L5",
+    "errors_exactly_match_original": true,
+    "errors": 95,
+    "warnings": 18,
+    "new_warning": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS"
+  },
+  {
+    "rank": "L6",
+    "errors_exactly_match_original": true,
+    "errors": 95,
+    "warnings": 18,
+    "new_warning": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS"
+  },
+  {
+    "rank": "L7",
+    "errors_exactly_match_original": true,
+    "errors": 95,
+    "warnings": 18,
+    "new_warning": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS"
+  },
+  {
+    "rank": "L8",
+    "errors_exactly_match_original": true,
+    "errors": 95,
+    "warnings": 16,
+    "new_warning": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS"
+  },
+  {
+    "rank": "L9",
+    "errors_exactly_match_original": true,
+    "errors": 95,
+    "warnings": 16,
+    "new_warning": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS"
+  },
+  {
+    "rank": "L10",
+    "errors_exactly_match_original": true,
+    "errors": 95,
+    "warnings": 16,
+    "new_warning": "NODE_SKINNED_MESH_LOCAL_TRANSFORMS"
+  }
+]

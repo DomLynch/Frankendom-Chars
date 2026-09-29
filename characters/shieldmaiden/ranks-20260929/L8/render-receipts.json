@@ -1,0 +1,162 @@
+[
+  {
+    "file": "L8-front.png",
+    "image_sha256": "8d3bcb1a4d1d3ab61b783fe5bee72919d96c6a215ebacce8237595ddc218ecba",
+    "model_sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+    "clip": "Armed",
+    "frame": 14,
+    "camera": [
+      -0.16478846967220306,
+      -5.991508483886719,
+      0.8359808921813965
+    ],
+    "ortho_scale": 2.1348695755004883,
+    "figure_height_px": null,
+    "scale": 1,
+    "hunch_degrees": {}
+  },
+  {
+    "file": "L8-back.png",
+    "image_sha256": "652ff050bb460d36bde4182fb8e1f0e55ea3771bab2e74187e375221544778ab",
+    "model_sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+    "clip": "Armed",
+    "frame": 14,
+    "camera": [
+      -0.16478846967220306,
+      6.008491516113281,
+      0.8359808921813965
+    ],
+    "ortho_scale": 2.1348695755004883,
+    "figure_height_px": null,
+    "scale": 1,
+    "hunch_degrees": {}
+  },
+  {
+    "file": "L8-left.png",
+    "image_sha256": "ce79494823fae246b38aa9d8b88e0dda473b684f83d2423d148793786fb2d0ee",
+    "model_sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+    "clip": "Armed",
+    "frame": 14,
+    "camera": [
+      5.835211753845215,
+      0.008491754531860352,
+      0.8359808921813965
+    ],
+    "ortho_scale": 1.9730470180511475,
+    "figure_height_px": null,
+    "scale": 1,
+    "hunch_degrees": {}
+  },
+  {
+    "file": "L8-right.png",
+    "image_sha256": "77a4aef6d3420a372f0285acbfcbc4bdaeeea33724abab7562dc8c7f1bf1cd6a",
+    "model_sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+    "clip": "Armed",
+    "frame": 14,
+    "camera": [
+      -6.164788246154785,
+      0.008491754531860352,
+      0.8359808921813965
+    ],
+    "ortho_scale": 1.973047137260437,
+    "figure_height_px": null,
+    "scale": 1,
+    "hunch_degrees": {}
+  },
+  {
+    "file": "L8-head.png",
+    "image_sha256": "a387a049963cd586197b891104353ac8fc7ed241df77bc64dbd6a04182dbd8bd",
+    "model_sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+    "clip": "Armed",
+    "frame": 14,
+    "camera": [
+      0.006993278861045837,
+      -5.890928268432617,
+      1.4711120128631592
+    ],
+    "ortho_scale": 0.7873508930206299,
+    "figure_height_px": null,
+    "scale": 1,
+    "hunch_degrees": {}
+  },
+  {
+    "file": "L8-attack.png",
+    "image_sha256": "218bfc9630acd5c2cdc1242ba2290ad172ad1ea6655ec70dd2247f79219a1a73",
+    "model_sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+    "clip": "Attack",
+    "frame": 12,
+    "camera": [
+      0.03157508373260498,
+      -6.150558948516846,
+      0.8210576176643372
+    ],
+    "ortho_scale": 1.8471945524215698,
+    "figure_height_px": null,
+    "scale": 1,
+    "hunch_degrees": {}
+  },
+  {
+    "file": "L8-heavy.png",
+    "image_sha256": "9f178e0dd6ad7a9f382e7cc61a3ccb86e2508ac9152e09fad846c7336cc34f7e",
+    "model_sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+    "clip": "Heavy",
+    "frame": 12,
+    "camera": [
+      0.0006101280450820923,
+      -6.232600212097168,
+      0.8149677515029907
+    ],
+    "ortho_scale": 1.8331634998321533,
+    "figure_height_px": null,
+    "scale": 1,
+    "hunch_degrees": {}
+  },
+  {
+    "file": "L8-guard.png",
+    "image_sha256": "a5e7fdcb39f1709abc0d0b66376115ebd293eeaa52826f0c784a2d88bc10cae9",
+    "model_sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+    "clip": "Guard",
+    "frame": 12,
+    "camera": [
+      -0.02912469208240509,
+      -6.015646934509277,
+      0.782037615776062
+    ],
+    "ortho_scale": 1.71246337890625,
+    "figure_height_px": null,
+    "scale": 1,
+    "hunch_degrees": {}
+  },
+  {
+    "file": "L8-kick.png",
+    "image_sha256": "672e5470a49688b97061f99d7ceb397fe2bac6b29baf7e33f17966890f059cd3",
+    "model_sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+    "clip": "Kick",
+    "frame": 12,
+    "camera": [
+      -0.11768294870853424,
+      -6.029849529266357,
+      0.8343603610992432
+    ],
+    "ortho_scale": 2.098412036895752,
+    "figure_height_px": null,
+    "scale": 1,
+    "hunch_degrees": {}
+  },
+  {
+    "file": "L8-fight.png",
+    "image_sha256": "faa5f8b47f4cf8a56057a22e586ea4d647554489b7ef400b5b43316e91f7691f",
+    "model_sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+    "clip": "Armed",
+    "frame": 14,
+    "camera": [
+      -0.16478846967220306,
+      -5.991508483886719,
+      0.8359808921813965
+    ],
+    "ortho_scale": 8.943424224853516,
+    "figure_height_px": 109.99999712775661,
+    "scale": 1,
+    "hunch_degrees": {}
+  }
+]

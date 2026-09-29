@@ -16,6 +16,10 @@
     [
       "python3",
       "scripts/pitborn/verify_rank_delivery.py"
+    ],
+    [
+      "python3",
+      "scripts/shieldmaiden/verify_rank_delivery.py"
     ]
   ]
 }

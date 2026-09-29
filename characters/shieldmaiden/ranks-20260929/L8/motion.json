@@ -1,0 +1,981 @@
+{
+  "model": "models/shieldmaiden-L8.glb",
+  "sha256": "1a3155c658b6cd0e02ee996262abc49da587d2c4ae97426dd6ab28051041da7d",
+  "sourceBinaryRigAnimationsPreserved": true,
+  "samples": [
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.002669600415248,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 0.2083333283662796,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0022948881548537,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 0.4166666567325592,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.007467110671333,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 0.6249999850988388,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0281941453123884,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 0.8333333134651184,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.030857346972437,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 1.041666641831398,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0240835132163193,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 1.2499999701976776,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.007465941767428,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 1.4583332985639572,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0038062256221902,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 1.6666666269302368,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.002669599841098,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9719611080294197,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0045508029653547,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0054705718194694,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9766307368106901,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.986181382400837,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.975814145438161,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9732086174301742,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9897149199756157,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9719611080294144,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.999132302813661,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9824950614991321,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9847249890026333,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9834538622415465,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9815516564481332,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9760736337420948,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9840674889441263,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.982866102249653,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9991323028136694,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9702002402863843,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8572330219593438,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.85815914614156,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8535374451458833,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8543800231153762,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8560711322973784,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8585325612492984,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8588670161251832,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8554573548999467,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.002669655756347,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0024215179306406,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0021390683321947,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.001918911593098,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0020914704884847,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.002315557000501,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0024958041417835,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.002585251427276,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.002669655756347,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9514586093211994,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.18333333730697632,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9287835571230307,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.36666667461395264,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.215298355605978,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.550000011920929,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9789104965769329,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.7333333492279053,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.7368458544228367,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.9166666865348816,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5461569763074343,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 1.100000023841858,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9159949555145819,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 1.2833333611488342,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.128756776333336,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 1.4666666984558105,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.124622071572426,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5952003314173302,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.2083333283662796,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5845078598611304,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.4166666567325592,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5554760997955066,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.6249999850988388,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5585911616638448,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.8333333134651184,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5809519595818395,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.041666641831398,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5778133974546655,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.2499999701976776,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5555813434095505,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.4583332985639572,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5672270058471716,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.6666666269302368,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5952004080392512,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.1577032209473357,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.951170996300387,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9910369877802594,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0643279645004213,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.129296154102721,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.182327887438768,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.1717436611015053,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0061364785439135,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.157703220947336,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.13434275988111,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0068268871935193,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8650334788802327,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.7881260586285497,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0890805151614584,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0843388620407195,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.120163835081576,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.141670398833321,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.1343427598811076,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.7431260275186875,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.7200308607801378,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6920196874430757,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6884620657333453,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.691349480753178,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6893293638572366,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6851794293829863,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.677675400831931,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6775883399101914,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.571223450282389,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6151535231922953,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6074368852011685,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6471008393836573,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6432292194086795,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6168429650829284,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6040013654026457,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.588009318035057,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.571223450282389,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.761808507448265,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.18333333730697632,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9718740141732138,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.36666667461395264,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9076050667573021,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.550000011920929,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.3426638749432906,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.7333333492279053,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.1741010641626275,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.9166666865348816,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.855022540223175,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.100000023841858,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4815707862268865,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.2833333611488342,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4007579944024833,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L8_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.4666666984558105,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3900795368057959,
+      "worstEdgeMidpoints": []
+    }
+  ],
+  "maxLongStretchedEdgeOccurrences": 0,
+  "status": "sampled deformation measurements; visual acceptance separate"
+}
