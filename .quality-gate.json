@@ -20,6 +20,10 @@
     [
       "python3",
       "scripts/shieldmaiden/verify_rank_delivery.py"
+    ],
+    [
+      "python3",
+      "scripts/shieldmaiden/verify_l1_delivery.py"
     ]
   ]
 }

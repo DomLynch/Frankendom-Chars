@@ -1,0 +1,2925 @@
+{
+  "model": "models/shieldmaiden-L1.glb",
+  "sha256": "0f16a94dec7326d8fe1b4f3b850990b1bf0a3d695d529d0af3060a276253fab1",
+  "sourceBinaryRigAnimationsPreserved": true,
+  "samples": [
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.033090023359278,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.2083333283662796,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0349986899090617,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.4166666567325592,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0330900377608467,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.6249999850988388,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.031148951321141,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.8333333134651184,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0330900052055703,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.041666641831398,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0349986833337212,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.2499999701976776,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.033090041454973,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.4583332985639572,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0311489628107264,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.6666666269302368,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0330900200088018,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0330900560771292,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0366817747499084,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0373193704308465,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.036854868120855,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0333106083574959,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0282606263981262,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0266890408740212,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0274615662055808,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0330900560771337,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0330900560771292,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0359022324321445,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0376259571833026,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0368428949614468,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.033839190303933,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0277271545773943,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.029065336941989,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0312619736939435,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.033090056077133,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0040987764207183,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0309938070186413,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0579818819861657,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.062974415519895,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0654714282942523,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0656146970886218,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0630256145448098,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0577251265444025,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.049601620626562,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0330900560771292,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.032691563480633,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0322547473630304,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0319167195980128,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0321817080480373,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0325265910617951,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0328086239611949,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.03295181229015,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0330900560771292,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0361293012689052,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.18333333730697632,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0375306228988712,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.36666667461395264,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0090331072305574,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.550000011920929,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 0.9864843791637994,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.7333333492279053,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0816472925516734,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.9166666865348816,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0921111557651433,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.100000023841858,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0454702047436382,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.2833333611488342,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 0.9990342370506929,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.4666666984558105,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 0.9956375881869367,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.959241690288156,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 0.2083333283662796,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.959558508046098,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 0.4166666567325592,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.964927260641252,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 0.6249999850988388,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9736307363816035,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 0.8333333134651184,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.968154764695339,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 1.041666641831398,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9663335094078123,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 1.2499999701976776,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.964927198416837,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 1.4583332985639572,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9600532355962978,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Armed",
+      "time": 1.6666666269302368,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9592416915472368,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9089271579024187,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9110968005243025,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9158079225864968,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9068437213578422,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9352461388749087,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9614521975970372,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.955027749153773,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.925795253058341,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Attack",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.908927157902414,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9175931509723123,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9696250020936052,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9244042075861967,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.957670425406628,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8991197034366052,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9382549079777067,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9246360983125548,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.922822549649203,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Heavy",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9175931509722945,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9241235308149987,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8140157226885056,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8074726173993085,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8143667268207422,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8156587924456065,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8147483861562566,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8134914639720032,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8129088114950946,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Guard",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8137332082419402,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9592417556528248,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9586093173752024,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9579765536630829,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.957526613238425,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.957876501075435,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.958363239553074,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.958789386054239,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9590160298836627,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Kick",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9592417556528248,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.859387765184716,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.18333333730697632,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8403601589744627,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.36666667461395264,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.1450799365264928,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.550000011920929,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8139351869975207,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.7333333492279053,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.707344352122569,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 0.9166666865348816,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4903619561136292,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 1.100000023841858,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8491803621400822,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 1.2833333611488342,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.086277596837088,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Skin",
+      "primitive": 1,
+      "clip": "Roll",
+      "time": 1.4666666984558105,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.0839123545291787,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.657248300524595,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.2083333283662796,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.7064875302851747,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.4166666567325592,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.7516388025930447,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.6249999850988388,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6818164509068079,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.8333333134651184,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.657248364002272,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.041666641831398,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.706487714802859,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.2499999701976776,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.7516388358794606,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.4583332985639572,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6818164938886293,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.6666666269302368,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6572483653821115,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.657248357225029,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6536418767913812,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6516739120195092,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6536976706506814,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6551258737288492,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.64499564342672,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.647085210915136,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6441237990524953,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6572483572250223,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.657248357225029,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.655469667127564,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6513430167445373,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.654181239563442,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6528179428761567,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6431470293872399,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6460870923860966,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.651793291455366,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6572483572250296,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.382385254525909,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1548103407875001,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2354634770647006,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2681082111919622,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2922190838820642,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3016203666317974,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2986477693419665,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2862189805653903,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2689588303128696,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.657248357225029,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6572539939943867,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6572638954791807,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6572728598402837,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6572657760661527,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6572573960339987,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6572519125712015,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.657249820693209,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.657248357225029,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.194190747872907,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.18333333730697632,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.188181173659954,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.36666667461395264,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5221135106004655,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.550000011920929,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.3913336293256386,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.7333333492279053,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.8162930236354071,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.9166666865348816,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6132517704403067,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.100000023841858,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.9023635370509466,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.2833333611488342,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.7150861443717447,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Photo",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.4666666984558105,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2971514950184895,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1018608814638737,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.2083333283662796,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1004065617428977,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.4166666567325592,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0804760922050907,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.6249999850988388,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0958183066027178,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.8333333134651184,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1018611980997963,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.041666641831398,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1004065376308,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.2499999701976776,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0804760883654236,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.4583332985639572,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0958186718102205,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.6666666269302368,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1018608866231627,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1018608978091056,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1129709359954312,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1164608382618046,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1136272521302435,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1027567413710138,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.094027802914951,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0902912579113708,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0927340710807636,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1018608978091056,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1018608978091056,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1097397219789769,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1179696090362103,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1134274043464605,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1043962935871792,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0937556219203104,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0953428505152014,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0985546951213083,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1018608978091233,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.096570296099373,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 0.9812237718774813,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.022131669642345,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0375160062440623,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0400723850667968,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0393412669065165,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0315221612094871,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.005886630470631,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 0.9835171191574678,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1018608978091056,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1006078675978093,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0993294954555834,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0983950833266196,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0991238782421031,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1001146517280016,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1009663602977198,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1014153778434868,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1018608978091056,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2715343013301912,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.18333333730697632,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2567900337761617,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.36666667461395264,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0329013820415052,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.550000011920929,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3548437421965331,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.7333333492279053,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0064049528159962,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.9166666865348816,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0013012191137154,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.100000023841858,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0492651603786654,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.2833333611488342,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.011201751099104,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoEyes",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.4666666984558105,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 0.98509295449338,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.396334792900337,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.2083333283662796,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.411160778490219,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.4166666567325592,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.463193634798061,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.6249999850988388,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4088836645886054,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.8333333134651184,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.396334944397454,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.041666641831398,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.411160964912076,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.2499999701976776,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.463193638011021,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.4583332985639572,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.408883587798042,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.6666666269302368,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3963347919400069,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3963348252565326,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4077742313058887,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.410535587016556,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4070904452471844,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3949913724958514,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.384508527885545,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.379086967404172,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.383741040131937,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3963348252565375,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3963348252565326,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4035465017024717,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4102311820932978,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.404646152752035,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.394458956025324,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3824310776101807,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3854691767615446,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3908032704880233,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3963348252565408,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2765568952156454,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.0151145646499566,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1015961217470729,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1318168458144813,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1556213700182913,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1519777802489881,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1252224646935514,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1088909065016725,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.075698375245359,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3963348252565326,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3973402426816883,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3982784352699553,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3989122138551957,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.39842155392971,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3977122938741493,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3970615855790351,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.396702499455797,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3963348252565326,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6544255484364891,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.18333333730697632,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6281541037077953,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.36666667461395264,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1758302668455372,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.550000011920929,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 2.158560488951529,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.7333333492279053,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2893604565124612,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.9166666865348816,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1613448688287766,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.100000023841858,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4388471300802048,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.2833333611488342,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2762967039774724,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "PhotoTeeth",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.4666666984558105,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.1132570249945508,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.34577191348347,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.2083333283662796,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3403079294715265,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.4166666567325592,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3264212333297591,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.6249999850988388,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3302877123354113,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 0.8333333134651184,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3436210354002127,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.041666641831398,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3403807130680396,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.2499999701976776,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.326607562213418,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.4583332985639572,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3303775805351488,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Armed",
+      "time": 1.6666666269302368,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3457719220069282,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.568457433120624,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5809412255796838,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6207024917419495,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6266365641960576,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.627247091499326,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6179645795984627,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6170978420505508,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6092682079190732,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Attack",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.568457433120624,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5766909288568252,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5658284175051886,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6252300060977085,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5966322400497,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.6190114906091806,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5800183177425133,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5739009706449458,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5762564083046933,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Heavy",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5766909288568254,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.331978026277991,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4069417757761535,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4184080218531867,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4260896987629341,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4325479249464945,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4310744099577433,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.428452127616463,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.422254782981788,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Guard",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.4119284330064508,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3202591184282706,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.125,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3576708245785183,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.25,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3484536507338378,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.375,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3956230273556323,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.5,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3876056955829152,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.625,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.359010255880061,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.75,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.347410550382922,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 0.875,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3343279957799266,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Kick",
+      "time": 1.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3202591184282721,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.0,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5321909794358572,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.18333333730697632,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3435796333429533,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.36666667461395264,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3907822571003448,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.550000011920929,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.7137284108778412,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.7333333492279053,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.7036461010581987,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 0.9166666865348816,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.5342771662813885,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.100000023841858,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.3315545966490843,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.2833333611488342,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.2176070095030138,
+      "worstEdgeMidpoints": []
+    },
+    {
+      "node": "Shieldmaiden_L1_Armour",
+      "primitive": 0,
+      "clip": "Roll",
+      "time": 1.4666666984558105,
+      "longStretchedEdgeOccurrences": 0,
+      "p99Stretch": 1.190694019492299,
+      "worstEdgeMidpoints": []
+    }
+  ],
+  "maxLongStretchedEdgeOccurrences": 0,
+  "status": "sampled deformation measurements; visual acceptance separate"
+}

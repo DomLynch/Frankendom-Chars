@@ -1,0 +1,47 @@
+[
+  {
+    "command": [
+      "python3",
+      "scripts/verify_repository.py"
+    ],
+    "exit": 0,
+    "summary": "PASS: 45 models, 66 previews, 6 archive receipts, 30 handover points; links/credential scan/205 Python syntax checks\n"
+  },
+  {
+    "command": [
+      "python3",
+      "-m",
+      "unittest",
+      "discover",
+      "-s",
+      "tests",
+      "-v"
+    ],
+    "exit": 0,
+    "summary": "test_symlink_rejected (test_fetch_assets.ArchiveSafety.test_symlink_rejected) ... ok\ntest_unsafe_member_rejects_entire_archive_before_writes (test_fetch_assets.ArchiveSafety.test_unsafe_member_rejects_entire_archive_before_writes) ... ok\ntest_valid_bundle_and_corruption (test_fetch_assets.ArchiveSafety.test_valid_bundle_and_corruption) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.003s\n\nOK\n"
+  },
+  {
+    "command": [
+      "python3",
+      "scripts/pitborn/verify_rank_delivery.py"
+    ],
+    "exit": 0,
+    "summary": "PASS: Pitborn L2-L10 preservation/deformation receipts and 90 model-linked previews\n"
+  },
+  {
+    "command": [
+      "python3",
+      "scripts/shieldmaiden/verify_rank_delivery.py"
+    ],
+    "exit": 0,
+    "summary": "PASS: nine Shieldmaiden candidates, exact source preservation, 54 poses each, 90 hash-linked views\n"
+  },
+  {
+    "command": [
+      "python3",
+      "scripts/shieldmaiden/verify_l1_delivery.py"
+    ],
+    "exit": 0,
+    "summary": "PASS: Shieldmaiden L1 original rig/clips, 54 poses, ten hash-linked views and scene receipt\n"
+  }
+]
