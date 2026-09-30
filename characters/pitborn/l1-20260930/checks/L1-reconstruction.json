@@ -1,0 +1,26 @@
+{
+  "rank": "L1",
+  "model_sha256": "afbb9993c54224e0113aadb77378dc47f813e73da9beaccbef6dc0ab104ad887",
+  "model_bytes": 5267428,
+  "reference_sha256": "a961504c5cd3f7ad99809c888f03ed290f31222a65aa32a63e439828018538c4",
+  "space_revision": "ebf60b20fc5a4607f90a1c11c0aab0ceeda5429d",
+  "parameters": {
+    "seed": 290938,
+    "resolution": "1024",
+    "ss_guidance_strength": 7.5,
+    "ss_guidance_rescale": 0.7,
+    "ss_sampling_steps": 12,
+    "ss_rescale_t": 5.0,
+    "shape_slat_guidance_strength": 7.5,
+    "shape_slat_guidance_rescale": 0.5,
+    "shape_slat_sampling_steps": 12,
+    "shape_slat_rescale_t": 3.0,
+    "tex_slat_guidance_strength": 1.0,
+    "tex_slat_guidance_rescale": 0.0,
+    "tex_slat_sampling_steps": 12,
+    "tex_slat_rescale_t": 3.0
+  },
+  "target_triangles": 100000,
+  "texture_size": 2048,
+  "elapsed_seconds": 49.1
+}

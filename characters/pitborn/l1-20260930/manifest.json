@@ -1,0 +1,178 @@
+{
+  "model_sha256": "77d0fb2f2f07b54e392d3d2a17d27335902b7c19618aaac88f2e6f5d441c734c",
+  "scene_sha256": "6231092f24bd407d35af1c7402ac8093755a41fc1e60b335243e4fad751dad04",
+  "files": {
+    "models/pitborn-L1.glb": {
+      "sha256": "77d0fb2f2f07b54e392d3d2a17d27335902b7c19618aaac88f2e6f5d441c734c",
+      "bytes": 25928964
+    },
+    "source/pitborn-L1-final.blend": {
+      "sha256": "6231092f24bd407d35af1c7402ac8093755a41fc1e60b335243e4fad751dad04",
+      "bytes": 12043360
+    },
+    "source/pitborn.glb": {
+      "sha256": "f202ebf6d119c08f37259965d1e34f4d5debc253631a765834693286461de86a",
+      "bytes": 6046748
+    },
+    "donors/L1.glb": {
+      "sha256": "afbb9993c54224e0113aadb77378dc47f813e73da9beaccbef6dc0ab104ad887",
+      "bytes": 5267428
+    },
+    "references/L1.png": {
+      "sha256": "a961504c5cd3f7ad99809c888f03ed290f31222a65aa32a63e439828018538c4",
+      "bytes": 2101602
+    },
+    "L1-review.jpg": {
+      "sha256": "c28a25357dc1b73b7a74a84cc5f4664725f5b42361bf38410f40663a28014e59",
+      "bytes": 233904
+    },
+    "README.md": {
+      "sha256": "9a4b9020e3e663af09e7ae1541d98f951788a07be9bdc8b7e3942a88798f719d",
+      "bytes": 3355
+    },
+    "job.json": {
+      "sha256": "77056f5da1463f24d43921ebb6c9a546f0212086884b386d7159468f8a19212d",
+      "bytes": 230
+    },
+    "final-job.json": {
+      "sha256": "be9895ab357ffd6e988d80f1ed7e484dbaf8b7c2708c8cb491f898b3c5102e97",
+      "bytes": 151
+    },
+    "download.json": {
+      "sha256": "55a8ed5397324eb5767b20f68ac28bd62519b5403665317fcc1376439de025f8",
+      "bytes": 113
+    },
+    "source/render_job.py": {
+      "sha256": "5d0f88a1edd205085fa97a5b334a065e9f69ac927570a4c141fa23c946d831ff",
+      "bytes": 1688
+    },
+    "source/render_rank.py": {
+      "sha256": "254e7a28789653da474161fd07a7b6b4267817bf0c34564dada9e17338c711d9",
+      "bytes": 5792
+    },
+    "source/job.py": {
+      "sha256": "3bc0849888b583e4cd505f65f93475bde4b5ea4c00d7fedfaec02677c8244f69",
+      "bytes": 1828
+    },
+    "source/smooth_weights.py": {
+      "sha256": "3630c5169fa295af92390025a2a1a8fe0e5f5bd646507a56c7f4139206374fc2",
+      "bytes": 2400
+    },
+    "source/fit_rank.py": {
+      "sha256": "0d11e56cc89366f41acc0ef4a3b26d2848cfe3214b6715c8cd374fabcf4a7ff2",
+      "bytes": 6996
+    },
+    "source/pack_preserved.py": {
+      "sha256": "2001c62ed843cfad94238152545cdcaa819a43e30dddf687ffb3f4b597894ea6",
+      "bytes": 10622
+    },
+    "source/repair_collar.py": {
+      "sha256": "e44c7b374defc6d9a062deb590252d4e3499e8c8ac1d093ff549331c031c2bd8",
+      "bytes": 1428
+    },
+    "source/motion_math.py": {
+      "sha256": "345ec74575fa2abb4f0960e0e1d43ee91aabe02139a654faf6ead9def87dafe3",
+      "bytes": 3205
+    },
+    "source/preserve_face.py": {
+      "sha256": "48aee36afd7ee75591896d45bf3da46d5361ff8a2c5ed938287cfb2ff419f384",
+      "bytes": 3618
+    },
+    "source/repair_l1.py": {
+      "sha256": "01be2074d29f3855c44d06cbdd390fb625df75dbf0ccd5e71f8734781256fe13",
+      "bytes": 4798
+    },
+    "source/reconstruct.py": {
+      "sha256": "0cd37bedd752b2924a50e6749e84fc8620de60816b91fab5c7b2d257a93620b8",
+      "bytes": 3604
+    },
+    "source/tether_fragments.py": {
+      "sha256": "7904f74411217cddd395fec54e10436e4e5cffc61660532f2f085b731f172a48",
+      "bytes": 2701
+    },
+    "source/check_candidate.py": {
+      "sha256": "01158eee1e1eeb82be7b29fd3ff2cebcda86e4740300d0ef915313332726cbf2",
+      "bytes": 4489
+    },
+    "checks/candidate-format.json": {
+      "sha256": "7b2758aec765d0d126c3a419045c59e8166b08beda04285d46739a22a5f5ea7e",
+      "bytes": 50560
+    },
+    "checks/L1-fit.json": {
+      "sha256": "db1123dc19ea257cc31bc4aac2bc30bb95effa75cdb8e714aa93f0b677882d5a",
+      "bytes": 334
+    },
+    "checks/L1-reconstruction.json": {
+      "sha256": "8209c29f5e2688e92e475c2def9abd3e7f86c202c7c05298684171666979efda",
+      "bytes": 846
+    },
+    "checks/pitborn-L1-motion.json": {
+      "sha256": "88a5bc4a5a1beca8d69bd82079d433aebce5c68f93fbb4e614aef9986c45c7a4",
+      "bytes": 108633
+    },
+    "checks/format-summary.json": {
+      "sha256": "ba3ccc100aca67262234f7f915c085cb660bfd8d1ce4b0f63d7ccf5702f7ff8e",
+      "bytes": 444
+    },
+    "checks/final-scene.json": {
+      "sha256": "f07affabec3acabb5022145797eb49ae2ef60c8c45fba4f12879180e50029ee0",
+      "bytes": 214
+    },
+    "checks/source-format.json": {
+      "sha256": "11a07f5fca7531d8313ad15a029f3dd375ef5f58a675a025651c050eca7e5b6c",
+      "bytes": 45549
+    },
+    "previews/L1/L1-guard.png": {
+      "sha256": "82ebfb949cd300c3cb986196dfc38682e22fe6cde5031e7fc7b99b5ab9979099",
+      "bytes": 303373
+    },
+    "previews/L1/L1-kick.png": {
+      "sha256": "c1a54f4d2ae3c39d0b98e68fc545cf7ca80de8670c732b46558fd18fb33cf7f2",
+      "bytes": 247546
+    },
+    "previews/L1/L1-back.png": {
+      "sha256": "445b69dd6dd02571e0a05624c6fb37295b5e100d4fe33c00d057a1435ff5415a",
+      "bytes": 254193
+    },
+    "previews/L1/L1-fight.png": {
+      "sha256": "989da2ef28785ef434cacaefa7b823b86e00fb176a8e86cd14342ae380fed3ea",
+      "bytes": 188898
+    },
+    "previews/L1/L1-left.png": {
+      "sha256": "60f8b0dbcf1f98a73ebbde430cdef786c8be671347893a857bdb657a75a93515",
+      "bytes": 284888
+    },
+    "previews/L1/render-receipts.json": {
+      "sha256": "50bba777ee03b5975803c8dab1fbe38195fe8a2f238b51f04544d972f31f7efc",
+      "bytes": 5497
+    },
+    "previews/L1/L1-heavy.png": {
+      "sha256": "37b6e935ed04184b71bc70dd10ebb40345fcff8a9382c66d1d9fba0ccec7d664",
+      "bytes": 283070
+    },
+    "previews/L1/L1-head.png": {
+      "sha256": "ad6fd1d1241e0861d47b018ae70919e1037077e9fc11f05c8c09ac2c3bd89562",
+      "bytes": 294170
+    },
+    "previews/L1/L1-attack.png": {
+      "sha256": "8373982435503149ac02c78d3a4b63b79f0a2039bc0fa88db9095b66ab99f847",
+      "bytes": 279228
+    },
+    "previews/L1/L1-front.png": {
+      "sha256": "314063a16737b662050bf3438e33cb25aabb680f45a994c08057cefa8a22b7cd",
+      "bytes": 254388
+    },
+    "previews/L1/L1-right.png": {
+      "sha256": "677c60f9203e9e88c95280d6b9ac07b0efa6fce061911527ca99034ad1d9e99d",
+      "bytes": 279653
+    },
+    "models/pitborn-L1.glb.repair.json": {
+      "sha256": "53ec100ab0a23bfc626553f050cf373146cd8eebc59c4b5cfe3b7ff6f9e56174",
+      "bytes": 57
+    },
+    "models/pitborn-L1.glb.preservation.json": {
+      "sha256": "5190071b42d0acb40d1bcf596b29cfea6f2ede3eabf5b983db34511b0731421f",
+      "bytes": 431
+    }
+  }
+}

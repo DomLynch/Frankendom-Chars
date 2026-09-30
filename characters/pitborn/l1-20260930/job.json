@@ -1,0 +1,8 @@
+{
+  "job_id": "6abc9eb74c46ef19870348e4",
+  "input_revision": "0f6ddf3f396c98c4aacdcd47c6a1dbea4a2f08df",
+  "repo": "Domlynch/frankendom-pitborn-l1-20260930",
+  "flavor": "cpu-upgrade",
+  "timeout": "30m",
+  "cpu_max_usd": 0.015
+}

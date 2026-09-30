@@ -1,0 +1,17 @@
+{
+  "donor_bounds": [
+    [
+      -0.4233913719654083,
+      -0.13564492762088776,
+      -0.5002925992012024
+    ],
+    [
+      0.42355993390083313,
+      0.13231097161769867,
+      0.5004409551620483
+    ]
+  ],
+  "original_joints": 65,
+  "vertices": 90422,
+  "status": "unreviewed surface fit; packing and pose validation required"
+}

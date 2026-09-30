@@ -1,0 +1,19 @@
+{
+  "source": {
+    "errors": 86,
+    "warnings": 26,
+    "errorCodes": {
+      "MESH_PRIMITIVE_INDEXED_SEMANTIC_CONTINUITY": 1,
+      "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION": 85
+    }
+  },
+  "candidate": {
+    "errors": 86,
+    "warnings": 23,
+    "errorCodes": {
+      "MESH_PRIMITIVE_INDEXED_SEMANTIC_CONTINUITY": 1,
+      "ACCESSOR_ANIMATION_SAMPLER_OUTPUT_NON_NORMALIZED_QUATERNION": 85
+    }
+  },
+  "newErrors": {}
+}
